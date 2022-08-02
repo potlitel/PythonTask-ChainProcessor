@@ -22,30 +22,10 @@ def GenerateRandomAlphabeticalString():
     cutted_str = str1[:int(utils.initValues["maxChainLenght"])]
     print(cutted_str)
     #call this fucntion to append str text
-    saveChainToFile(cutted_str)
+    utils.saveChainToFile(cutted_str)
     
-def writeChain(chain):
-    """
-    This function open file in append mode and write new content
-    """
-    try:
-        with open(utils.initValues["fileName"], 'a') as f:
-            f.write(chain + '\n')
-    except IOError:
-        f.close()
+
     
-def saveChainToFile(chain):
-    """
-    This function greets to the person passed in as a parameter
-    """
-    # verify if chains.txt exist, in positive case, we proced to deleted
-    if utils.file_exists(utils.initValues["fileName"]):
-        print(f'The file exists')
-        #os.remove("chains.txt")
-        writeChain(chain)
-    else:
-        #open file in append mode and write new content
-        writeChain(chain)
        
 def GenerateCharacterStringIntoFile(totalChains):
     """

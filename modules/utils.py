@@ -19,3 +19,27 @@ else:
     #Write the above sections to config.ini file
     with open('config.ini', 'w') as conf:
         config_object.write(conf)
+        
+        
+def writeChain(chain):
+    """
+    This function open file in append mode and write new content
+    """
+    try:
+        with open(initValues["fileName"], 'a') as f:
+            f.write(chain + '\n')
+    except IOError:
+        f.close()
+        
+def saveChainToFile(chain):
+    """
+    This function greets to the person passed in as a parameter
+    """
+    # verify if chains.txt exist, in positive case, we proced to deleted
+    if file_exists(initValues["fileName"]):
+        print(f'The file exists')
+        #os.remove("chains.txt")
+        writeChain(chain)
+    else:
+        #open file in append mode and write new content
+        writeChain(chain)
