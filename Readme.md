@@ -14,7 +14,8 @@ In case you don't have any version of python installed, use the package manager 
 ```bash
 pip install python3
 ```
-
+**_NOTE:_**  ChainProcessor.py has been successfully tested in an environment with Python version 3.10.2
+.
 ## Usage
 
 ```python
