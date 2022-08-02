@@ -37,9 +37,11 @@ def GenerateRandomAlphabeticalString():
         str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
         if i == random.randint(1,lenght-1): #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
             str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria entre 3 y 5 caracteres
-    print(str1)
+    #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
+    cutted_str = str1[:int(initValues["maxChainLenght"])]
+    print(cutted_str)
     #call this fucntion to append str text
-    saveChainToFile(str1)
+    saveChainToFile(cutted_str)
     
 def writeChain(chain):
     """
