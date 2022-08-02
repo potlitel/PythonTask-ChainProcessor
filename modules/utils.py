@@ -15,6 +15,8 @@ else:
     config_object["AppConfig"] = {
     "fileName": "chains.txt",
     "numberOfChains": "500",
+    "ip_server" : "127.0.0.1",
+    "port_server" : "8085"
     }
     #Write the above sections to config.ini file
     with open('config.ini', 'w') as conf:
@@ -43,3 +45,6 @@ def saveChainToFile(chain):
     else:
         #open file in append mode and write new content
         writeChain(chain)
+
+def SendChainsViaSocket(content,ip_server,port_server):
+    print(print("Sending content to server {}".format(ip_server)))
