@@ -13,7 +13,6 @@ def GenerateRandomAlphabeticalString():
     """
     str1 = ""
     lenght = random.randint(int(utils.initValues["minChainLenght"]),int(utils.initValues["maxChainLenght"])) #longitug de la cadena a generar varía aleatoriamente entre 50 y 100 caracteres
-    #os.remove("chains.txt")
     for i in range(lenght):
         str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
         if i == random.randint(1,lenght-1): #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
@@ -23,9 +22,6 @@ def GenerateRandomAlphabeticalString():
     print(cutted_str)
     #call this fucntion to append str text
     utils.saveChainToFile(cutted_str)
-    
-
-    
        
 def GenerateCharacterStringIntoFile(totalChains):
     """
