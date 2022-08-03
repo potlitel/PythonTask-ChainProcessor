@@ -1,6 +1,12 @@
+import itertools
 from os.path import exists as file_exists
 from configparser import ConfigParser
 import socket, logging
+
+from sys import stdout as terminal
+from time import sleep
+from itertools import cycle
+from threading import Thread
 
 #Get the configparser object
 config_object = ConfigParser()
@@ -53,7 +59,7 @@ def saveChainToFile(chain):
         writeChain(chain)
     else:
         #open file in append mode and write new content
-        writeChain(chain)
+        writeChain(chain)        
 
 def SendChainsViaSocket(content):
     #line to create the client socket
@@ -82,5 +88,5 @@ def check_tcp_socket(host, port, s_timeout=2):
         return True
     except (socket.timeout, socket.error):
         print("socket NOT available")
-        logging.exception("socket NOT available!")
+        #logging.exception("socket NOT available!")
         return False 

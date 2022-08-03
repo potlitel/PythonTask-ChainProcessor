@@ -39,6 +39,8 @@ def GenerateCharacterStringIntoFile(totalChains):
     socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
     if socket_available:
         utils.SendChainsViaSocket('content sending from client')
+    else:
+        utils.logging.exception("socket NOT available!")
         
 #if file_exists("config.ini"):
 GenerateCharacterStringIntoFile(int(utils.initValues["numberOfChains"]))        
