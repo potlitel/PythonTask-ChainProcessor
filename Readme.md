@@ -59,6 +59,14 @@ Traceback (most recent call last):
     sock.bind(server_address)
 OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
 ```
+**_NOTE:_**  In case of specifying in the configuration file a port that is in use (port_server), we should obtain an error similar to the following:
+```python
+python ProcessingServer.py
+Traceback (most recent call last):
+  File "G:\path\to\project_folder\ProcessingServer.py", line 11, in <module>
+    sock.bind(server_address)
+OSError: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
+```
 
 ## Usage
 

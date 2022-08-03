@@ -13,7 +13,7 @@ sock.bind(server_address)
 sock.listen(1)
 while True:
     # Wait for a connection
-    print('waiting for a connection')
+    print('Waiting for character strings to be processed sent by the client')
     connection, client_address = sock.accept()
     try:
         print('connection from', client_address)
