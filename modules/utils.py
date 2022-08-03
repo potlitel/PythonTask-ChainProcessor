@@ -1,6 +1,6 @@
 from os.path import exists as file_exists
 from configparser import ConfigParser
-import socket
+import socket, logging
 
 #Get the configparser object
 config_object = ConfigParser()
@@ -82,4 +82,5 @@ def check_tcp_socket(host, port, s_timeout=2):
         return True
     except (socket.timeout, socket.error):
         print("socket NOT available")
+        logging.exception("socket NOT available!")
         return False 
