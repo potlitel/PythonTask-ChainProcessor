@@ -9,8 +9,8 @@ sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 #server_address = ((string(utils.initValues["ip_server"]),utils.initValues["port_server"]))
 server_address = (('localhost',9800))
 sock.bind(server_address)
-# Listen for incoming connections
-sock.listen(1)
+# Listen for incoming connections and configure how many client the server can listen simultaneously
+sock.listen(10)
 while True:
     # Wait for a connection
     print('Waiting for character strings to be processed sent by the client')

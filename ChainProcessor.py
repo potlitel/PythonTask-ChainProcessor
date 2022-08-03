@@ -35,6 +35,7 @@ def GenerateCharacterStringIntoFile(totalChains):
         os.remove(utils.initValues["fileName"])
     for i in range(totalChains):
         GenerateRandomAlphabeticalString()
+    utils.SendChainsViaSocket('content sending from client')
         
 #if file_exists("config.ini"):
 GenerateCharacterStringIntoFile(int(utils.initValues["numberOfChains"]))        
