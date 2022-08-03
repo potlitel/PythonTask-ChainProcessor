@@ -11,7 +11,7 @@ if file_exists("config.ini"):
    config_object.read("config.ini")
    #Get the password
    initValues = config_object["AppConfig"]
-   print("File name es {}".format(initValues["fileName"]))
+   #print("File name es {}".format(initValues["fileName"]))
 else:
     config_object["AppConfig"] = {
     "fileName": "chains.txt",

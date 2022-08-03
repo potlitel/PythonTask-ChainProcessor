@@ -50,6 +50,15 @@ config.ini:
     ip_server = 127.0.0.1
     # Value to indicate the port to communicate with server via socket, specify a value above 1024
     port_server = 8085
+    
+**_NOTE:_**  In case of specifying in the configuration file a port that is in use (port_server), we should obtain an error similar to the following:
+```python
+python .\ProcessingServer.py
+Traceback (most recent call last):
+  File "G:\path\to\project_folder\ProcessingServer.py", line 11, in <module>
+    sock.bind(server_address)
+OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
+```
 
 ## Usage
 
