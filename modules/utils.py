@@ -48,7 +48,7 @@ def saveChainToFile(chain):
     """
     # verify if chains.txt exist, in positive case, we proced to deleted
     if file_exists(initValues["fileName"]):
-        print(f'The file exists')
+        #print(f'The file exists')
         #os.remove("chains.txt")
         writeChain(chain)
     else:
@@ -60,7 +60,7 @@ def SendChainsViaSocket(content):
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #Connect to the server socket by invoking the above client socket object’s
     #client_socket.connect((initValues["ip_server"], initValues["port_server"]))
-    client_socket.connect(('localhost', 9800))
+    client_socket.connect(('localhost', int(initValues["port_server"])))
     #send text data to the server socket
     client_socket.sendall(content.encode('utf-8'))
     #read the text that the server socket sends back.

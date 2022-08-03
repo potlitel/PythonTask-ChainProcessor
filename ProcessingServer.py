@@ -7,7 +7,7 @@ from modules import utils
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 # Bind the socket to the port
 #server_address = ((string(utils.initValues["ip_server"]),utils.initValues["port_server"]))
-server_address = (('localhost',9800))
+server_address = (('localhost',int(utils.initValues["port_server"])))
 sock.bind(server_address)
 # Listen for incoming connections and configure how many client the server can listen simultaneously
 sock.listen(10)
