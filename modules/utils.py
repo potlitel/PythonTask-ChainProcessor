@@ -16,6 +16,8 @@ else:
     config_object["AppConfig"] = {
     "fileName": "chains.txt",
     "numberOfChains": "500",
+    "minChainLenght" : "10",
+    "maxChainLenght" : "45",
     "ip_server" : "127.0.0.1",
     "port_server" : "8085"
     }
