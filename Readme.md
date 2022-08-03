@@ -14,8 +14,7 @@ The project has the following folder structure
     │   ├── utils.py
     ├── ChainProcessor.py
     ├── ProcessingServer.py
-    │   config.ini
-    └── partials/template
+    └── config.ini
 ```
 
 ## Installation
