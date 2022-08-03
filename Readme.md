@@ -19,7 +19,7 @@ The project has the following folder structure
 ```
 
 ## Installation
-Before using ChainProcessor.py we must make sure that we have some version of python installed on our workstation, for this we execute the following command:
+Before using ChainProcessor.py we must be sure that we have some version of python installed on our workstation, for this we execute the following command:
 
 ```bash
 python --version
