@@ -13,8 +13,9 @@ The project has the following folder structure
     │   ├── __init__.py
     │   ├── utils.py
     ├── ChainProcessor.py
+    ├── config.ini
     ├── ProcessingServer.py
-    └── config.ini
+    └── Readme.md
 ```
 
 ## Installation
