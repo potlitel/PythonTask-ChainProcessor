@@ -71,3 +71,15 @@ def SendChainsViaSocket(content):
     #close the socket connection
     client_socket.close()
     print(print("Sending content to server {}".format(initValues["ip_server"])))
+    
+def check_tcp_socket(host, port, s_timeout=2):
+    try:
+        tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        tcp_socket.settimeout(s_timeout)
+        tcp_socket.connect((host, port))
+        tcp_socket.close()
+        print("socket available")
+        return True
+    except (socket.timeout, socket.error):
+        print("socket NOT available")
+        return False 
