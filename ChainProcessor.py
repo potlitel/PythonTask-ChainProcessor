@@ -22,6 +22,7 @@ def GenerateRandomAlphabeticalString():
     cutted_str = str1[:int(utils.initValues["maxChainLenght"])]
     #print(cutted_str) print current chain
     my_input.append(cutted_str)
+    #print(my_input)
     #call this fucntion to append str text
     utils.saveChainToFile(cutted_str)
        
