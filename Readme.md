@@ -3,6 +3,21 @@
 
 ChainProcessor is a software that calculates the weighting of the chains obtained in a file (chains.txt), taking into account the following previously defined rules:
 
+## Project structure
+
+The project has the following folder structure
+```bash
+├── PythonTask-ChainProcessor
+    ├── logs
+    ├── modules
+    │   ├── __init__.py
+    │   ├── utils.py
+    ├── ChainProcessor.py
+    ├── ProcessingServer.py
+    │   config.ini
+    └── partials/template
+```
+
 ## Installation
 Before using ChainProcessor.py we must make sure that we have some version of python installed on our workstation, for this we execute the following command:
 
@@ -16,19 +31,38 @@ pip install python3
 ```
 **_NOTE:_**  ChainProcessor.py has been successfully tested in an environment with Python version 3.10.2
 .
+## Configure config.ini file
+
+The config.ini file is located in the root folder of the application, open this file and specify the following execution parameters:
+
+config.ini:
+
+    [AppConfig]
+    # Value to indicate the name of the exported container file of the generated strings
+    filename = chains.txt
+    # value to indicate total character string to generate
+    numberofchains = 500
+    # value to indicate minimum length value in each generated string
+    minChainLenght = 10
+    # value to indicate maximum length value in each generated string
+    maxChainLenght = 45
+    # Value to indicate the server name to communicate with server via socket
+    ip_server = 127.0.0.1
+    # Value to indicate the port to communicate with server via socket, specify a value above 1024
+    port_server = 8085
+
 ## Usage
 
+The client and server must be running in separate terminal windows, so they can communicate with each other. The server program needs to be started first followed by the client program.
+1. Run the server program using the following command:
 ```python
-import foobar
+python ProcessingServer.py
+```
+So our python socket server is running on specific port and it will wait for client request.
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+2. Run the client program using the following command:
+```python
+python ChainProcessor.py
 ```
 
 ## Contributing
