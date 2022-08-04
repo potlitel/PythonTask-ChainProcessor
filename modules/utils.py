@@ -94,11 +94,11 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        print("socket available")
+        print("Socket available at {}:{} to sending and processing this info".format(int(initValues["ip_server"]), int(initValues["port_server"])))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
-        print("socket NOT available")
+        print("Socket not available to sending and processing this info")
         time.sleep(2) # Sleep for 2 seconds
         #logging.exception("socket NOT available!")
         return False 

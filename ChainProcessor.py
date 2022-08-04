@@ -4,7 +4,7 @@ import os
 
 from modules import utils
     
-print("\nGenerate a random alphabetical string of a fixed length:")
+print("\nGenerating a total of {} character strings".format(int(utils.initValues["numberofchains"])))
 
 
 def GenerateRandomAlphabeticalString():
@@ -38,9 +38,12 @@ def GenerateCharacterStringIntoFile(totalChains):
     #verify if socket is available
     socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
     if socket_available:
-        utils.SendChainsViaSocket('content sending from client')
+        utils.SendChainsViaSocket('Content sending from client')
     else:
-        utils.logging.exception("socket NOT available!")
+        #utils.logging.exception("Socket not available to sending and processing this info")
+        utils.time.sleep(2) # Sleep for 2 seconds
+        print("Launch ProcessingServer.py (Server side app) and try again.")
+        utils.time.sleep(2) # Sleep for 2 seconds
         
 #if file_exists("config.ini"):
 GenerateCharacterStringIntoFile(int(utils.initValues["numberOfChains"]))        
