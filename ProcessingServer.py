@@ -3,7 +3,7 @@ import string
 import sys
 from modules import utils
 
-def ReceivedChains():
+def ReceivedChainsAndSendResponse():
     # Create a TCP/IP socket
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     # Bind the socket to the port
@@ -32,4 +32,12 @@ def ReceivedChains():
             # Clean up the connection
             connection.close()
 
-ReceivedChains()
+
+
+if utils.file_exists("logssss"):
+    ReceivedChainsAndSendResponse()
+else:
+    print(False)
+    #create folder logs
+    #create ini file
+    ReceivedChainsAndSendResponse()

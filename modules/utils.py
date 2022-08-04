@@ -3,6 +3,25 @@ from os.path import exists as file_exists
 from configparser import ConfigParser
 import socket, logging, time
 
+def createConfigFile():
+    config_object["AppConfig"] = {
+    "# Value to indicate the name of the exported container file of the generated strings\n"
+    "filename": "chains.txt",
+    "# value to indicate total character string to generate\n"
+    "numberofchains": "500",
+    "# value to indicate minimum length value in each generated string\n"
+    "minchainlenght" : "10",
+    "# value to indicate maximum length value in each generated string\n"
+    "maxchainlenght" : "45",
+    "# Value to indicate the server name to communicate with server via socket\n"
+    "ip_server" : "127.0.0.1",
+    "# Value to indicate the port to communicate with server via socket, specify a value above 1024\n"
+    "port_server" : "8085"
+    }
+    #Write the above sections to config.ini file
+    with open('config.ini', 'w') as conf:
+        config_object.write(conf)
+
 #Get the configparser object
 config_object = ConfigParser()
 initValues = ""
@@ -14,31 +33,14 @@ if file_exists("config.ini"):
    initValues = config_object["AppConfig"]
    #print("File name es {}".format(initValues["fileName"]))
 else:
-    config_object["AppConfig"] = {
-    "# Value to indicate the name of the exported container file of the generated strings"
-    "fileName": "chains.txt",
-    "# value to indicate total character string to generate"
-    "numberOfChains": "500",
-    "# value to indicate minimum length value in each generated string"
-    "minChainLenght" : "10",
-    "# value to indicate maximum length value in each generated string"
-    "maxChainLenght" : "45",
-    "# Value to indicate the server name to communicate with server via socket"
-    "ip_server" : "127.0.0.1",
-    "# Value to indicate the port to communicate with server via socket, specify a value above 1024"
-    "port_server" : "8085"
-    }
-    #Write the above sections to config.ini file
-    with open('config.ini', 'w') as conf:
-        config_object.write(conf)
-        
-        
+    createConfigFile()
+                  
 def writeChain(chain):
     """
     This function open file in append mode and write new content
     """
     try:
-        with open(initValues["fileName"], 'a') as f:
+        with open(initValues["filename"], 'a') as f:
             f.write(chain + '\n')
     except IOError:
         f.close()
@@ -48,7 +50,7 @@ def saveChainToFile(chain):
     This function greets to the person passed in as a parameter
     """
     # verify if chains.txt exist, in positive case, we proced to deleted
-    if file_exists(initValues["fileName"]):
+    if file_exists(initValues["filename"]):
         #print(f'The file exists')
         #os.remove("chains.txt")
         writeChain(chain)
