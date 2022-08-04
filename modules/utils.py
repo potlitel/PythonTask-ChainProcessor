@@ -69,14 +69,22 @@ def SendChainsViaSocket(content):
     client_socket.connect(('localhost', int(initValues["port_server"])))
     #send text data to the server socket
     client_socket.sendall(content.encode('utf-8'))
+    print(print("Sending content to server: {}".format(initValues["ip_server"])))
     #read the text that the server socket sends back.
-    data_tmp = client_socket.recv(1024)
+    #data_tmp = client_socket.recv(1024)
     #The received data is also a bytes object, you need to convert it to a text string by invoking
     # the bytes object’s function decode(‘utf-8’).
-    str_tmp = data_tmp.decode('utf-8')
+    #str_tmp = data_tmp.decode('utf-8')
+    # Look for the response
+    amount_received = 0
+    amount_expected = len(content)
+
+    while amount_received < amount_expected:
+        data = client_socket.recv(1024)
+        amount_received += len(data)
+        print('Received from server {!r}'.format(data))
     #close the socket connection
     client_socket.close()
-    print(print("Sending content to server {}".format(initValues["ip_server"])))
     
 def check_tcp_socket(host, port, s_timeout=2):
     try:
