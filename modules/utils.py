@@ -65,7 +65,7 @@ def SendChainsViaSocket(content):
     #send text data to the server socket
     try:
         client_socket.sendall(content.encode('utf-8'))
-        print(print("Sending content to server: {}".format(initValues["ip_server"])))
+        print(print("Sending content to server"))
         time.sleep(2) # Sleep for 2 seconds
         #read the text that the server socket sends back.
         #data_tmp = client_socket.recv(1024)
@@ -94,7 +94,7 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        print("Socket available at {}:{} to sending and processing this info".format(int(initValues["ip_server"]), int(initValues["port_server"])))
+        print("Socket available at {}:{} to sending and processing this info".format(initValues["ip_server"], initValues["port_server"]))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
