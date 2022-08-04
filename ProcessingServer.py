@@ -1,3 +1,4 @@
+import os
 import socket
 import string
 import sys
@@ -33,11 +34,14 @@ def ReceivedChainsAndSendResponse():
             connection.close()
 
 
+def Main():
+    if utils.file_exists("logs"):
+        ReceivedChainsAndSendResponse()
+    else:
+        print(False)
+        #create folder logs
+        os.mkdir("logs")
+        #create ini file
+        ReceivedChainsAndSendResponse()
 
-if utils.file_exists("logssss"):
-    ReceivedChainsAndSendResponse()
-else:
-    print(False)
-    #create folder logs
-    #create ini file
-    ReceivedChainsAndSendResponse()
+Main()
