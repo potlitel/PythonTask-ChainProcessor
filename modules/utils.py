@@ -1,12 +1,7 @@
 import itertools
 from os.path import exists as file_exists
 from configparser import ConfigParser
-import socket, logging
-
-from sys import stdout as terminal
-from time import sleep
-from itertools import cycle
-from threading import Thread
+import socket, logging, time
 
 #Get the configparser object
 config_object = ConfigParser()
@@ -68,23 +63,30 @@ def SendChainsViaSocket(content):
     #client_socket.connect((initValues["ip_server"], initValues["port_server"]))
     client_socket.connect(('localhost', int(initValues["port_server"])))
     #send text data to the server socket
-    client_socket.sendall(content.encode('utf-8'))
-    print(print("Sending content to server: {}".format(initValues["ip_server"])))
-    #read the text that the server socket sends back.
-    #data_tmp = client_socket.recv(1024)
-    #The received data is also a bytes object, you need to convert it to a text string by invoking
-    # the bytes object’s function decode(‘utf-8’).
-    #str_tmp = data_tmp.decode('utf-8')
-    # Look for the response
-    amount_received = 0
-    amount_expected = len(content)
+    try:
+        client_socket.sendall(content.encode('utf-8'))
+        print(print("Sending content to server: {}".format(initValues["ip_server"])))
+        time.sleep(2) # Sleep for 2 seconds
+        #read the text that the server socket sends back.
+        #data_tmp = client_socket.recv(1024)
+        #The received data is also a bytes object, you need to convert it to a text string by invoking
+        # the bytes object’s function decode(‘utf-8’).
+        #str_tmp = data_tmp.decode('utf-8')
+        # Look for the response
+        amount_received = 0
+        amount_expected = len(content)
 
-    while amount_received < amount_expected:
-        data = client_socket.recv(1024)
-        amount_received += len(data)
-        print('Received from server {!r}'.format(data))
-    #close the socket connection
-    client_socket.close()
+        while amount_received < amount_expected:
+            data = client_socket.recv(1024)
+            amount_received += len(data)
+            print('Received from server {!r}'.format(data))
+            time.sleep(2) # Sleep for 2 seconds
+    finally:
+        print('closing socket')
+        time.sleep(2) # Sleep for 2 seconds
+        #close the socket connection
+        client_socket.close()
+    
     
 def check_tcp_socket(host, port, s_timeout=2):
     try:
@@ -93,8 +95,10 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.connect((host, port))
         tcp_socket.close()
         print("socket available")
+        time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
         print("socket NOT available")
+        time.sleep(2) # Sleep for 2 seconds
         #logging.exception("socket NOT available!")
         return False 
