@@ -84,6 +84,7 @@ def saveChainToFile(chain):
     writeChainToFile(chain)
 
 def SendChainsViaSocket(content):
+    FORMAT = "utf-8"
     #line to create the client socket
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #Connect to the server socket by invoking the above client socket object’s
@@ -91,7 +92,8 @@ def SendChainsViaSocket(content):
     client_socket.connect(('localhost', int(initValues["port_server"])))
     #send text data to the server socket
     try:
-        client_socket.sendall(content.encode('utf-8'))
+        #client_socket.sendall(content.encode('utf-8'))
+        client_socket.send(content.encode(FORMAT))
         print("Sending content to server")
         time.sleep(2) # Sleep for 2 seconds
         #read the text that the server socket sends back.

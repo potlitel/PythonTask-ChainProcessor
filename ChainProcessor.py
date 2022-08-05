@@ -30,8 +30,11 @@ def SendChainsToSocketServer(chaintToProcess):
     #verify if socket is available
     socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
     if socket_available:
-        utils.SendChainsViaSocket('Content sending from client')
-        #utils.SendChainsViaSocket(chaintToProcess)
+        #utils.SendChainsViaSocket('Content sending from client')
+        """ Opening and reading the file data. """
+        file = open("chains.txt", "r")
+        data = file.read()
+        utils.SendChainsViaSocket(data)
     else:
         #utils.logging.exception("Socket not available to sending and processing this info")
         utils.time.sleep(2) # Sleep for 2 seconds
