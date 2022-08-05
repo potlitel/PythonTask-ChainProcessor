@@ -42,6 +42,10 @@ else:
     createConfigFile()
                   
 def ReplaceLastCharacterIfIsEmptySpace(str):
+    """
+    This function checks if the last character of a string is a blank character, 
+    if so it replaces it with another character
+    """
     if str[-1] == ' ':
        print("Last character is ' ' ")
        # Replace last character of string with 'X'
