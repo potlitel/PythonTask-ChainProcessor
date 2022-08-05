@@ -12,7 +12,7 @@ def ReceivedChainsAndSendResponse():
     server_address = (('localhost',int(utils.initValues["port_server"])))
     sock.bind(server_address)
     # Listen for incoming connections and configure how many client the server can listen simultaneously
-    sock.listen(10)
+    sock.listen(1)
     while True:
         # Wait for a connection
         print('Waiting for character strings to be processed sent by the client')
@@ -34,14 +34,30 @@ def ReceivedChainsAndSendResponse():
             connection.close()
 
 
+#def Main():
+#    if utils.file_exists("logs"):
+#        ReceivedChainsAndSendResponse()
+#    else:
+#        print(False)
+#        #create folder logs
+#        os.mkdir("logs")
+#        #create ini file
+#        ReceivedChainsAndSendResponse()
+
 def Main():
-    if utils.file_exists("logs"):
-        ReceivedChainsAndSendResponse()
-    else:
+    """
+    Principal function. Verifies the existence of the configuration file and logs folder, otherwise it proceeds to create them,
+    then the socket server starts the listening process
+    """
+    if not utils.file_exists("logs"):       
         print(False)
         #create folder logs
         os.mkdir("logs")
         #create ini file
-        ReceivedChainsAndSendResponse()
+    if not utils.file_exists("config.ini"):
+        utils.time.sleep(2)  # Sleep for 2 seconds
+        utils.createConfigFile()
+        utils.time.sleep(2)  # Sleep for 2 seconds
+    ReceivedChainsAndSendResponse()
 
 Main()

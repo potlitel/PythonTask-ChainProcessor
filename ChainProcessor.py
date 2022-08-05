@@ -43,15 +43,26 @@ def GenerateCharacterStringIntoFile(totalChains):
         print("Launch ProcessingServer.py (Server side app) and try again.")
         utils.time.sleep(2) # Sleep for 2 seconds
 
-def Main():      
-    if utils.file_exists("config.ini"):
-        GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
-    else:
-        utils.time.sleep(2) # Sleep for 2 seconds
+#def Main():      
+#    if utils.file_exists("config.ini"):
+#        GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
+#    else:
+#        utils.time.sleep(2) # Sleep for 2 seconds
+#        utils.createConfigFile()
+#        utils.time.sleep(2) # Sleep for 2 seconds
+#        GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
+        
+def Main():
+    """
+    Main function. Verifies the existence of the configuration file, if not, it proceeds to create it, 
+    then the character string generation process begins
+    """
+    if not utils.file_exists("config.ini"):
+        utils.time.sleep(2)  # Sleep for 2 seconds
         utils.createConfigFile()
-        utils.time.sleep(2) # Sleep for 2 seconds
-        GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
+        utils.time.sleep(2)  # Sleep for 2 seconds
+    numberofchains = int(utils.initValues["numberofchains"])
+    GenerateCharacterStringIntoFile(numberofchains)
 
 Main()
-#GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
 
