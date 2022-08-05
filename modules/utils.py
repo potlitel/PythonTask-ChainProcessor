@@ -46,10 +46,10 @@ else:
 def ReplaceLastCharacterIfIsEmptySpace(str):
     """
     This function checks if the last character of a string (str parameter) is a blank character, 
-    if so it replaces it with another character
+    if so it replaces it with another character. Used also 'endswith' method.
     """
     if str[-1] == ' ':
-       print("Last character is ' ' ")
+       #print("Last character is ' ' ")
        character = random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
        # Replace last character of string with 'character'
        str = re.sub(r".$", character, str)
@@ -92,7 +92,7 @@ def SendChainsViaSocket(content):
     #send text data to the server socket
     try:
         client_socket.sendall(content.encode('utf-8'))
-        print(print("Sending content to server"))
+        print("Sending content to server")
         time.sleep(2) # Sleep for 2 seconds
         #read the text that the server socket sends back.
         #data_tmp = client_socket.recv(1024)

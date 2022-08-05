@@ -17,19 +17,13 @@ def GenerateRandomAlphabeticalString():
         if i == random.randint(1,lenght-1): #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
             str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
-    cutted_str = str1[:int(utils.initValues["maxchainlenght"])]
-    #emove trailing spaces from the end of the cutted_str
-    #cutted_str.rstrip()
-    
-    # Check if last character is ' ', used also 'endswith' method
-    #if cutted_str[-1] == ' ':
-    #    print("Last character is ' ' ")
+    cutted_str = str1[:int(utils.initValues["maxchainlenght"])]    
     cutted_str = utils.ReplaceLastCharacterIfIsEmptySpace(cutted_str)
-    
+    # add cutted_str to arrary that contains the chains to be processed
     ChainsToProcessOnServer.append(cutted_str)
     #call this fucntion to append str text
     utils.writeChainToFile(cutted_str)
-    print(ChainsToProcessOnServer)
+    #print(ChainsToProcessOnServer)
     return ChainsToProcessOnServer
 
 def SendChainsToSocketServer(chaintToProcess):
