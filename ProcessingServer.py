@@ -16,7 +16,7 @@ def ReceivedChainsAndSendResponse():
     server_address = (('localhost',int(utils.initValues["port_server"])))
     sock.bind(server_address)
     # Listen for incoming connections and configure how many client the server can listen simultaneously
-    sock.listen(utils.initValues["incoming_connections"])
+    sock.listen(int(utils.initValues["incoming_connections"]))
     while True:
         # Wait for a connection
         print('Waiting for character strings to be processed sent by the client')

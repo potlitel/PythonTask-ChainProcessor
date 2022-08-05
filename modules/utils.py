@@ -1,9 +1,13 @@
 import itertools
+import os
 from os.path import exists as file_exists
 from configparser import ConfigParser
 import socket, logging, time
 
 def createConfigFile():
+    """
+    This function is responsible for creating the configuration file, if it does not exist
+    """
     config_object["AppConfig"] = {
     "# Value to indicate the name of the exported container file of the generated strings\n"
     "filename": "chains.txt",
@@ -39,7 +43,7 @@ else:
                   
 def writeChain(chain):
     """
-    This function open file in append mode and write new content
+    This function open file (chains.txt) in append mode and write new string character
     """
     try:
         with open(initValues["filename"], 'a') as f:
@@ -52,13 +56,16 @@ def saveChainToFile(chain):
     This function greets to the person passed in as a parameter
     """
     # verify if chains.txt exist, in positive case, we proced to deleted
-    if file_exists(initValues["filename"]):
+    #if file_exists(initValues["filename"]):
         #print(f'The file exists')
-        #os.remove("chains.txt")
-        writeChain(chain)
-    else:
+        #os.remove(initValues["filename"])
+        #writeChain(chain)
+    #else:
         #open file in append mode and write new content
-        writeChain(chain)        
+        #writeChain(chain)        
+    if file_exists(initValues["filename"]):
+        os.remove(initValues["filename"])
+    writeChain(chain)
 
 def SendChainsViaSocket(content):
     #line to create the client socket
