@@ -108,8 +108,8 @@ def SendChainsViaSocket(content):
         while amount_received < amount_expected:
             data = client_socket.recv(1024)
             amount_received += len(data)
-            print('Received from server {!r}'.format(data))
-            time.sleep(2) # Sleep for 2 seconds
+            #print('Received from server {!r}'.format(data))
+            #time.sleep(2) # Sleep for 2 seconds
     finally:
         print('closing socket')
         time.sleep(2) # Sleep for 2 seconds
