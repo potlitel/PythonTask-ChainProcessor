@@ -8,7 +8,7 @@ def GenerateRandomAlphabeticalString():
     """
     This function generate a random alphabetical string of a variable length
     """
-    my_input = []
+    ChainsToProcessOnServer = []
     str1 = ""
     lenght = random.randint(int(utils.initValues["minchainlenght"]),int(utils.initValues["maxchainlenght"])) #longitug de la cadena a generar varía aleatoriamente entre 50 y 100 caracteres
     for i in range(lenght):
@@ -17,11 +17,10 @@ def GenerateRandomAlphabeticalString():
             str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
     cutted_str = str1[:int(utils.initValues["maxchainlenght"])]
-    #print(cutted_str) print current chain
-    my_input.append(cutted_str)
-    #print(my_input)
+    ChainsToProcessOnServer.append(cutted_str)
     #call this fucntion to append str text
     utils.writeChainToFile(cutted_str)
+    return ChainsToProcessOnServer
        
 def GenerateCharacterStringIntoFile(totalChains):
     """
