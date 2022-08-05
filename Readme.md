@@ -43,13 +43,15 @@ config.ini:
     # value to indicate total character string to generate
     numberofchains = 500
     # value to indicate minimum length value in each generated string
-    minChainLenght = 10
+    minchainlenght = 10
     # value to indicate maximum length value in each generated string
-    maxChainLenght = 45
+    maxchainlenght = 45
     # Value to indicate the server name to communicate with server via socket
     ip_server = 127.0.0.1
     # Value to indicate the port to communicate with server via socket, specify a value above 1024
     port_server = 8085
+    # incoming connections that server can listen simultaneously
+    incoming_connections = 1
     
 **_NOTE:_**  In case of specifying in the configuration file a port that is in use (port_server), we should obtain an error similar to the following:
 ```python

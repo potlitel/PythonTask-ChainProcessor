@@ -5,6 +5,10 @@ import sys
 from modules import utils
 
 def ReceivedChainsAndSendResponse():
+    """
+    This function receives the character strings from the client, processes them 
+    and returns them as a response to the client.
+    """
     # Create a TCP/IP socket
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     # Bind the socket to the port
@@ -12,7 +16,7 @@ def ReceivedChainsAndSendResponse():
     server_address = (('localhost',int(utils.initValues["port_server"])))
     sock.bind(server_address)
     # Listen for incoming connections and configure how many client the server can listen simultaneously
-    sock.listen(1)
+    sock.listen(utils.initValues["incoming_connections"])
     while True:
         # Wait for a connection
         print('Waiting for character strings to be processed sent by the client')

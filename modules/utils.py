@@ -16,7 +16,9 @@ def createConfigFile():
     "# Value to indicate the server name to communicate with server via socket\n"
     "ip_server" : "127.0.0.1",
     "# Value to indicate the port to communicate with server via socket, specify a value above 1024\n"
-    "port_server" : "8085"
+    "port_server" : "8085",
+    "# incoming connections that server can listen simultaneously\n"
+    "incoming_connections" : "1"
     }
     #Write the above sections to config.ini file
     with open('config.ini', 'w') as conf:
