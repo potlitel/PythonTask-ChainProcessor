@@ -2,7 +2,9 @@ import itertools
 import os
 from os.path import exists as file_exists
 from configparser import ConfigParser
+import random
 import socket, logging, time, re
+import string
 
 def createConfigFile():
     """
@@ -43,13 +45,14 @@ else:
                   
 def ReplaceLastCharacterIfIsEmptySpace(str):
     """
-    This function checks if the last character of a string is a blank character, 
+    This function checks if the last character of a string (str parameter) is a blank character, 
     if so it replaces it with another character
     """
     if str[-1] == ' ':
        print("Last character is ' ' ")
-       # Replace last character of string with 'X'
-       str = re.sub(r".$", "X", str)
+       character = random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
+       # Replace last character of string with 'character'
+       str = re.sub(r".$", character, str)
     return str
     
 
