@@ -41,7 +41,7 @@ if file_exists("config.ini"):
 else:
     createConfigFile()
                   
-def writeChain(chain):
+def writeChainToFile(chain):
     """
     This function open file (chains.txt) in append mode and write new string character
     """
@@ -63,9 +63,9 @@ def saveChainToFile(chain):
     #else:
         #open file in append mode and write new content
         #writeChain(chain)        
-    if file_exists(initValues["filename"]):
-        os.remove(initValues["filename"])
-    writeChain(chain)
+    #if file_exists(initValues["filename"]):
+    #    os.remove(initValues["filename"])
+    writeChainToFile(chain)
 
 def SendChainsViaSocket(content):
     #line to create the client socket

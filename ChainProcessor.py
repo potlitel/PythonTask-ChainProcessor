@@ -21,7 +21,7 @@ def GenerateRandomAlphabeticalString():
     my_input.append(cutted_str)
     #print(my_input)
     #call this fucntion to append str text
-    utils.saveChainToFile(cutted_str)
+    utils.writeChainToFile(cutted_str)
        
 def GenerateCharacterStringIntoFile(totalChains):
     """
