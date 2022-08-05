@@ -2,7 +2,7 @@ import itertools
 import os
 from os.path import exists as file_exists
 from configparser import ConfigParser
-import socket, logging, time
+import socket, logging, time, re
 
 def createConfigFile():
     """
@@ -41,6 +41,15 @@ if file_exists("config.ini"):
 else:
     createConfigFile()
                   
+def ReplaceLastCharacterIfIsEmptySpace(str):
+    if str[-1] == ' ':
+       print("Last character is ' ' ")
+       # Replace last character of string with 'X'
+       str = re.sub(r".$", "X", str)
+    return str
+    
+
+
 def writeChainToFile(chain):
     """
     This function open file (chains.txt) in append mode and write new string character

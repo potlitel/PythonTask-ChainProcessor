@@ -1,3 +1,4 @@
+from ctypes import util
 import random
 import string
 import os
@@ -17,10 +18,31 @@ def GenerateRandomAlphabeticalString():
             str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
     cutted_str = str1[:int(utils.initValues["maxchainlenght"])]
+    #emove trailing spaces from the end of the cutted_str
+    #cutted_str.rstrip()
+    
+    # Check if last character is ' ', used also 'endswith' method
+    #if cutted_str[-1] == ' ':
+    #    print("Last character is ' ' ")
+    cutted_str = utils.ReplaceLastCharacterIfIsEmptySpace(cutted_str)
+    
     ChainsToProcessOnServer.append(cutted_str)
     #call this fucntion to append str text
     utils.writeChainToFile(cutted_str)
+    print(ChainsToProcessOnServer)
     return ChainsToProcessOnServer
+
+def SendChainsToSocketServer(chaintToProcess):
+    #verify if socket is available
+    socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
+    if socket_available:
+        utils.SendChainsViaSocket('Content sending from client')
+        #utils.SendChainsViaSocket(chaintToProcess)
+    else:
+        #utils.logging.exception("Socket not available to sending and processing this info")
+        utils.time.sleep(2) # Sleep for 2 seconds
+        print("Launch ProcessingServer.py (Server side app) and try again.")
+        utils.time.sleep(2) # Sleep for 2 seconds
        
 def GenerateCharacterStringIntoFile(totalChains):
     """
@@ -31,16 +53,8 @@ def GenerateCharacterStringIntoFile(totalChains):
     if utils.file_exists(utils.initValues["filename"]):
         os.remove(utils.initValues["filename"])
     for i in range(totalChains):
-        GenerateRandomAlphabeticalString()
-    #verify if socket is available
-    socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
-    if socket_available:
-        utils.SendChainsViaSocket('Content sending from client')
-    else:
-        #utils.logging.exception("Socket not available to sending and processing this info")
-        utils.time.sleep(2) # Sleep for 2 seconds
-        print("Launch ProcessingServer.py (Server side app) and try again.")
-        utils.time.sleep(2) # Sleep for 2 seconds
+        chaintToProcess=GenerateRandomAlphabeticalString()
+    SendChainsToSocketServer(chaintToProcess)
 
 #def Main():      
 #    if utils.file_exists("config.ini"):
