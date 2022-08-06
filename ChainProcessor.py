@@ -14,8 +14,9 @@ def GenerateRandomAlphabeticalString():
     lenght = random.randint(int(utils.initValues["minchainlenght"]),int(utils.initValues["maxchainlenght"])) #longitug de la cadena a generar varía aleatoriamente entre 50 y 100 caracteres
     for i in range(lenght):
         str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
-        if i == random.randint(1,lenght-1): #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
-            str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
+        if i == random.randint(1,lenght-5) or i % 2 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
+            #str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
+            str1+=''.ljust(random.randint(3,5), " ") #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
     cutted_str = str1[:int(utils.initValues["maxchainlenght"])]    
     cutted_str = utils.ReplaceLastCharacterIfIsEmptySpace(cutted_str)
@@ -29,6 +30,8 @@ def GenerateRandomAlphabeticalString():
 def SendChainsToSocketServer(chaintToProcess):
     """
     This function is responsible for sending content to be processed on server
+    @params:
+        chaintToProcess   - Required  : strigns to process (String)
     """
     #verify if socket is available
     socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
@@ -47,6 +50,8 @@ def SendChainsToSocketServer(chaintToProcess):
 def GenerateCharacterStringIntoFile(totalChains):
     """
     This function greets to the person passed in as a parameter
+    @params:
+        totalChains   - Required  : total character strings to generate (String)
     """
     print("\nGenerating a total of {} character strings".format(int(utils.initValues["numberofchains"])))
     # verify if chains.txt exist, in positive case, we proced to deleted
