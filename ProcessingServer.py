@@ -43,7 +43,7 @@ def ReceivedChainsAndSendResponse():
                     intValues = []
                     #print(data1[1])
                     list_length = len(data1)
-                    for i in range(list_length):
+                    for i in range(list_length-1):
                         #convert every item in list to an integer, para poder enviarlo como respuesta al cliente
                         data1[i] = '{0} {1}'.format(data1[i], ' Processed by server')
                         #data1[i] = int('{0} {1}'.format(data1[i], ' two'))

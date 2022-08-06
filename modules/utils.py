@@ -2,6 +2,7 @@ import itertools
 import os
 from os.path import exists as file_exists
 from configparser import ConfigParser
+from pickletools import string1
 import random
 import socket, logging, time, re
 import string
@@ -75,7 +76,7 @@ def writeResponseFromServerToFile(response):
     """
     try:
         with open(initValues["filename_responseserver"], 'a') as f:
-            f.write(response + '\n')
+            f.write(response + "\n")
     except IOError:
         f.close()
         
@@ -122,11 +123,16 @@ def SendChainsViaSocket(content):
             amount_received += len(data)
             print('Received from server {!r}'.format(data))
             #create function
-            data1 = data.split('\n')
-            list_length = len(data1)
+            data1 = data.decode(FORMAT)
+            data2 = data1.split('|')
+            list_length = len(data2)
+            if file_exists(initValues["filename_responseserver"]):
+                os.remove(initValues["filename_responseserver"])
+            #convert every items to string
+            #test_list = list(map(string, data2))
             for i in range(list_length):
-                
-            print(data1)
+                writeResponseFromServerToFile(data2[i])
+            print(data2)
             #end create function
             #time.sleep(2) # Sleep for 2 seconds
     finally:
