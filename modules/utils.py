@@ -5,6 +5,9 @@ import random, socket, logging, time, re, sys, string, os
 def printWithDelay(firstString, seconds):
     """
     This function print firstString, wait n seconds and print lastString  
+    @params:
+        firstString   - Required  : value to display (String)
+        seconds       - Required  : delayed time in seconds to display other msg (Int)
     """
     print(firstString,end="",flush=True)
     sys.stdout.flush()
@@ -36,6 +39,8 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
 def DisplayPathToProcessingResultFile(fileNameResults):
     """
     This function is responsible display path to access to file that contains processing results
+    @params:
+        fileNameResults   - Required  : file name where the processing results will be stored (String)
     """
     ROOT_DIR = os.path.abspath(os.curdir)
     print('{0} {1} '.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
@@ -43,6 +48,8 @@ def DisplayPathToProcessingResultFile(fileNameResults):
 def PostProcessingTask(content):
     """
     This function is responsible for executing post processing tasks on client side
+    @params:
+        content   - Required  : content to process (String)
     """
     FORMAT = "utf-8"
     data1 = content.decode(FORMAT)
@@ -104,6 +111,8 @@ def ReplaceLastCharacterIfIsEmptySpace(str):
     """
     This function checks if the last character of a string (str parameter) is a blank character, 
     if so it replaces it with another character. Used also 'endswith' method.
+    @params:
+        str   - Required  : strigns to process (String)
     """
     if str[-1] == ' ':
        #print("Last character is ' ' ")
@@ -111,12 +120,12 @@ def ReplaceLastCharacterIfIsEmptySpace(str):
        # Replace last character of string with 'character'
        str = re.sub(r".$", character, str)
     return str
-    
-
 
 def writeChainToFile(chain):
     """
     This function open file (chains.txt) in append mode and write new string character
+    @params:
+        str   - Required  : strigns to process (String)
     """
     try:
         with open(initValues["filename"], 'a') as f:
@@ -127,6 +136,8 @@ def writeChainToFile(chain):
 def writeResponseFromServerToFile(response):
     """
     This function craete response file, opened it in append mode and write every response from server
+    @params:
+        response   - Required  : strigns to process (String)
     """
     try:
         with open(initValues["filename_responseserver"], 'a') as f:
@@ -143,6 +154,8 @@ def saveChainToFile(chain):
 def SendChainsViaSocket(content):
     """
     This function is responsible for establish connection to server
+    @params:
+        content   - Required  : content to process on the server side (String)
     """
     FORMAT = "utf-8"
     #line to create the client socket
@@ -173,6 +186,10 @@ def SendChainsViaSocket(content):
 def check_tcp_socket(host, port, s_timeout=2):
     """
     This function is verify if socket on server is enable
+    @params:
+        host        - Required  : server host to connect (String)
+        port        - Required  : listening port on server (String)
+        s_timeout   - Required  : delayed time in seconds (Int)
     """
     try:
         tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
