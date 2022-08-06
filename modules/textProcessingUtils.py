@@ -24,10 +24,25 @@ def IsSequenceRepeated(content,letter,maximum):
     """
     This function counts the number of repited letters in the string
     return: indice de la primera vez q aparece la secuencia. -1 si no aparece
-
     """
     normalized_content = content.lower()
     sequence = letter * maximum
     result = normalized_content.find(sequence)
    
+    return result
+
+def getChainWeighting(chain):
+    """
+    This function calculates the Weighting of the chain received via parameter
+    """
+    Weighting = ""
+    mcounter = {
+        'letters': 0,
+        'digits': 0,
+        'space': 0,
+        'other': 0
+    }   
+    if not True:
+       IsSequenceRepeated(chain,'a',2)  
+    result = StringCountElements(chain, mcounter)
     return result

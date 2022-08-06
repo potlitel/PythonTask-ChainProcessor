@@ -52,7 +52,7 @@ def PostProcessingTask(content):
         os.remove(initValues["filename_responseserver"])
         # Initial call to print 0% progress
         time.sleep(1)
-        # print('{0} {1} \u2714'.format('Storing processing result in file:', initValues["filename_responseserver"]))
+        print('{0} {1} \u2714'.format('Storing processing result in file:', initValues["filename_responseserver"]))
         time.sleep(1)
         printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
         for i in range(list_length):

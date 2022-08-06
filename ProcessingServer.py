@@ -2,7 +2,7 @@ import os
 import socket
 import string
 import sys
-from modules import utils
+from modules import utils, textProcessingUtils
 
 def ProcessStringsCharacters(content):
     """
@@ -12,7 +12,8 @@ def ProcessStringsCharacters(content):
     data = content.split('\n')
     list_length = len(data)
     for i in range(list_length-1):
-        data[i] = '{0} {1}'.format(data[i], ' Processed by server')
+        weighting_value = textProcessingUtils.getChainWeighting(data[i])
+        data[i] = '{0} {1} {2}'.format(data[i], 'Weighting value:',weighting_value)
     print(data)             
     #convert a list of strings to a bytearray
     a = '|'.join(data)
@@ -41,24 +42,8 @@ def ReceivedChainsAndSendResponse():
             print('connection from', client_address)
             # Receive the data in small chunks and retransmit it
             while True:
-                #data = connection.recv(10000024).decode(FORMAT)
                 data = connection.recv(10000024).decode(FORMAT)
-                #print('received {!r}'.format(data))
                 if data:
-                    #create a function                    
-                    # data1 = data.split('\n')
-                    # list_length = len(data1)
-                    # for i in range(list_length-1):
-                    #     #convert every item in list to an integer, para poder enviarlo como respuesta al cliente
-                    #     data1[i] = '{0} {1}'.format(data1[i], ' Processed by server')
-                    #     #data1[i] = int('{0} {1}'.format(data1[i], ' two'))
-                    # #print list of strings
-                    # print(data1)             
-                    # #convert a list of strings to a bytearray
-                    # a = '|'.join(data1)
-                    # test_array = bytearray(a.encode('utf-8'))
-                    # #end create a function
-                    #send back response to client
                     response = ProcessStringsCharacters(data)
                     connection.sendall(response)
                 else:
