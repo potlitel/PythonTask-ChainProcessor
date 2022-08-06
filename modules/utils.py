@@ -39,6 +39,27 @@ def DisplayPathToProcessingResultFile(fileNameResults):
     """
     ROOT_DIR = os.path.abspath(os.curdir)
     print('{0} {1} '.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
+    
+def PostProcessingTask(content):
+    """
+    This function is responsible for executing post processing tasks on client side
+    """
+    FORMAT = "utf-8"
+    data1 = content.decode(FORMAT)
+    data2 = data1.split('|')
+    list_length = len(data2)
+    if file_exists(initValues["filename_responseserver"]):
+        os.remove(initValues["filename_responseserver"])
+        # Initial call to print 0% progress
+        time.sleep(1)
+        # print('{0} {1} \u2714'.format('Storing processing result in file:', initValues["filename_responseserver"]))
+        time.sleep(1)
+        printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
+        for i in range(list_length):
+            writeResponseFromServerToFile(data2[i])
+            time.sleep(0.04)
+            # Update Progress Bar
+            printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
 
 def createConfigFile():
     """
@@ -127,43 +148,19 @@ def SendChainsViaSocket(content):
     #line to create the client socket
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #Connect to the server socket by invoking the above client socket object’s
-    #client_socket.connect((initValues["ip_server"], initValues["port_server"]))
     client_socket.connect(('localhost', int(initValues["port_server"])))
     #send text data to the server socket
     try:
         #client_socket.sendall(content.encode('utf-8'))
         client_socket.send(content.encode(FORMAT))
         printWithDelay("Sending content to server", 2)
-        #print("Sending content to server \u2714")
         time.sleep(1) # Sleep for 2 seconds
-        # Look for the response
-        amount_received = 0
-        amount_expected = len(content)
-
-        while amount_received < amount_expected:
-            data = client_socket.recv(10000024)
-            amount_received += len(data)
-            #print('Received from server {!r}'.format(data))
-            time.sleep(1)
-            #print("Receiving processing result from server \u2714")
-            printWithDelay("Receiving processing result from server", 2)
-            time.sleep(1)
-            #create function
-            data1 = data.decode(FORMAT)
-            data2 = data1.split('|')
-            list_length = len(data2)
-            if file_exists(initValues["filename_responseserver"]):
-                os.remove(initValues["filename_responseserver"])
-            # Initial call to print 0% progress
-            time.sleep(1)
-            print('{0} {1} \u2714'.format('Storing processing result in file:', initValues["filename_responseserver"]))
-            time.sleep(1)
-            printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
-            for i in range(list_length):
-                writeResponseFromServerToFile(data2[i])
-                time.sleep(0.04)
-                # Update Progress Bar
-                printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
+        # receiving the response
+        data = client_socket.recv(10000024)
+        time.sleep(1)
+        printWithDelay("Receiving processing result from server", 2)
+        time.sleep(1)
+        PostProcessingTask(data)
     finally:
         printWithDelay('Closing connection with server', 2)
         time.sleep(1) # Sleep for 2 seconds
