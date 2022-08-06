@@ -27,6 +27,9 @@ def GenerateRandomAlphabeticalString():
     return ChainsToProcessOnServer
 
 def SendChainsToSocketServer(chaintToProcess):
+    """
+    This function is responsible for sending content to be processed on server
+    """
     #verify if socket is available
     socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
     if socket_available:
@@ -52,15 +55,6 @@ def GenerateCharacterStringIntoFile(totalChains):
     for i in range(totalChains):
         chaintToProcess=GenerateRandomAlphabeticalString()
     SendChainsToSocketServer(chaintToProcess)
-
-#def Main():      
-#    if utils.file_exists("config.ini"):
-#        GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
-#    else:
-#        utils.time.sleep(2) # Sleep for 2 seconds
-#        utils.createConfigFile()
-#        utils.time.sleep(2) # Sleep for 2 seconds
-#        GenerateCharacterStringIntoFile(int(utils.initValues["numberofchains"]))
         
 def Main():
     """

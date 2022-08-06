@@ -38,6 +38,13 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
     # Print New Line on Complete
     if iteration == total: 
         print()
+        
+def DisplayPathToProcessingResultFile(fileNameResults):
+    """
+    This function is responsible display path to access to file that contains processing results
+    """
+    ROOT_DIR = os.path.abspath(os.curdir)
+    print('{0} {1} '.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
 
 def createConfigFile():
     """
@@ -116,19 +123,12 @@ def saveChainToFile(chain):
     """
     This function greets to the person passed in as a parameter
     """
-    # verify if chains.txt exist, in positive case, we proced to deleted
-    #if file_exists(initValues["filename"]):
-        #print(f'The file exists')
-        #os.remove(initValues["filename"])
-        #writeChain(chain)
-    #else:
-        #open file in append mode and write new content
-        #writeChain(chain)        
-    #if file_exists(initValues["filename"]):
-    #    os.remove(initValues["filename"])
     writeChainToFile(chain)
 
 def SendChainsViaSocket(content):
+    """
+    This function is responsible for establish connection to server
+    """
     FORMAT = "utf-8"
     #line to create the client socket
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -142,11 +142,6 @@ def SendChainsViaSocket(content):
         printWithDelay("Sending content to server", 2)
         #print("Sending content to server \u2714")
         time.sleep(1) # Sleep for 2 seconds
-        #read the text that the server socket sends back.
-        #data_tmp = client_socket.recv(1024)
-        #The received data is also a bytes object, you need to convert it to a text string by invoking
-        # the bytes object’s function decode(‘utf-8’).
-        #str_tmp = data_tmp.decode('utf-8')
         # Look for the response
         amount_received = 0
         amount_expected = len(content)
@@ -183,11 +178,16 @@ def SendChainsViaSocket(content):
     finally:
         printWithDelay('Closing connection with server', 2)
         time.sleep(1) # Sleep for 2 seconds
+        #calling function to display processing results file
+        DisplayPathToProcessingResultFile(initValues["filename_responseserver"])
         #close the socket connection
         client_socket.close()
     
     
 def check_tcp_socket(host, port, s_timeout=2):
+    """
+    This function is verify if socket on server is enable
+    """
     try:
         tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         tcp_socket.settimeout(s_timeout)
