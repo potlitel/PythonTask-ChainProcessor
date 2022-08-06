@@ -8,14 +8,14 @@ import socket, logging, time, re
 import sys
 import string
 
-def printWithDelay(firstString, seconds,lastString):
+def printWithDelay(firstString, seconds):
     """
     This function print firstString, wait n seconds and print lastString  
     """
     print(firstString,end="",flush=True)
     sys.stdout.flush()
     time.sleep(seconds)
-    print('{0} {1}'.format(lastString, ' \u2714'),flush=True)
+    print(' \u2714',flush=True)
 
 # Print iterations progress
 def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
@@ -139,8 +139,9 @@ def SendChainsViaSocket(content):
     try:
         #client_socket.sendall(content.encode('utf-8'))
         client_socket.send(content.encode(FORMAT))
-        print("Sending content to server \u2714")
-        time.sleep(2) # Sleep for 2 seconds
+        printWithDelay("Sending content to server", 2)
+        #print("Sending content to server \u2714")
+        time.sleep(1) # Sleep for 2 seconds
         #read the text that the server socket sends back.
         #data_tmp = client_socket.recv(1024)
         #The received data is also a bytes object, you need to convert it to a text string by invoking
@@ -154,9 +155,10 @@ def SendChainsViaSocket(content):
             data = client_socket.recv(10000024)
             amount_received += len(data)
             #print('Received from server {!r}'.format(data))
-            time.sleep(2)
-            print("Receiving processing result from server \u2714")
-            time.sleep(2)
+            time.sleep(1)
+            #print("Receiving processing result from server \u2714")
+            printWithDelay("Receiving processing result from server", 2)
+            time.sleep(1)
             #create function
             data1 = data.decode(FORMAT)
             data2 = data1.split('|')
@@ -166,9 +168,9 @@ def SendChainsViaSocket(content):
             #convert every items to string
             #test_list = list(map(string, data2))
             # Initial call to print 0% progress
-            time.sleep(2)
+            time.sleep(1)
             print('{0} {1} \u2714'.format('Storing processing result in file ', initValues["filename_responseserver"]))
-            time.sleep(2)
+            time.sleep(1)
             printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
             for i in range(list_length):
                 writeResponseFromServerToFile(data2[i])
@@ -179,8 +181,8 @@ def SendChainsViaSocket(content):
             #end create function
             #time.sleep(2) # Sleep for 2 seconds
     finally:
-        print('Closing connection with server')
-        time.sleep(2) # Sleep for 2 seconds
+        printWithDelay('Closing connection with server', 2)
+        time.sleep(1) # Sleep for 2 seconds
         #close the socket connection
         client_socket.close()
     
@@ -191,9 +193,6 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        
-        
-        
         print("Socket available at {}:{} to sending and processing this info \u2714".format(initValues["ip_server"], initValues["port_server"]))
         time.sleep(2) # Sleep for 2 seconds
         return True
