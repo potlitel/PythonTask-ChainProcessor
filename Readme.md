@@ -40,6 +40,8 @@ config.ini:
     [AppConfig]
     # Value to indicate the name of the exported container file of the generated strings
     filename = chains.txt
+    # Value to indicate the name of the exported file of server processing
+    filename_responseserver = ServerProcessingResult.txt
     # value to indicate total character string to generate
     numberofchains = 500
     # value to indicate minimum length value in each generated string

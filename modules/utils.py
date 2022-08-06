@@ -13,6 +13,8 @@ def createConfigFile():
     config_object["AppConfig"] = {
     "# Value to indicate the name of the exported container file of the generated strings\n"
     "filename": "chains.txt",
+    "# Value to indicate the name of the exported file of server processing\n"
+    "filename_responseserver" : "ServerProcessingResult.txt",
     "# value to indicate total character string to generate\n"
     "numberofchains": "500",
     "# value to indicate minimum length value in each generated string\n"
@@ -67,6 +69,16 @@ def writeChainToFile(chain):
     except IOError:
         f.close()
         
+def writeResponseFromServerToFile(response):
+    """
+    This function craete response file, opened it in append mode and write every response from server
+    """
+    try:
+        with open(initValues["filename_responseserver"], 'a') as f:
+            f.write(response + '\n')
+    except IOError:
+        f.close()
+        
 def saveChainToFile(chain):
     """
     This function greets to the person passed in as a parameter
@@ -106,9 +118,16 @@ def SendChainsViaSocket(content):
         amount_expected = len(content)
 
         while amount_received < amount_expected:
-            data = client_socket.recv(1024)
+            data = client_socket.recv(10000024)
             amount_received += len(data)
-            #print('Received from server {!r}'.format(data))
+            print('Received from server {!r}'.format(data))
+            #create function
+            data1 = data.split('\n')
+            list_length = len(data1)
+            for i in range(list_length):
+                
+            print(data1)
+            #end create function
             #time.sleep(2) # Sleep for 2 seconds
     finally:
         print('closing socket')
