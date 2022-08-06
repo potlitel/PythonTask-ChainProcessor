@@ -1,12 +1,6 @@
-import itertools
-import os
 from os.path import exists as file_exists
 from configparser import ConfigParser
-from pickletools import string1
-import random
-import socket, logging, time, re
-import sys
-import string
+import random, socket, logging, time, re, sys, string, os
 
 def printWithDelay(firstString, seconds):
     """
@@ -160,11 +154,9 @@ def SendChainsViaSocket(content):
             list_length = len(data2)
             if file_exists(initValues["filename_responseserver"]):
                 os.remove(initValues["filename_responseserver"])
-            #convert every items to string
-            #test_list = list(map(string, data2))
             # Initial call to print 0% progress
             time.sleep(1)
-            print('{0} {1} \u2714'.format('Storing processing result in file ', initValues["filename_responseserver"]))
+            print('{0} {1} \u2714'.format('Storing processing result in file:', initValues["filename_responseserver"]))
             time.sleep(1)
             printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
             for i in range(list_length):
@@ -172,9 +164,6 @@ def SendChainsViaSocket(content):
                 time.sleep(0.04)
                 # Update Progress Bar
                 printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
-            #print(data2)
-            #end create function
-            #time.sleep(2) # Sleep for 2 seconds
     finally:
         printWithDelay('Closing connection with server', 2)
         time.sleep(1) # Sleep for 2 seconds
