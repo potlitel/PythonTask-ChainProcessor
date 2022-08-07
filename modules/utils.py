@@ -1,3 +1,6 @@
+"""
+Utils Module
+"""
 from os.path import exists as file_exists
 from configparser import ConfigParser
 import random, socket, logging, time, re, sys, string, os
@@ -8,6 +11,7 @@ def printWithDelay(firstString, seconds):
     @params:
         firstString   - Required  : value to display (String)
         seconds       - Required  : delayed time in seconds to display other msg (Int)
+    @return:  None.
     """
     print(firstString,end="",flush=True)
     sys.stdout.flush()
@@ -27,6 +31,7 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
         length      - Optional  : character length of bar (Int)
         fill        - Optional  : bar fill character (Str)
         printEnd    - Optional  : end character (e.g. "\r", "\r\n") (Str)
+    @return:  None.
     """
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
     filledLength = int(length * iteration // total)
@@ -41,6 +46,7 @@ def DisplayPathToProcessingResultFile(fileNameResults):
     This function is responsible display path to access to file that contains processing results
     @params:
         fileNameResults   - Required  : file name where the processing results will be stored (String)
+    @return:  None.
     """
     ROOT_DIR = os.path.abspath(os.curdir)
     print('{0} {1} '.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
@@ -50,6 +56,7 @@ def PostProcessingTask(content):
     This function is responsible for executing post processing tasks on client side
     @params:
         content   - Required  : content to process (String)
+    @return:  None.
     """
     FORMAT = "utf-8"
     data1 = content.decode(FORMAT)
@@ -71,6 +78,7 @@ def PostProcessingTask(content):
 def createConfigFile():
     """
     This function is responsible for creating the configuration file, if it does not exist
+    @return:  None.
     """
     config_object["AppConfig"] = {
     "# Value to indicate the name of the exported container file of the generated strings\n"
@@ -99,13 +107,13 @@ config_object = ConfigParser()
 initValues = ""
 #def getInitValues():
 if file_exists("config.ini"):
-   #Read config.ini file
    config_object.read("config.ini")
-   #Get the password
    initValues = config_object["AppConfig"]
-   #print("File name es {}".format(initValues["fileName"]))
 else:
     createConfigFile()
+#python configparser to dict (google search)
+config_parser_dict = {s:dict(config_object.items(s)) for s in config_object.sections()}
+print(config_parser_dict["AppConfig"]["ip_server"])
                   
 def ReplaceLastCharacterIfIsEmptySpace(str):
     """
@@ -113,6 +121,7 @@ def ReplaceLastCharacterIfIsEmptySpace(str):
     if so it replaces it with another character. Used also 'endswith' method.
     @params:
         str   - Required  : strigns to process (String)
+    @return:  the str processed
     """
     if str[-1] == ' ':
        #print("Last character is ' ' ")
@@ -126,6 +135,7 @@ def writeChainToFile(chain):
     This function open file (chains.txt) in append mode and write new string character
     @params:
         str   - Required  : strigns to process (String)
+    @return:  None.
     """
     try:
         with open(initValues["filename"], 'a') as f:
@@ -138,6 +148,7 @@ def writeResponseFromServerToFile(response):
     This function craete response file, opened it in append mode and write every response from server
     @params:
         response   - Required  : strigns to process (String)
+    @return:  None.
     """
     try:
         with open(initValues["filename_responseserver"], 'a') as f:
@@ -148,6 +159,7 @@ def writeResponseFromServerToFile(response):
 def saveChainToFile(chain):
     """
     This function greets to the person passed in as a parameter
+    @return:  None.
     """
     writeChainToFile(chain)
 
@@ -156,6 +168,7 @@ def SendChainsViaSocket(content):
     This function is responsible for establish connection to server
     @params:
         content   - Required  : content to process on the server side (String)
+    @return:  None.
     """
     FORMAT = "utf-8"
     #line to create the client socket
@@ -190,6 +203,7 @@ def check_tcp_socket(host, port, s_timeout=2):
         host        - Required  : server host to connect (String)
         port        - Required  : listening port on server (String)
         s_timeout   - Required  : delayed time in seconds (Int)
+    @return:  Boolean. True if socket is available, False otherwise
     """
     try:
         tcp_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

@@ -1,3 +1,6 @@
+"""
+ChainProcessor.py: is in charge of all the processing of character strings from the client side
+"""
 from ctypes import util
 import random
 import string
@@ -8,6 +11,7 @@ from modules import utils
 def GenerateRandomAlphabeticalString():
     """
     This function generate a random alphabetical string of a variable length
+     @return:  None.
     """
     ChainsToProcessOnServer = []
     str1 = ""
@@ -32,6 +36,7 @@ def SendChainsToSocketServer(chaintToProcess):
     This function is responsible for sending content to be processed on server
     @params:
         chaintToProcess   - Required  : strigns to process (String)
+    @return:  None.
     """
     #verify if socket is available
     socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
@@ -52,6 +57,7 @@ def GenerateCharacterStringIntoFile(totalChains):
     This function greets to the person passed in as a parameter
     @params:
         totalChains   - Required  : total character strings to generate (String)
+    @return:  None.
     """
     print("\nGenerating a total of {} character strings".format(int(utils.initValues["numberofchains"])))
     # verify if chains.txt exist, in positive case, we proced to deleted
@@ -65,6 +71,7 @@ def Main():
     """
     Main function. Verifies the existence of the configuration file, if not, it proceeds to create it, 
     then the character string generation process begins
+    @return:  None.
     """
     if not utils.file_exists("config.ini"):
         utils.time.sleep(2)  # Sleep for 2 seconds

@@ -1,3 +1,6 @@
+"""
+ChainProcessor.py: is in charge of all the processing of character strings from the server side
+"""
 import os
 import socket
 import string
@@ -7,6 +10,7 @@ from modules import utils, textProcessingUtils
 def ProcessStringsCharacters(content):
     """
     This function process content sending by socket client
+    @return:  The content processed.
     """
     #split content into array values
     data = content.split('\n')
@@ -24,6 +28,7 @@ def ReceivedChainsAndSendResponse():
     """
     This function receives the character strings from the client, processes them 
     and returns them as a response to the client.
+    @return:  None.
     """
     FORMAT = "utf-8"
     # Create a TCP/IP socket
@@ -57,6 +62,7 @@ def Main():
     """
     Principal function. Verifies the existence of the configuration file and logs folder, otherwise it proceeds to create them,
     then the socket server starts the listening process
+    @return:  None.
     """
     if not utils.file_exists("logs"):       
         print(False)

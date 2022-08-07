@@ -1,501 +1,501 @@
-x   MS    Hi    7l    nh    fz     CK     gqI Weighting value: 0.8448275862068966
-4   qc     An    Ek    c4    nE     FU     p6 Weighting value: 0.8
-2    rd    k   k     li    uL   jx  t Weighting value: 0.74
-D     6U     kR    oW    B2   mu    QR     EM Weighting value: 0.7833333333333333
-N     Jr   Gu    KF    R7    tp     Fp    Qtb Weighting value: 0.8448275862068966
-u   OO     jm    7     w     fb    sa  Y Weighting value: 0.6607142857142857
-f   0F     n     p    75     sH    7H   R Weighting value: 0.6896551724137931
-C     f     g     g9     Hr   GT   pC   l   x Weighting value: 0.625
-l     m1   xI   ix    3G   Gu    E Weighting value: 0.8636363636363636
-b     5N    B   H   IF     Sl    Wa   8    Dn Weighting value: 0.7096774193548387
-x   V    f    37     xh     Gj     gZ    Rm U Weighting value: 0.7096774193548387
-e     kP   IZ   gH   Pi    WZ     Rv   2   gQ Weighting value: 0.8448275862068966
-0    VA   MP     y2   lV    wu    jR    e0  K Weighting value: 0.8793103448275862
-6     Ra    ru    MD     tm    lO   Nn     R Weighting value: 0.7166666666666667
-2     Yf    oF     nR     pe     1M   eh    x Weighting value: 0.7096774193548387
-t    oL   df     yW    Zr    ZI     0V    rHs Weighting value: 0.8448275862068966
-n   Om     aW     Jc     tG   ug    4g     hc Weighting value: 0.7666666666666667
-a    PU    qD   Vf   pn   Y3   Y Weighting value: 0.925
-b     BM   7z     x6   5    R   0    E     ZJ Weighting value: 0.671875
-l   4g   97    k7   f8   tt     BV   O7   6io Weighting value: 1.1296296296296295
-O   m3     zt    B8     0c     kL     EG    k Weighting value: 0.7258064516129032
-9    sf    Jl    HO    u8     TR   V7    iN i Weighting value: 0.8793103448275862
-w     X   X    KH     b4     Zb    Yl   IE  D Weighting value: 0.6935483870967742
-q   vm   wW   mf    jI   w0     NB   Gr     f Weighting value: 0.8448275862068966
-I   ek     Su   eh   Mg     B5     1h   Rq  k Weighting value: 0.8620689655172413
-h   Rw    FF     Ln   z    p     vy    nK   Z Weighting value: 0.6774193548387096
-p     D8     5h   3M    9   a    NI     A Weighting value: 0.6896551724137931
-H     ij    rE    qe    pO     gx   GN   0S B Weighting value: 0.8448275862068966
-E     bc   Ki    8o     Hg   44     b9     eW Weighting value: 0.8166666666666667
-u    Si     8q    xx   Og   pG    bu     q  o Weighting value: 0.7666666666666667
-L     Yx     24    UE     b2   8r   A2    f31 Weighting value: 0.9482758620689655
-4     Ox     g4    FH     Px     ze   HY    L Weighting value: 0.7096774193548387
-R    Cx     Na   Rn    Yh   l6    9K     Ku M Weighting value: 0.8620689655172413
-R   Ve   95     e   X     V1   rp    ZN   nY2 Weighting value: 0.896551724137931
-Y   te   S8     Oh   U7   Pj   lb    ca   2hE Weighting value: 1.0555555555555556
-a    K8     ah   Vl   ZV    b6   0I    F6   S Weighting value: 0.896551724137931
-J    xc   mz   mY     AK    ug   Sg    nW   I Weighting value: 0.8275862068965517
-u     AF    RQ     iZ    7X     GQ   3 Weighting value: 0.7307692307692307
-U    0x     ve   pO   Tu   fj    rh     c3  1 Weighting value: 0.8793103448275862
-E   Nh   sR    t8   KW     Tr    yD    BT   k Weighting value: 0.8448275862068966
-l    IP   bM    LK     mY    M    r     3q  v Weighting value: 0.6935483870967742
-q     zS     po   Qp     zh    2m    ni     p Weighting value: 0.6935483870967742
-b   AN    mg    p   5    0L   V Weighting value: 0.7619047619047619
-k    d3     2M     nf     HZ     8    K    Ek Weighting value: 0.65625
-F    YH     T1     kL   P2   7L     N7    prW Weighting value: 0.896551724137931
-q    Zc   Fj   iN   Pq   sL    Wm  k Weighting value: 0.9545454545454546
-7   eP    h3    UW     X1     YQ    6q   N  Z Weighting value: 0.8166666666666667
-y     II    g    Q    b2    xt     q9    bo v Weighting value: 0.7096774193548387
-v    9u   H4   7x     Wi   5s   iK    yv    D Weighting value: 0.896551724137931
-d    2b     uk    bF   kY   JZ   BI     hS  V Weighting value: 0.8448275862068966
-l    yz   Vm   EB     GB   Db   mP    84    P Weighting value: 0.8620689655172413
-O    eY    e6     wt   A9     So   KK    dg G Weighting value: 0.8620689655172413
-q    8i    jU    gm     h6     bf     yZ   Ov Weighting value: 0.7833333333333333
-J     MD   xD   BB     BO   Op    d Weighting value: 0.782608695652174
-o   28    ck     kQ   lT    Bb   Pr     oc  M Weighting value: 0.8620689655172413
-b   7X   1i     jM     sv    D    q    mC   i Weighting value: 0.7096774193548387
-9   i8   yR   G3     sN    PF   Xq     VO   H Weighting value: 0.8793103448275862
-h    Z1     bf   Ma   Av     mo   Bh    4 Weighting value: 0.8148148148148148
-5   sW     ot     8V   E6    Ru    oV   mR  z Weighting value: 0.8793103448275862
-x   oS   tj   dM     eg    Yt     og   Pt   V Weighting value: 0.8275862068965517
-j     wt    Zf   bW   Pp    La   bQ     0Z  h Weighting value: 0.8448275862068966
-q   oM     V2     dc    xe     zT    vh   8r2 Weighting value: 0.8793103448275862
-L     5i   OI   Ob     Qf   Yt     ON   df  t Weighting value: 0.8448275862068966
-x    9B   XQ   sL     i4    1U   CX     52  C Weighting value: 0.9137931034482759
-l     BP   VN   M6   zO   5T     bG     yS  q Weighting value: 0.8620689655172413
-n     b2     eH     su   cp    o2   jj    JjQ Weighting value: 0.8620689655172413
-j    jO   L9   be     I7    w4    1    l    B Weighting value: 0.7419354838709677
-2   lz    X7     B4   bV    xG    Jb    wM  B Weighting value: 0.8793103448275862
-B     O5     Eq     jj     Ec   2n    yh    K Weighting value: 0.7096774193548387
-K    ML    0d     oq    r7    9I     zh     y Weighting value: 0.7258064516129032
-N    I4    fe     K0    TD   9k     F    f  u Weighting value: 0.7258064516129032
-Z    fl     AF   Ut   9S   yU     1Q     cK N Weighting value: 0.8620689655172413
-p    k5     bz   ve     6e   L     c   86   8 Weighting value: 0.7580645161290323
-O   ad     9b     Kz     3M   42     NE   GZO Weighting value: 0.896551724137931
-A    gG     s8     x7   N0    j Weighting value: 0.7857142857142857
-D   dU   uC    SJ     Rx     lk     qn     hA Weighting value: 0.75
-H    Lb     Wq    6C   k1     xf     KE   RQM Weighting value: 0.8620689655172413
-G    38     V    i   iq   le    CL    J Weighting value: 0.7037037037037037
-m    3j    tB   MB    Ht   qy   ch    6j    S Weighting value: 0.8620689655172413
-9    3h    xY   f8   z6    WI    pG     YX  k Weighting value: 0.896551724137931
-7     1     y     Cr    zY   8m    Hp     2nd Weighting value: 0.7419354838709677
-h    Cj     QD     6   W   z1   21    5K    V Weighting value: 0.7580645161290323
-D     qY    oh    Vj     RB     4   G     dKH Weighting value: 0.6935483870967742
-y   S     b    no    4c     yX   b     x    O Weighting value: 0.5606060606060606
-S    MZ   uM     Ch    yi   td     bb     srF Weighting value: 0.8275862068965517
-C     dt   gg    1G     bB    Dn     Dt    8d Weighting value: 0.7833333333333333
-1    i8   12     6u     96     Tw   kl   0O M Weighting value: 0.9655172413793104
-M     yj     W2     y5   4p    d5    CP    W1 Weighting value: 0.8333333333333334
-q    Bz    c9    P    Q   m0     4     0    x Weighting value: 0.6060606060606061
-M   yL   wN     Va    SR   Mq    bj   5W   bJ Weighting value: 0.9285714285714286
-V   Ne     E0    Tx   Fb   sY   UK    sF   Es Weighting value: 0.9285714285714286
-D   Wf     kn   FN   1    T   qF   XZ     2WK Weighting value: 0.8620689655172413
-k     Dy    Y    m    qw   jr   dY   SL    I Weighting value: 0.7
-z     7L     v   I     zn   kM   8d    gb   3 Weighting value: 0.7258064516129032
-b    Nj    1l    HR    N1    By   sI    7g  6 Weighting value: 0.896551724137931
-T   6P   hV   y7     uH     fD    Ti   yZ   D Weighting value: 0.8620689655172413
-Q    Mk    8f    Sw     57    i   M     Lk  r Weighting value: 0.7258064516129032
-M    0K     Ac     GM   qH     JY   tq    uOb Weighting value: 0.8448275862068966
-N     7x    hQ     C5   Y5    0A    ao     Jm Weighting value: 0.8166666666666667
-M     2p    cn    wN    O0    hz    l2   uQ h Weighting value: 0.8793103448275862
-6    Vo   b8   Lc   uK   5a   Oq    sx     MX Weighting value: 0.9642857142857143
-p   cT    ni     5K     uN     QY   gz     Cg Weighting value: 0.7666666666666667
-Q     yu   sm     KB    S   Z     07    vJ  x Weighting value: 0.7096774193548387
-4   K     D   Fx    Vi    xM     LL    MX   w Weighting value: 0.6935483870967742
-M    1k     0   i     jM    AP     A    R   K Weighting value: 0.5757575757575758
-7   nI   mo     a    R     S0   4m     4I   4 Weighting value: 0.7580645161290323
-Z   Xh     21    m    2    wN    Yu     yy  Y Weighting value: 0.7258064516129032
-Z   L   g     ra    L     0     tV     b Weighting value: 0.5166666666666667
-G   is    Af   7n    fj    TO   e Weighting value: 0.8809523809523809
-B   GE   ze    L     Q     B5     p5    nG  Y Weighting value: 0.7096774193548387
-f    Fs    sH   FZ    RP   rK   zK    nD    p Weighting value: 0.8275862068965517
-O     Gy   Vu     St    Lk     JG   36   dD 4 Weighting value: 0.8793103448275862
-x    Lj    2w   id     L7     5I    Lx    xZF Weighting value: 0.8793103448275862
-d     B0    9q     te   vQ   FL   3   g   sgN Weighting value: 0.8793103448275862
-v     NM     uu     Fj    7y   EZ     H8    u Weighting value: 0.7096774193548387
-p    JJ     lb     1c    Ot     rj     Fv   V Weighting value: 0.6935483870967742
-C     MN   W2   CB     00    Av    JD     vR6 Weighting value: 0.896551724137931
-G     gv     Qd    4x   2Y   0M     j    e  Y Weighting value: 0.7258064516129032
-r    ni   CV    5z    vE   L1   96     NT   E Weighting value: 0.896551724137931
-y    Uh    JK   6t     qw   Rd    fz   oW   2 Weighting value: 0.8620689655172413
-V    kz    xb   ig    fH     8o    u Weighting value: 0.7708333333333334
-c     RG    HL     6F     A   6    0b     KbA Weighting value: 0.7258064516129032
-q    l9   xs   xg   2n     8V     0m    0b  N Weighting value: 0.9137931034482759
-q   eu    JK    jz    oM     q4     D6   Es P Weighting value: 0.8620689655172413
-V   eQ   fQ   Wu     RB     te    oH   fy   P Weighting value: 0.8275862068965517
-S   RE    ar   C1    LZ   cJ   uW   xH    4cd Weighting value: 1.037037037037037
-q    Ag    Qy   Nt     TU   6d   um     Wh  b Weighting value: 0.8448275862068966
-X   Jp     70    QV   9Q     uw    QV     lr7 Weighting value: 0.896551724137931
-l    Ty     XM    mq     6s     QD    ZC    X Weighting value: 0.6935483870967742
-P   qA    B5     rP   oP   vs     U6   2L   B Weighting value: 0.8793103448275862
-l     2l    KS   DJ     ad    Zm     rI    NS Weighting value: 0.7666666666666667
-r     uA    3J     Iu   vE   d6   5c     He 6 Weighting value: 0.896551724137931
-M   Fg    F   1   ud    8h   VO     Ze   4H 1 Weighting value: 0.896551724137931
-t     El   FD   zM   Uw   hK     up   xF    H Weighting value: 0.8275862068965517
-n   Bk     bi   2n    Wb   8w     ua     ph z Weighting value: 0.8620689655172413
-Y     qt     Zv   a5     a4    zj   eR    Gbk Weighting value: 0.8620689655172413
-q     Dl   gl   j2    6X    vo   oj     Xs  i Weighting value: 0.8620689655172413
-w     XK     8g     di    kY   Sm     tX   OW Weighting value: 0.7666666666666667
-N     IY   gH    oH     QD   ZE   8 Weighting value: 0.8043478260869565
-q   ua    4d     zZ     bd     B9   4R   RA O Weighting value: 0.8793103448275862
-8    sQ    yv    DU     nN     Dc    1M   0H8 Weighting value: 0.896551724137931
-o    6X   tg     oS    Vz    X     V     U6 P Weighting value: 0.7096774193548387
-h     Fv    zH    Qz   PF    Pd     qO    6fl Weighting value: 0.8448275862068966
-3    zp     aX   LW    39    ED    jn     67k Weighting value: 0.9137931034482759
-X     zA   fE     KK     P1   RP     Fp   FDB Weighting value: 0.8448275862068966
-Y     vR     0q     lu    mk     h8   R0   5 Weighting value: 0.7666666666666667
-M    Ga   Ap     PA     Fb    qR   qz     8nD Weighting value: 0.8448275862068966
-A    XM    sd   nw   SX   nF   tF   pq    nAh Weighting value: 1.0
-m   0I   1a    vh    yl    lW    J7   YC    P Weighting value: 0.8793103448275862
-g    Ds   nL    iJ     8k     2b    P Weighting value: 0.76
-2   PT     6v     0n     u8   yp    Sx     XQ Weighting value: 0.8166666666666667
-9    6D     ZA     dd   wd   iT   Tn   F1   C Weighting value: 0.8793103448275862
-T   z     B    J3   ah   S4   zd    rQ    F9X Weighting value: 0.8793103448275862
-5     w5   nZ    lu    za    zd   6T     Wi W Weighting value: 0.8793103448275862
-E     fu    Ns   sw   aT   zc     zZ   HA   G Weighting value: 0.8275862068965517
-G     ap    Tz   Ps     Up    lF    ER   Ov D Weighting value: 0.8275862068965517
-n    84     L    B     S6   oQ   OR   Hb    4 Weighting value: 0.7419354838709677
-F   QO   9F    ux   9o    y     d   UX   vB m Weighting value: 0.8620689655172413
-2   CG     Rc     9d     uj     HE     59   g Weighting value: 0.7419354838709677
-w   Vq    P4   ao    Eq   55     vN     Kv  p Weighting value: 0.8793103448275862
-4    k6    kf    fV   bx     sX     Gd     ub Weighting value: 0.7833333333333333
-a   Nx     U7     XT    Iz   mN     yi    01X Weighting value: 0.8793103448275862
-H    e2    ST     FV    Uy   as     v7     ft Weighting value: 0.7833333333333333
-K    PU    3z   l    I    1e     ql    5v   C Weighting value: 0.7258064516129032
-9    3F    c8   d   g   wi     h7     f8   aU Weighting value: 0.8333333333333334
-u    3Z   Mu   pP    y0     Xh     Nj    jW M Weighting value: 0.8620689655172413
-b   4R    n    2    WA    6y     C4   XF  I Weighting value: 0.7931034482758621
-T    8Z     ec    fP     iG    2K     W    5S Weighting value: 0.7258064516129032
-Z     WI    6K     X4   Db    7p     Fo    cq Weighting value: 0.8
-r   Jy    TK    EQ   tB     Uw   cE   1w   v1 Weighting value: 0.9464285714285714
-d   69   D     V    L   S    z7     in   E Weighting value: 0.65
-T     4l   1b    un    Fg    Yc   j2   o8   4 Weighting value: 0.9137931034482759
-v     gK     4U   P   H   nw    Ij    kO    Y Weighting value: 0.6935483870967742
-n   rW    Al     Op    yE     fc    K7    NV3 Weighting value: 0.8620689655172413
-2    DZ     EC    8B   8R   6q   tb     df  c Weighting value: 0.896551724137931
-E     Hw   Bt    MH   Bx   uV   Mg    5F    u Weighting value: 0.8448275862068966
-A     CM     i1     Nu   ML   rU   dO     MlT Weighting value: 0.8448275862068966
-c    Gy    Cv    PO     ij     OE     Go   9v Weighting value: 0.7666666666666667
-S    h    k    6x     B6   yi    tm    Oo   b Weighting value: 0.7096774193548387
-J    Aj   OC     SF    R8   dW   mo     YC  u Weighting value: 0.8448275862068966
-P   sA    fd    T4     mn     jw   B8     9 Weighting value: 0.7758620689655172
-g   F     9   Ke     5K    Qz    g4   nc    6 Weighting value: 0.7419354838709677
-j   1f     6r    kZ    4y    X   z     FR   V Weighting value: 0.7258064516129032
-2   Hf    2Z    F1   xB     I5     Re    cm t Weighting value: 0.896551724137931
-m   t1   Pb     rP    OC     6J   D1     bg D Weighting value: 0.8793103448275862
-O    ze   pV   JK     Xr    WF     wz   7M  r Weighting value: 0.8448275862068966
-A   HR     VM    aU    Y3     kt     K2     X Weighting value: 0.7096774193548387
-x   Jw    r5    eX    g     L     GG     FD P Weighting value: 0.6935483870967742
-u   vQ     TK    D0    jw   Qb    y Weighting value: 0.8043478260869565
-2   8L    FT    M7    4s     rZ    zh   Ej  5 Weighting value: 0.9137931034482759
-p     2G   Mt   Cs     BU   5y   Ld   5u    N Weighting value: 0.8793103448275862
-Q   VU     OB    Bx    3W    xY    Xr    pr I Weighting value: 0.8448275862068966
-g   YT   1j     vO     bQ   AU    9A     jt 4 Weighting value: 0.8793103448275862
-p   IN     Vb     Xz    2U   Kj   Hn     TZ 6 Weighting value: 0.8620689655172413
-s   mk    UT     1w   Ja    n9    a8   E5   g Weighting value: 0.896551724137931
-R   cS   46    HU    P    x     jC   3v   EsP Weighting value: 0.8793103448275862
-h   No     ls   Q0    pR   9w   AZ   UE   nS6 Weighting value: 1.0555555555555556
-4     Tu    E2     K0   pg   6a    R Weighting value: 0.8333333333333334
-g   NI     gz     sL   NL    jp    LH     cIW Weighting value: 0.8275862068965517
-S   uY     G5     cC   nh   d7   or    hY   4 Weighting value: 0.8793103448275862
-F     1     p    Wi   3H     Oh   yU     Ch 5 Weighting value: 0.7258064516129032
-U   OU   Qx     ex   g   w    PP     mQ    vf Weighting value: 0.75
-8    bp   gs     3r     0F    kc   VD   LV  0 Weighting value: 0.896551724137931
-R    Ds     CZ   0n   I3     jZ     Gl   4u w Weighting value: 0.8793103448275862
-h     VB   cV     Yk     wi   C8    mj    V2b Weighting value: 0.8620689655172413
-Y   0    B     H8     Zs    t8     B1     N9c Weighting value: 0.7580645161290323
-6    lf     iV   Oj   XC    HM     Oh   v7  r Weighting value: 0.8620689655172413
-T   91   0B     i6     CC    YO   YF    DS  4 Weighting value: 0.9137931034482759
-C     ZC    Qq     vo     E6     xi   LH    p Weighting value: 0.6935483870967742
-6   Tv    qc    eA   aC    OA   O0     hx   K Weighting value: 0.8620689655172413
-j   0E   J     i    RS     TW   Lj   BO    o3 Weighting value: 0.7833333333333333
-e     Vc     Ti   W     w     oH   I3     hp8 Weighting value: 0.7096774193548387
-V     2k     Tq     sS     fO     Li    ah  G Weighting value: 0.6935483870967742
-s    13   r1     Y     z    Hn   SS   QI    6 Weighting value: 0.7419354838709677
-b   xG     9o    II   mq   OF     yo    15  B Weighting value: 0.8793103448275862
-T     L3    ry     uT   S2   he    rO    g6 r Weighting value: 0.8793103448275862
-2    lD    KL    OL     LV   Zj    Vj     QG8 Weighting value: 0.8620689655172413
-d    Wk     lR    Ha     bh     TK    su    a Weighting value: 0.6774193548387096
-p     Z     y   An    KM     pL    6D   U4  s Weighting value: 0.7096774193548387
-J    MI   as   jc     GF   mr   BR    mN   vV Weighting value: 0.9107142857142857
-n    qk     9d    WQ     Yx    K1     zN    P Weighting value: 0.7096774193548387
-K     27   XS    l    M     6u    Dr   dO   C Weighting value: 0.7258064516129032
-Q    Hc    YK    1o    ol   4U    Wn    vh  m Weighting value: 0.8620689655172413
-b    SB   Ze   8D    cU   KB   Xg   Wb   zM L Weighting value: 1.0185185185185186
-F     z1     Z4    8m     RA     WS    pG   f Weighting value: 0.7258064516129032
-q    aR    r2     XN    sI   cz   fm     Re d Weighting value: 0.8448275862068966
-T     GX     zz   GB    Ix     yq    HK    5Q Weighting value: 0.7666666666666667
-l     y   B     F9     Nu   ca    bO    OW  S Weighting value: 0.6935483870967742
-z    X1    TW     g9     qh     ZV   5M   bJW Weighting value: 0.8793103448275862
-J     z2   3J    Aq   DG   m Weighting value: 0.8888888888888888
-y    NO   Q2   0X   AM    cV   v    b     Muj Weighting value: 0.8620689655172413
-c     et    Oo    Zi     ks   7r   04    G Weighting value: 0.8035714285714286
-L    pq     Wj     Sr    ey   U7    7M     eT Weighting value: 0.7833333333333333
-J     ql    vU   7y     gt    QJ   Ks     Nip Weighting value: 0.8448275862068966
-g     XU   HG    0d   BP     Dq     5i   gO O Weighting value: 0.8620689655172413
-n     jk     Dd     g   e     h     1   mH  z Weighting value: 0.5606060606060606
-A     jS   lX    OW     Nt    sJ   yJ    q6 F Weighting value: 0.8448275862068966
-f   mk     tx     zt   CE   Zd   8   T    QCe Weighting value: 0.8448275862068966
-c    4q     JM     r8   nC     1g     kM    o Weighting value: 0.7258064516129032
-5   dk   yF     xF     1G    Lx    QA     upx Weighting value: 0.8620689655172413
-r   C     Y    Qw   gZ   zX     LA     x Weighting value: 0.6428571428571429
-Q   54   9N     nC   Zf    SL     HI     1E 8 Weighting value: 0.9137931034482759
-E     HN   h1     Tl   xd   xW     uu    Ia J Weighting value: 0.8448275862068966
-E     8P     Hd   Mh   FU     gf     cX    8y Weighting value: 0.7833333333333333
-6     eN    w5     YT   kQ   O6   jz     JM y Weighting value: 0.8793103448275862
-Z    7z    ef   uU    oX    Ab   oh    2p   M Weighting value: 0.8620689655172413
-H   g6    W6    En    0b     Pj   sG   2d   Q Weighting value: 0.896551724137931
-C   8w     TM    FA     w1    Y2    Du    9B9 Weighting value: 0.9137931034482759
-R     bJ   O0    Wv     41   j2   No   O8   k Weighting value: 0.9137931034482759
-J    Wh    FC   qi    JA   zg    Xq    iF   y Weighting value: 0.8275862068965517
-A   Je   kE    4h    ow   PI     YH   vi   Ta Weighting value: 0.9285714285714286
-W    bD     LM     UZ     ut    2R     xJ   N Weighting value: 0.6935483870967742
-l    X1   c1     9W    nT   Qe     39    0l n Weighting value: 0.9310344827586207
-p    Z5    Jg    rZ    0W   0R     L Weighting value: 0.8125
-v   5u   Fe   BJ     gf    mA    P7   tG   Ac Weighting value: 0.9464285714285714
-S    D   q    DQ   F1    HE   C0    pL     Uz Weighting value: 0.7833333333333333
-T    hr    oU    x3   11   44    67     Tn  b Weighting value: 0.9482758620689655
-0   0g     C2    y1    9X   g    8    f7   i5 Weighting value: 0.8833333333333333
-N    y7   aa    h   l    NF    br     Yx    m Weighting value: 100
-k   U8   ny    7c   Vp   M     H   FX     oQq Weighting value: 0.8620689655172413
-y     Rb     tL    Ov    88    kH   ZJ     x4 Weighting value: 0.8
-1     GZ     44    6X     45    Ll     Dt   Z Weighting value: 0.7741935483870968
-b     kd    Ty    43   Jz   31     dK    1l J Weighting value: 0.9137931034482759
-H    S9    Ua     QO   gc   Fm    c2     OA K Weighting value: 0.8620689655172413
-B    0i     Rv     sc    eL     eX   Xs    3o Weighting value: 0.7833333333333333
-w    g4     Y9     j4    sv   NW     o    q o Weighting value: 0.7258064516129032
-H    Mu     vf   cD     RV   8M    By     0sg Weighting value: 0.8620689655172413
-J   oB    xe     vO    14     aR     Bb    4M Weighting value: 0.8
-2   3L     yz    mB     85    f    I     bV S Weighting value: 0.7419354838709677
-l   bQ     AP    Fs     Vh   Ud    F3     Yxe Weighting value: 0.8448275862068966
-6    qM    qV     uQ    GK    hU    GI   9o 2 Weighting value: 0.8793103448275862
-g    xK    ui   Eu    60   nJ    zP    65   E Weighting value: 0.896551724137931
-H   5U    g8   8R   zw    lU     lh     Fr  k Weighting value: 0.8793103448275862
-b    6l   VW   MV     P0     S    x     th  E Weighting value: 0.7096774193548387
-w    GF    kz    O0     2   b   c8   OU     h Weighting value: 0.7258064516129032
-c    y     X    K    R    r3     YL    Ds   3 Weighting value: 0.5757575757575758
-z    ib   D    D    GR    T3     t    I     v Weighting value: 0.5606060606060606
-L     ZZ     OH     rn   7U    VH    zx    Kw Weighting value: 0.7666666666666667
-q     N    N   nH     w2   CZ     o Weighting value: 0.62
-C     ke    9l     EU    Jm    Yr     AO    e Weighting value: 0.6935483870967742
-e    CX   o   p   1    z    ZJ     t1   1Z  R Weighting value: 0.7258064516129032
-q   mt    tk    j3   BJ     dy     ws   bv  8 Weighting value: 0.8620689655172413
-v   Jj    Go    QX     1b    xB   pv   v    N Weighting value: 0.7666666666666667
-d   EQ   U    d    Qz   yf    50   Ns   5f  H Weighting value: 0.8793103448275862
-x     3o   of     nO     6g   k8    b5     2i Weighting value: 0.8333333333333334
-H    nM    wq     aV   E1     jG   mc     gji Weighting value: 0.8448275862068966
-D    Uf    8O    VU    1z    XS   23    da  Z Weighting value: 0.896551724137931
-t    Pm   Dm    Qk    9a   O5    MD     2X  K Weighting value: 0.8793103448275862
-j     Ue    fG   C4    rc   jV   V1     mK  r Weighting value: 0.8620689655172413
-g    Mn     gB   Nn     nm   8E   Tp     Id E Weighting value: 0.8448275862068966
-w    yq    tv    js   2p    3e   vz     ZM  n Weighting value: 0.8620689655172413
-8    Nb     f   J   Er   CZ    Zx    iN  0 Weighting value: 0.7857142857142857
-H     7z     j4   jH     h7     S3  2 Weighting value: 0.82
-J     wL   Br   ZO    IW     6k   bq     ZO m Weighting value: 0.8448275862068966
-R     Kv     yL     Ht    eO     Ho    D3   L Weighting value: 0.6935483870967742
-w   zJ     Wh     bU     KY   6o    Ay    Km6 Weighting value: 0.8620689655172413
-Z    mJ   1E   RI     Hd     79   vc    GX  J Weighting value: 0.8793103448275862
-8   Aj    R1     M    N    jR     VF     J Weighting value: 0.6333333333333333
-C    o3     Ot   VL   7u   5L     Ul     D5 m Weighting value: 0.896551724137931
-n     i6     9g     0C    FH     o7     9n  m Weighting value: 0.7580645161290323
-T    se   gO   u   2     pS    kc   di    rkH Weighting value: 0.8448275862068966
-Z   nK    e9    QU     O9     A5   Bw   iy  6 Weighting value: 0.896551724137931
-H     az   LO   x9   i2     kc   34    jX   X Weighting value: 0.896551724137931
-v    td    hi    pS     41     Lu   C    X  z Weighting value: 0.7096774193548387
-u   ix   MR   3x    zY     Bq    7i     VQ  B Weighting value: 0.8620689655172413
-0    Hh   L0     dz   DE     0q     Zy   gQ y Weighting value: 0.8793103448275862
-C   N7    Wk    rN    Vr    jz   bg   hK    S Weighting value: 0.8448275862068966
-W     q   1     ms     4L   3o    DH   3g   z Weighting value: 0.7419354838709677
-Z    CW    W3     96    Pu   Kq    5S   r   Y Weighting value: 0.8166666666666667
-V     kr    3   z   eL   Js    Sk   X7    YhH Weighting value: 0.8620689655172413
-U   0   U     pX     Qi   AV   CZ   nS    9 Weighting value: 0.7586206896551724
-4    W0    82     gf     7f     my    a8    G Weighting value: 0.7741935483870968
-B    oy     Ne   38    IN     n    m     Cl c Weighting value: 0.7096774193548387
-D     gu    jr    HG   t    r     yE    re  R Weighting value: 0.6774193548387096
-x    YD   01   98     cG     6m     gI     YC Weighting value: 0.8333333333333334
-r   Ho    El     c9     NO    1U   dR    x5 B Weighting value: 0.8793103448275862
-j     Uk     V3   gh   H9    gt   cE     Sd u Weighting value: 0.8620689655172413
-B    va    lP   iJ   0     S   PD     tI   J Weighting value: 0.7166666666666667
-q     Dg   nZ     I9   8T   El    QD    kX  d Weighting value: 0.8620689655172413
-4    6J    xE    Rz   Do    On   V0   Z0    m Weighting value: 0.896551724137931
-h     mu    87     5V    AV    pg     do    u Weighting value: 0.7258064516129032
-c     4s   q    B    cP     vC     IA    BW 4 Weighting value: 0.7096774193548387
-T    LJ    KG    CJ   r2   zi   G1   al    y Weighting value: 0.8928571428571429
-Z     hd   wu    r8   rf     Zv    1e     USY Weighting value: 0.8620689655172413
-F     gp   Ot     nI    xZ    WA     rR   j Weighting value: 0.7241379310344828
-H   qQ     Er     zy   EA   M Weighting value: 0.7894736842105263
-4    GJ   dH     lR    Fi     Er   xo     7xF Weighting value: 0.8620689655172413
-9   p1     zC   97   ex   oN   16    Wz   Fzh Weighting value: 1.1111111111111112
-8   u2     48   8P     f4     TF   tK  b Weighting value: 0.9230769230769231
-6   ki   DI     Mv     Xk     Lx   Cc    vb B Weighting value: 0.8448275862068966
-b   dv    gO   N   c     n     w     I4   TqF Weighting value: 0.6935483870967742
-2    dl     mK   8T     b1   04    id    st 9 Weighting value: 0.9310344827586207
-p    WE   GK     Hq    Ba     X Weighting value: 0.7142857142857143
-c   f2   NB     NG     dT   Lx    LA   SC   Z Weighting value: 0.8448275862068966
-X     P1    DU     U7    W7     l6   ud     X Weighting value: 0.7419354838709677
-p   2H    gF     pn    F9   av    8W     Xu 4 Weighting value: 0.896551724137931
-y   nQ    TQ   PW    X    B    wr    Zn    j Weighting value: 0.7
-R    eD     Vm     i4     Yi     kB   5j   O8 Weighting value: 0.8
-Q     Uf    Rj   ny     lt     bX     xO   Rb Weighting value: 0.75
-V   97     dh   NS    qr   nr    jK     xN  q Weighting value: 0.8620689655172413
-G     p   g    35     Vz     c   c    Jj   z3 Weighting value: 0.65625
-Y    0x   WY    wQ     yL   Db   bL     VD  f Weighting value: 0.8448275862068966
-9   dJ   TZ   Pc     oP    Sq     v4    dd  V Weighting value: 0.8620689655172413
-L     Zl     N4   id     VB    zW   hQ     B6 Weighting value: 0.7833333333333333
-M     5L   3t    RQ    rf     rb   hR     I08 Weighting value: 0.896551724137931
-Y    is    u   J     6L   t7     Ia   x Weighting value: 0.7037037037037037
-I    Nz   a    R   nT    Ha    ey     hV    M Weighting value: 0.6774193548387096
-C   BU   SK     Tv    qu     CX   og     EF Z Weighting value: 0.8275862068965517
-R   n5   b2    yK   jF     Wn   fI    5V   wd Weighting value: 0.9642857142857143
-E    hY   fe     Dg     Uz    0J   jn    AF 2 Weighting value: 0.8620689655172413
-K     uU    Cl   En    QW    xI   7L   sB   8 Weighting value: 0.8620689655172413
-F   8e   5n     B     3   q1     H1    QI   8 Weighting value: 0.7741935483870968
-f   OG     ho   I4     t6   hh   pP    Zr   9 Weighting value: 0.8793103448275862
-V   dE     W5   c1   R9   do   i     5     uP Weighting value: 0.8166666666666667
-o     vg   Ef    Rq     MK     2m   KT   pw 1 Weighting value: 0.8620689655172413
-c     wV   Nj     qT   zd     vX    No     Nt Weighting value: 0.75
-8     SJ    Ql   AH    xX     o3    Yk    x Weighting value: 0.7586206896551724
-J   Q8     Ls   zE    Mm     fY   Wr    pO  u Weighting value: 0.8448275862068966
-T   jo    mv   2i   jE     vo   An   BH    KI Weighting value: 0.9285714285714286
-q   9N    db     6k    e3    Ft     MV    LRh Weighting value: 0.8793103448275862
-C    GB    7y    wN   Aq     zS   2p     SC s Weighting value: 0.8620689655172413
-2   6p    v    L     Mf     eS    hN   GA   g Weighting value: 0.7096774193548387
-G    GD   D6   25   4G     qa    jq     az  8 Weighting value: 0.9137931034482759
-v   PS   bt   Zb   CP    Qh   St     54     Q Weighting value: 0.8620689655172413
-L    Tu    FS     7T   ug     KR   1w    iP P Weighting value: 0.8620689655172413
-0     2Q    iR   wi     cY   bd   cK   N    C Weighting value: 0.7833333333333333
-p    pj   fs   a     H   Yo    7V   r Weighting value: 0.74
-x    AG     wK     eT     UR     Wv     4o  D Weighting value: 0.6935483870967742
-p    jx   Q1     u9     q5     O Weighting value: 0.75
-D   3w    ay   41    n2     6N    3d   b Weighting value: 0.9230769230769231
-w   8T   vK   Pg   rh   6Q   GQ    Rf   Cg  S Weighting value: 1.037037037037037
-V     iE    1z     2Y     ai    6v   OB   bwJ Weighting value: 0.8793103448275862
-O   39   y1     ha     Z3     Pl    Uj     52 Weighting value: 0.85
-p     Y5    PT     xM   LS     SS     zE    I Weighting value: 0.6935483870967742
-U     on     7M     H5     Qf    wq    5u   R Weighting value: 0.7258064516129032
-V   6w     Sm     7Q    Ua    oo   tJ     6B9 Weighting value: 0.896551724137931
-Q    SS    Qs     N1     bZ   lk   Lz    Z2 8 Weighting value: 0.8793103448275862
-W     Y6    60   Xa     k5    cz   Iv   hS  e Weighting value: 0.896551724137931
-w     aP    21   u8     1o   Gj    bZ   RX  0 Weighting value: 0.9137931034482759
-S   wn     Ec     rc   Ja   VD     n   a    R Weighting value: 0.6774193548387096
-U     1w   Q7   pT     z5    nf     7d   p  u Weighting value: 0.8166666666666667
-3   XH   h1     gH     L2    mo    7    s   3 Weighting value: 0.7580645161290323
-L   FQ    pr     1F    ur    wh     CW     lN Weighting value: 0.7666666666666667
-y     NR    KB     Gv    o3    8Q   gp   R Weighting value: 0.7857142857142857
-1     KB     j5     YN    HW     0X    HK   s Weighting value: 0.7258064516129032
-r    5Y    XE   ic    n     L   cQ    RL   xe Weighting value: 0.7666666666666667
-z   uE    Oi    pG    b5    yo    zx     lU 8 Weighting value: 0.8620689655172413
-D     sU   cc     Id    oI     xH   uc   7T O Weighting value: 0.8448275862068966
-C     bl    eY   jB   JE   us    xe   av   uf Weighting value: 0.9107142857142857
-Q     Nv     eo    DT    ve    em    Z5    PU Weighting value: 0.7666666666666667
-O   Q4    iv    GJ   hd     WJ   1R    Nj   b Weighting value: 0.8620689655172413
-K     xe   GF    Za    ui   of     Sh   CD  l Weighting value: 0.8275862068965517
-U    Lv   Ye   2u   vk    cD   jX     uN    3 Weighting value: 0.8620689655172413
-c    Fb   w1     X8   og    Ca     zp    D1 I Weighting value: 0.8793103448275862
-3     lc    1N   Oh    NY    EU  v Weighting value: 0.8636363636363636
-z     0k     a7     z3   lO     t Weighting value: 0.717391304347826
-H   eM    RP   YF   pI   SI   Oa     9D    Qi Weighting value: 0.9285714285714286
-M     LI     je     Oh    OF     Q6     RA  8 Weighting value: 0.7096774193548387
-6     mD     o8     1N     oq    hS   20    n Weighting value: 0.7580645161290323
-k   qg     6i    EY   FH    Sw   gD   za   Wp Weighting value: 0.9285714285714286
-m     c1   yk     qa     zC   Ic     ei     r Weighting value: 0.6935483870967742
-M   oP    DO     Gg     GG    XD   gf    zg S Weighting value: 0.8275862068965517
-9   qt     ud    Po     CA   TX     Hf    edA Weighting value: 0.8448275862068966
-f    Z   9    OR     oe    lo    di   JA  w Weighting value: 0.7413793103448276
-6     bS    6T    gp    pa   ax    nA    kQ w Weighting value: 0.8620689655172413
-h   lP    lS    nX    Ze     kZ     GD     Qh Weighting value: 0.75
-8   1Y   13     ja     gQ    TQ     5B    Vjn Weighting value: 0.9137931034482759
-S     ET     E    k    4M     pF   x     Y  e Weighting value: 0.5606060606060606
-9     Cm    Uz    VH   N8     Pu   pt   qJ  r Weighting value: 0.8620689655172413
-B    Br    9X    Mj     z6     7G     m7   cS Weighting value: 0.8166666666666667
-m   aL     FJ    V6    2X    xN   2j     wY Y Weighting value: 0.8793103448275862
-e   wj     V2     5Y    VD     HG     ME    B Weighting value: 0.7096774193548387
-f     h     5    Fv    i1    fQ    SE    p6 4 Weighting value: 0.7419354838709677
-7    ok     iC    8R     Xy    Jk    3W   cBo Weighting value: 0.8793103448275862
-3   ZX    4B     c   S   Np     gr    ni    W Weighting value: 0.7096774193548387
-Y    ve     R     D     RC    O2   Y Weighting value: 0.5961538461538461
-Q     Y   L   Zb   s     y    JF    5C  P Weighting value: 0.6379310344827587
-H     uj    E2    wL   II   Hg   L4    lb   g Weighting value: 0.8620689655172413
-J     BJ     63     EK     Y8    id   97    b Weighting value: 0.7580645161290323
-9     IN    BB     Vv     xZ     ud     Sy  n Weighting value: 0.6935483870967742
-N    xP     Bb   J6    Zm   yK    vZ   lH   9 Weighting value: 0.8620689655172413
-M    Cq    MK    iD     Vb   nE    Xo   js  L Weighting value: 0.8275862068965517
-z     07    Qt   0Y     6O    y9   Re     EYJ Weighting value: 0.9137931034482759
-k   Sa     Nu   ws   1r    ix    ky     aY  H Weighting value: 0.8448275862068966
-p     rI     2g   Mu    xi   Um    73   ca  6 Weighting value: 0.896551724137931
-S     N5   wu   I8   aM    Kg   vB     A3   7 Weighting value: 0.896551724137931
-f     Dl     a0    9c    Kx    Mt     Nt   vq Weighting value: 0.7833333333333333
-N     OO    po    aY     rL   tG   qz     TQ7 Weighting value: 0.8448275862068966
-6   Qi    wY     GJ   NM   0T     VE   8c   g Weighting value: 0.8793103448275862
-I    bI   P1    Kn     1C    yC    gp     4V5 Weighting value: 0.896551724137931
-S    o7     Zm     jm     P3   aC     Ps   dm Weighting value: 0.7833333333333333
-n     q     o     F3     BO     MB    zU    1 Weighting value: 0.5757575757575758
-7     d6    4A     WH   x7   hA   lG     TA U Weighting value: 0.896551724137931
-9   HV    GZ    sE     wR    Ru    Q Weighting value: 0.7708333333333334
-Z    C0    ok   6A     mD   fd     H     o  Y Weighting value: 0.7096774193548387
-E    Sb    XD    Fi     mu    sL    65    fA4 Weighting value: 0.8793103448275862
-S    eb   Dp   CN     wX    UM    dA    9X  d Weighting value: 0.8448275862068966
-3    Yr   nP     ZF    PP    rJ    xw     X6c Weighting value: 0.8620689655172413
-N   Zo    4A     ub   90     ST    8N    Z Weighting value: 0.8214285714285714
-e     S     o   MV    Q1     7o    GZ     Nor Weighting value: 0.7096774193548387
-x    0Y    wb    Ny   I     v    Ud    Oc   x Weighting value: 0.6935483870967742
-R     G0     6a     pQ     Ou   Ql     aY   w Weighting value: 0.7096774193548387
-r     v     f    2k    Yw     kk     k Weighting value: 0.5535714285714286
-W     3C   Ul   es     Eh    3T   1b    fO  7 Weighting value: 0.896551724137931
-u    91     3w   JN     WX   2E     JG     Ou Weighting value: 0.8166666666666667
-O    5r   lS     07    l0   5p   pV     R8  r Weighting value: 0.9310344827586207
-V   0Y    OO   90   B    u   KH     vz    ILn Weighting value: 0.8793103448275862
-M   eY   J2   yI    KV     0r    ar   a0    4 Weighting value: 0.896551724137931
-3    zX     B   v     HI     7o     2 Weighting value: 0.6111111111111112
-R    6w   Wr     Sh   ZP     jB   pF   Rq   t Weighting value: 0.8448275862068966
-9   R9     hg    d9   HT   LJ   6R     mH   P Weighting value: 0.896551724137931
-x   KJ    5Y   Ey     80    Qd    Xo     81 v Weighting value: 0.9137931034482759
-I    Yo    r9     gW   PV   l Weighting value: 0.8157894736842105
-9   0u   V    a    6c     cF    bu    3I    e Weighting value: 0.7419354838709677
-e     GI   Jp   rR   aq   lU   nE   hb     93 Weighting value: 0.9464285714285714
-P     Qs     qE     ei     SP   HN    K4    p Weighting value: 0.6935483870967742
-k   xC    Ch     Vy    Bo     8C   CJ    SD s Weighting value: 0.8448275862068966
-J   7b    qz    dt    AA    0g     lr     fTE Weighting value: 100
-7     D   f    b2    dg   bO    Do   pd     W Weighting value: 0.7096774193548387
-a     ap     QP    VO     Wl    mX   Kr   O3h Weighting value: 0.8448275862068966
-1   4I     AQ     rl    yP   6F   R Weighting value: 0.8478260869565217
-O   yK   xN    Kh    AM     Td    vk     EO 7 Weighting value: 0.8448275862068966
-D     sM     U7    Ij    aC    3d     dl    4 Weighting value: 0.7258064516129032
-k    3k   CG     5o     lZ   Oz     4W   J6 g Weighting value: 0.896551724137931
-r     nS     77   hy    o7    NW   7O     xvI Weighting value: 0.896551724137931
-m    Av   q4     qR   nZ   QJ     K9     8Y C Weighting value: 0.8793103448275862
-X     xj     HR     7r   d5     Sy    yi    e Weighting value: 0.7096774193548387
-S     Ml   4o     0v    H     I    uE    Jg x Weighting value: 0.7096774193548387
-T    Ch   NZ     2n     4o     f    o     c9I Weighting value: 0.7258064516129032
-8    zL     B   K    mN    Bl   eQ   HA   i Weighting value: 0.7413793103448276
-n    Xw   HB    fe   4b    Fj    DM     LA  U Weighting value: 0.8448275862068966
-h   Gx    tL     Gx   Z2     NF    zm    FQ h Weighting value: 0.8448275862068966
-U     Je     w     C   XL    JR    5d    3 Weighting value: 0.6333333333333333
-F     Nz   Cf     Ho     05     Tv    AJ    F Weighting value: 0.7096774193548387
-7     0g   M   i    IH   LZ   Xs    pV   Rv G Weighting value: 0.8620689655172413
-f    t4   Hw     k1    PC     Q3     31   gme Weighting value: 0.9137931034482759
-X     qp    gz     r7    7f    4n    sp   P Weighting value: 0.7758620689655172
-K    Aq    DX     xk    b6    gS    fO     rq Weighting value: 0.7666666666666667
-B    F1     xM    eh    40    ee   lQ   ag  R Weighting value: 0.8793103448275862
-U     jK    ku    pf    H8    Q1    qw   Do H Weighting value: 0.8620689655172413
-o   8v    lU     hj   Jk    Wi   D    B    2d Weighting value: 0.7833333333333333
-E     J9   8A     zA    dO     BQ   8n    M Weighting value: 0.7758620689655172
-W    Dq     nb    m5    WN     Jz   Gk    iyo Weighting value: 0.8448275862068966
-v    cr   vr    CU    7t   5p    FC    Gx   u Weighting value: 0.8620689655172413
-M     B    W   pK    eg    co    Zh     3F  Z Weighting value: 0.6935483870967742
-x   49    ui    W8     5R    7G   V1     iM U Weighting value: 0.9310344827586207
-G    2S    Zq     Vo    RY     cn     wJ    F Weighting value: 0.6935483870967742
-l   PE    Uy    6Y     Cs     hJ   hs   Xn  P Weighting value: 0.8448275862068966
-K   65   lQ   ch   OJ   1x   do     9r   vt f Weighting value: 1.0740740740740742
-Z     zT     Gx    Og     8i     Jz    4P   r Weighting value: 0.7096774193548387
-w     9M   w8     tU     yb   sj   fu   S7  z Weighting value: 0.8793103448275862
-E     S7    ys   vE    6U   g   V     8r    J Weighting value: 0.7258064516129032
-j   2O    Os   rg     hz   mL    9w     nj  C Weighting value: 0.8620689655172413
-9     rs   pV     fE    dm    Hc    a8    6Sr Weighting value: 0.8793103448275862
-o   NW     xX   x     r   G7    tD   Qr     w Weighting value: 0.6935483870967742
-P   G3   D     8   29   93     ob     s9   nK Weighting value: 0.8666666666666667
-2   lF     mz    nf    c   E   Ii   ye   rd T Weighting value: 0.8448275862068966
-H   hC     Y2     nd    n9     1H     yA   Vy Weighting value: 0.8
-1    H8   nR   J1     QX     Mb     NC  F Weighting value: 0.8333333333333334
-z   6     J    8Y     st    gy   1n    UT   E Weighting value: 0.7258064516129032
+z   z7   D3    ct   4   I   GR   j Weighting value: 0.8863636363636364
+J   D8   2P    gV     6t    l3   AA     7t  H Weighting value: 100
+0    1y    G   Q   0H     qm   VA    e9     O Weighting value: 0.7419354838709677
+g     X     d     68   Go    q9     wp    tP0 Weighting value: 0.7419354838709677
+T     Yy    i   W   Ph   fr    Ve   T Weighting value: 0.72
+J    jH   a6     OR    MY    rB    N Weighting value: 0.7708333333333334
+H    02     uB     IT     fz   TN    KA     8 Weighting value: 0.7258064516129032
+c   2m     sY   Ce   Eo   x7    JK    vx    w Weighting value: 0.8620689655172413
+l     OI    vs     4a   MW    qL    E Weighting value: 0.74
+3   6O   eB     9    x     dO    kE   Kr    r Weighting value: 0.7258064516129032
+K     Rq     aK     2C     ho     7i     aP Y Weighting value: 0.7096774193548387
+u    Or     LF     Yg    hV    wc     zc    U Weighting value: 0.6774193548387096
+d   S3    4m     DQ    Ms    YQ     ZC    i Weighting value: 0.7586206896551724
+f   Y7    sw   dz   i     5     GZ   BI     j Weighting value: 0.7096774193548387
+A    8o     h    a     1l     oh     v4     B Weighting value: 0.5909090909090909
+d     P4   DU   zM     Wz   7I     S1    k Weighting value: 0.8035714285714286
+F    z9   gz     NL    Fe     tu   T Weighting value: 0.7708333333333334
+q     JV    6v   JP     Hz     5A   2   o   N Weighting value: 0.7258064516129032
+M    Ml     Ld     0Y    d2    K0    6 Weighting value: 0.7692307692307693
+w    mZ   Xk   2G    zV    lu   VA    ov   BM Weighting value: 0.9285714285714286
+E    UC   pd     fY    Kd   45     5m   L3  J Weighting value: 0.896551724137931
+G   NC   PW     j5     zY     jG    0l     T3 Weighting value: 0.8
+0     Yl    w    8   JN   sj    DT    c Weighting value: 0.7037037037037037
+w   5Z     pT     Si     zN   kx    ZY    pEU Weighting value: 0.8448275862068966
+q   pl     wv     FO     Z    x    E8   e Weighting value: 0.6379310344827587
+L    yA    UR   sF   je     Zs   5N    Qh   H Weighting value: 0.8448275862068966
+n   tJ     WL   9g     i     W     V8   Bb  D Weighting value: 0.7096774193548387
+h   Tw     w3     Ab     Mp    UB    Fu   nzM Weighting value: 0.8448275862068966
+5    jT   MR   Kz   OZ   hl    dt    GU     2 Weighting value: 0.8620689655172413
+z   Kv   pb     lL     1n   Mv   oK   v   P W Weighting value: 0.8448275862068966
+S     r1   bp   nh     C8     LX   gF   cM  M Weighting value: 0.8620689655172413
+r    pg     In     KA     KB     1O    wR   Y Weighting value: 0.6935483870967742
+i     Pz   VV    L   1   qC    xq    QL     g Weighting value: 0.6935483870967742
+T     wY   Ld    w4     ao     ri   QI     Ox Weighting value: 0.7666666666666667
+F     Ox   Cz    aV   3E     yy   bi   NN   H Weighting value: 0.8448275862068966
+C   wY    WA    ic   xB   z7     UI     nH  5 Weighting value: 0.8620689655172413
+N   zG     l8     l7   fZ     rL   XO   0Q  Q Weighting value: 0.8793103448275862
+c   ne   SB   99     c   y   XH     Cz    1s3 Weighting value: 0.896551724137931
+Z     uc     cT   7x   oI    JT   Tf     wv f Weighting value: 0.8448275862068966
+q   Ip   gI   sF     tn     Te   FR    RA   z Weighting value: 0.8275862068965517
+v     PV     mP   r    1     Hn     u6   K8 G Weighting value: 0.7258064516129032
+6   aL   jX   DR    4l    Zs   GW   iM     K6 Weighting value: 0.9642857142857143
+j   Db     AJ     2n   1c     wk    Zn   5l F Weighting value: 0.8793103448275862
+e   JO     ns     tB    3I   R5    TI   J1  g Weighting value: 0.8793103448275862
+O     H8    Ul    fX     i    c    BU     QCC Weighting value: 0.6935483870967742
+G    JH    Ic    If    by     aJ   tX     iUm Weighting value: 0.8275862068965517
+D   Ye   dJ   D   u     d5   N Weighting value: 0.775
+d    Sv    RM    pM   hX     Tx   K4     W7 H Weighting value: 0.8620689655172413
+q    eU   zp     xS    VW     uS    8k   y5 J Weighting value: 0.8620689655172413
+A    nn   vj     d8     cf     WN     FQ    v Weighting value: 0.6935483870967742
+w    Jo   YY     Z9    hq     0j    R9    c Weighting value: 0.7758620689655172
+Y    hn     Iv   Kp   UD     Xg   Fs   9 Weighting value: 0.8269230769230769
+F    bo     D5     sT     ZP     9G   Z Weighting value: 0.7037037037037037
+y   9e    27   ny   l7     Jz    qW   K   9 w Weighting value: 0.9137931034482759
+a     QX     5   9   8R    QC     jK  v Weighting value: 0.7222222222222222
+T     M     h     26   WJ     KK   aB    As f Weighting value: 0.7096774193548387
+M    Y   k   yM   Gf     1m    Mu    dv   ye6 Weighting value: 0.8620689655172413
+m     eB   Jd    5a     DF     6a    0E     L Weighting value: 0.7258064516129032
+2    7l    qP     fs     oy   IG    kF    y43 Weighting value: 0.896551724137931
+v   KE    vt   6T   VE    K Weighting value: 0.9117647058823529
+N     CT     aA    xS     zT    5c    7d    4 Weighting value: 100
+K    Gt   2c    QJ   tJ    gL     gS   0P   f Weighting value: 0.8620689655172413
+p   Wm    hs   WG    cM   Qh    Hz   O7     i Weighting value: 0.8448275862068966
+V    TM    CX   tc    oB   Q Weighting value: 0.8333333333333334
+q     jR   8X     9     8   jg   sM    mw   b Weighting value: 0.7258064516129032
+L   l1   md   D9     g5    XZ     so   DU   G Weighting value: 0.8793103448275862
+1   yH    L3   ov   p0   36   xQ    yA    D9Y Weighting value: 1.1111111111111112
+n     IP   zT   Cu     mF     M5     YK    80 Weighting value: 0.8
+L     3O    Rg    0l     RG   w1   dZ   Cs  1 Weighting value: 0.896551724137931
+S     Xk     HH     3B   tq    mC    Xw   Gj4 Weighting value: 0.8620689655172413
+v   wl    cf     9D     W2   wj   NX   tG   a Weighting value: 0.8620689655172413
+M    gc   9X     ym     k1    dC   Kt     JUa Weighting value: 0.8620689655172413
+7   Tx    UW     d     P   Uc    iY   AH    W Weighting value: 0.6935483870967742
+6    I   v    HT     y    G   uy     Ks    Lf Weighting value: 0.625
+I    kR   E9     mJ     ku    Z9    c2    kyP Weighting value: 0.8793103448275862
+P    ds   Ub    fb     PQ     n5    my    vwp Weighting value: 0.8448275862068966
+5   S6    Kq     e3     IW     lM     d5    1 Weighting value: 0.7580645161290323
+t   Tw     Ek   bm     3P     48    s4    2B9 Weighting value: 0.9310344827586207
+Z   WY     FV    Ga     er     Lr  9 Weighting value: 0.7708333333333334
+H     y9   RG    C    N     CG     5o    oX O Weighting value: 0.7096774193548387
+z     i6    lu     Fn    N9   ab   qB    zH B Weighting value: 0.8620689655172413
+f    5p   4m     Vd    dV    kD     FG     pf Weighting value: 0.7833333333333333
+v    LO     DC   pY     Lj    j Weighting value: 0.7142857142857143
+O     LD     D7    tu    JQ   Wx    Od   Dr m Weighting value: 0.8448275862068966
+X    85   v   H   XT    sT   a    l   lT   cg Weighting value: 0.7833333333333333
+m     Gd    I    h   U     u     nc   r Weighting value: 0.5172413793103449
+G   jN   un    oO    82    II     Th   Qz   m Weighting value: 0.8620689655172413
+c    4Z   hW   Q6   mi    F0    QX     tf   i Weighting value: 0.8793103448275862
+1     Qo    Pf     Bz   M8     lq    a5    hJ Weighting value: 0.8
+f     b    A    6q     CW    xI   qE     wp d Weighting value: 0.6935483870967742
+z    C2    pU     j     D   nZ   4a     9R  L Weighting value: 0.7258064516129032
+A     rM    yr   P6   zU    P9   tw     Tm  V Weighting value: 0.8620689655172413
+T     va   l5   MW   7L     b    C   j    m e Weighting value: 0.7096774193548387
+0   to     Qq     2s   2u   Qy    Ee   Gu   4 Weighting value: 0.896551724137931
+2    PM    vN   hl   sd   JX    t3   Yh   K P Weighting value: 0.9464285714285714
+a    op   8r     Dk     HP    Bw   2c    tW l Weighting value: 0.8620689655172413
+F   GC   3b     MI     Nm    Xj   4s     uK i Weighting value: 0.8620689655172413
+y    73   AC     W7     2f    DY   zG   Kh  r Weighting value: 0.896551724137931
+a   5U    H9    b2    se   G   U     YH    Vu Weighting value: 0.8
+K   ca     dS     aa     3a   nj     nD   yWF Weighting value: 100
+s    1A     1i     L0     JH   be     3U    5 Weighting value: 0.7580645161290323
+a     Ay   i7    5C     ef   tF    7m   mh  J Weighting value: 0.8793103448275862
+V    2j    n7   AO     v9     ih   fJ   C7  A Weighting value: 0.896551724137931
+2    fC   N8     RA    X0     Sp   Vc    MA v Weighting value: 0.8793103448275862
+A   nD     3m   RM     ri     p2    Vy     J9 Weighting value: 0.8
+w     LF    Jp    Uo     Y   2    id     hw m Weighting value: 0.6935483870967742
+V   v   z     V1   y     R     DQ    GC     h Weighting value: 0.5606060606060606
+H    RX   f7    QS   U3    KN   Zj   kV    OS Weighting value: 0.9464285714285714
+L     mX   wR     MJ     It    JZ    c6   1Ph Weighting value: 0.8620689655172413
+B     n3    0R     eI   EO     yq   DX     gW Weighting value: 0.7833333333333333
+k   wf     gq     4C   rO   Fi   Xa   MQ    r Weighting value: 0.8448275862068966
+b     yC    Y0     7g    0I     I8     Ah   p Weighting value: 0.7419354838709677
+N     DN    zx   yq    Fk   8g    Xt  4 Weighting value: 0.88
+a     gO   Fy   8q     Hf   5b    O     S   g Weighting value: 0.7096774193548387
+8   ac   Gp    xL    e4     97    WT     1z b Weighting value: 0.9137931034482759
+w     Jm    Sv    Dk     dZ   C1    LB    q7f Weighting value: 0.8620689655172413
+c   o    E   eM   rv    I2    HF    LP     7C Weighting value: 0.7833333333333333
+z    Qy     eU    t5    Fy    5f     A6   dOW Weighting value: 0.8793103448275862
+p    Sk    2g   JE    3A     pO    Lh     vSd Weighting value: 0.8620689655172413
+d     g     a    GW    s0     bJ   B9    IT S Weighting value: 0.7096774193548387
+c    j3    qQ     xd   Lj     9g   1R    e  Y Weighting value: 0.8
+A    iv     qT   oR     3B     bZ   2K    Dfb Weighting value: 0.8620689655172413
+G     VQ   2Q     CP   mJ     yR   DX     QkV Weighting value: 0.8448275862068966
+G     Bb     v9     eL   Nf     jU    CQ    d Weighting value: 0.6935483870967742
+w   nM    pA   9d     eD   9G    k1     FS  k Weighting value: 0.8793103448275862
+o     Nq    Ey     0U     Xb    qY     Mb   k Weighting value: 0.6935483870967742
+C     n   e   Bl    qX   r0   Fs    q1    oDk Weighting value: 0.8620689655172413
+U    Nh   d6     nw     ZC   k2   z Weighting value: 0.8260869565217391
+o   YZ     Ku   VH   Tc    T1    T   1    0F2 Weighting value: 0.896551724137931
+f     T    u   U     E     NF    dI   q4    b Weighting value: 0.5606060606060606
+i     V   5   70    b9    Ad     fs   Tl   3i Weighting value: 0.8333333333333334
+0     jP    JX     bv   VQ   29     jW   l Weighting value: 0.8035714285714286
+6   DE    KU     XX     9J     7S    5Y    gE Weighting value: 0.8166666666666667
+G     74   j7   Fv     gP   Fz     IM     9X2 Weighting value: 0.9137931034482759
+R     ii   Uo   eV   hQ     po     EC   Sq  j Weighting value: 0.8275862068965517
+z     MZ    V0   wq   t    l     Z7    Wj   k Weighting value: 0.7096774193548387
+v   kx     Dn     iX   Qx    L2    bc   4T  3 Weighting value: 0.8793103448275862
+q     ij    Xx    VW     8c     po    qO    i Weighting value: 0.6935483870967742
+v   2L     x3     s9   98   PZ   RP    V8   v Weighting value: 0.9310344827586207
+b    bd     xI     rT     Ve     q7    nJ   p Weighting value: 0.6935483870967742
+l    rj   9Y     5I   mm     FO     ck   3w n Weighting value: 0.8793103448275862
+P   i1     o6    RI   Ef   fI     Jk     D5 S Weighting value: 0.8793103448275862
+x     Db   mK   ah    Ki    6b    k9   vl   g Weighting value: 0.8620689655172413
+5     sE     zO     Cb    fu    Q2     qc   r Weighting value: 0.7096774193548387
+9   8y     oD     yn     kF    jM   tN    3oy Weighting value: 0.8793103448275862
+s     WA     F     V     MH    so   3   W   s Weighting value: 0.5606060606060606
+i    4N    bG   22   YN   Z5   RU   e5     Z Weighting value: 0.9464285714285714
+Z     WP    3I    XV     7G    7X     Kd   LY Weighting value: 0.8
+8     wv   KM   0K    QU    1W    ES    o3  u Weighting value: 0.896551724137931
+D   Ru    k0     hj   H3   RN   nR     LB   5 Weighting value: 0.8793103448275862
+y   Yf   pp   sj    sO     nf    0T     bh  8 Weighting value: 0.8620689655172413
+Z    Qw    Ax   zz   g2   wz     ay    ns   j Weighting value: 0.8448275862068966
+d    gf     GI    pk    T1    vD   qh    sr M Weighting value: 0.8448275862068966
+B     5o   yo   OL    F8   In    Zy   RE    p Weighting value: 0.8620689655172413
+S   RS    Ph   4g     d3   jZ   iq     it   U Weighting value: 0.8620689655172413
+x    60   pJ    bL    GA     IZ    HB     eSK Weighting value: 0.8620689655172413
+b   Zk   8p    Ah     KW   Oh    oz   H Weighting value: 0.86
+J    m9    JK   RL    JX     3P   ii   Wm   l Weighting value: 0.8620689655172413
+S   Q5   kb   oR   eL   GG     e8   QR    pQq Weighting value: 1.037037037037037
+p   D   F     09     i     E   lV    Rt     9 Weighting value: 0.5909090909090909
+J     Ae    ZA    7I    GD   2s   Wa     5A L Weighting value: 0.8793103448275862
+9     b    B     Xq   ls    d8   Ew   rY    s Weighting value: 0.7096774193548387
+W    tT    ek   DC     jr    j7    Qu     l0L Weighting value: 0.8620689655172413
+C    rg     S     A    JC   C     p    s    o Weighting value: 0.4852941176470588
+1   wF     x5   0k     sI     S8   M Weighting value: 0.8333333333333334
+Y     RI   ws     na     dV     k0     qY   E Weighting value: 0.6935483870967742
+P   VW    mg    FK    wP    zs   a1     KQ  3 Weighting value: 0.8620689655172413
+F    3P    Qa   9v     sa     Z6   Ke    J  U Weighting value: 0.8
+z    Vx     Wu   O     N   S    3     QD   wY Weighting value: 0.625
+F     hZ   E    q   z9    8W     c2     b Weighting value: 0.6724137931034483
+8     2z   wL    gr    Oy   x0   sH     G6  R Weighting value: 0.896551724137931
+J   BM     SC     MD    2l    Yv     FH     z Weighting value: 0.6935483870967742
+e   N1   FH     bH   22     DL     xe   mP  c Weighting value: 0.8793103448275862
+M    Lx   zd     Pj     f9   F     O   NS   O Weighting value: 0.6935483870967742
+a   R     X     1e     Wy    wL     z3   hO T Weighting value: 0.7096774193548387
+w     bk     XZ     x9   Rj   cJ   Bq   Jb  L Weighting value: 0.8448275862068966
+I     yC     oj     T     R   bf     3    d x Weighting value: 0.5606060606060606
+8    2b    dF   GN   NO     P Weighting value: 0.8421052631578947
+h    X7   TE   n    j   Je    Ey  s Weighting value: 0.8043478260869565
+L    xH     5G    Bj     JB   Qz   y0     hfB Weighting value: 0.8620689655172413
+K    Vv   Yb    cL   Zm   1F     gv     bo  l Weighting value: 0.8448275862068966
+C    nN    dz   86   uh     BU    jw   mz   5 Weighting value: 0.8793103448275862
+3    PC     XC    uG     Fg   A6     Hd     y Weighting value: 0.7096774193548387
+D   At    w5     1J     HD   bb    72    J Weighting value: 0.8214285714285714
+t   Rt   PO     52    rf   ls    rB    VL   V Weighting value: 0.8620689655172413
+C    xu     99   fN    Hw    WY     aM   Ez G Weighting value: 0.8620689655172413
+D    eF   El    TE     4f     B8   sl     Xvg Weighting value: 0.8620689655172413
+N    XZ     GS     Z3   DH     Dx   6J    p6k Weighting value: 0.8793103448275862
+k    Lu   qF   tn    Pi   pX   pV    a7     k Weighting value: 0.8448275862068966
+8    St     sh   wK    sp    YI   lV     db X Weighting value: 0.8448275862068966
+L   NX    vZ     V     0     LK     2f   wK e Weighting value: 0.7096774193548387
+6    3o   I    t   xl   dE   Jp    Vf    Kg F Weighting value: 0.8620689655172413
+o     nw   rL   QE    dD    r1   DN    UV   1 Weighting value: 0.8620689655172413
+c   RY   bE   Dm    Ul   xx   Dg     7y     G Weighting value: 0.8448275862068966
+h    Y    r    bn     Gc     E     B   A0   I Weighting value: 0.5606060606060606
+H   a    G    Gc    x6    TC    Fy   5   V  P Weighting value: 0.7096774193548387
+a    qn    Wc   0P     X    Z    PG     47  r Weighting value: 0.7258064516129032
+K     Xp    e4    A   9    a     S     Ah   l Weighting value: 0.5757575757575758
+m    ff     gP     yL     Yq   Rl   rm    Gfj Weighting value: 0.8275862068965517
+f     Ws     JF   Hs     gp     BI   0A   UVN Weighting value: 0.8448275862068966
+s   Dp     sg     F     2   R7     4K    bX 7 Weighting value: 0.7419354838709677
+7    V    S    io    jx   h4     Ym    m Weighting value: 0.6785714285714286
+K    Ik    5Q   Q3     rA    1i   IE    DJ  D Weighting value: 0.8793103448275862
+T    oF    47   2M    e7    Nk     JO     ZTN Weighting value: 0.896551724137931
+k    D8   sk    iM    tr    bo    m6    nW  9 Weighting value: 0.8793103448275862
+G     dP    oj   xw    vB    1z   no    OF  3 Weighting value: 0.8620689655172413
+I   Tl     9c     Wh    CG    uv   rb    ve K Weighting value: 0.8448275862068966
+s   EZ   02    aa   rI   WI     ye     28   S Weighting value: 100
+S     MM   qe     gM     to     j   f   y3  7 Weighting value: 0.7096774193548387
+e   2A     b    6   cd    X1    bw   Um     p Weighting value: 0.7258064516129032
+L   mQ     ow   Zk     8P     SB    nR    yrU Weighting value: 0.8448275862068966
+b     Xz     qy     Ia     Sq    qw   TN    W Weighting value: 0.6774193548387096
+N    Db     K4     N     J    Um     U1     s Weighting value: 0.5757575757575758
+W     nv   A4    m6    rs    xp   ks   fs   V Weighting value: 0.8620689655172413
+S     Ks   a4     x    h   W1   nl    QA   4 Weighting value: 0.75
+L     CL    1b    if    Pd    8s     0O     R Weighting value: 0.7258064516129032
+x    2X   Gu     ol     cG    88     9Y     4 Weighting value: 0.7580645161290323
+R   g5   01     Ms    Ju     sq   EQ     e2 6 Weighting value: 0.9137931034482759
+k     pO   4g   x   t    Wt     qK   Hw    Cr Weighting value: 0.7666666666666667
+k     X6    3F    GJ    br     I     X     qD Weighting value: 0.640625
+p   4F     Rf    3q     V2     iZ     H   Y o Weighting value: 0.7258064516129032
+I    5Q   U6     Gq    zD   Jc    Mm    VP  5 Weighting value: 0.8793103448275862
+1     k7     Mg     VT   wq   Hh     rw     W Weighting value: 0.7096774193548387
+3    TN   Rc   KX    8W   c6    0G   4N    j Weighting value: 0.9464285714285714
+G   ye     1z     W3    eU    pL    rE   rU G Weighting value: 0.8620689655172413
+r    lS     M     y     mQ     iN   6f     l7 Weighting value: 0.640625
+S   m    z    e3     Ke     qf     7I     XMm Weighting value: 0.7096774193548387
+X    N0    b8     H2   iq     px     f5    R3 Weighting value: 0.8333333333333334
+Q    Vc   2H    sY   57   hg     0P   Lz   nI Weighting value: 0.9821428571428571
+2    7R   No    2k     hn    Gu     T Weighting value: 0.78
+E    Wu     cF    78    SQ    0Q    91   qh J Weighting value: 0.9137931034482759
+S     4g     Tr    Jr   EN   TK   RH   Vc   T Weighting value: 0.8448275862068966
+Z    9q     PM    Io   xM   ZW     Xy     WPV Weighting value: 0.8448275862068966
+T     wb    qs   DQ   9     6    3O     S   h Weighting value: 0.65625
+o    zs     5q   AT    R4     i     L    0y p Weighting value: 0.7258064516129032
+q    pz   qZ     zf   d3   V4   9L   iE    AG Weighting value: 0.9642857142857143
+y     iv   6w   AU    Hv   IB    sZ     AB  F Weighting value: 0.8448275862068966
+9   zD   bY    u7    nF     3N     lK     H o Weighting value: 0.8
+2   92     Ad   aj    W4    B9   I6   j0    8 Weighting value: 0.9655172413793104
+u     AY    WI   ir     ds    LA   6a     8aR Weighting value: 0.8620689655172413
+6   Lc    zu     qb   3n     ue     L     W r Weighting value: 0.7096774193548387
+v   jS     xV     bw   Sp   XC     3n   4 Weighting value: 0.8148148148148148
+m   Sl    MG    pX   4n   Bk   LD    c     lm Weighting value: 0.8448275862068966
+o   iE    mW     tf    tG    Eu   3t     u4 a Weighting value: 0.8620689655172413
+E   98   f    n   i0   QO    bh    GK   0 Weighting value: 0.8518518518518519
+U   7v    z5   Yz     Mi   Kg   ta     lJ   F Weighting value: 0.8620689655172413
+N   G5    T5   uQ    vC   b8    wR    3G    j Weighting value: 0.896551724137931
+I     Sz   C8   e8    8J   7U   wx     4g   7 Weighting value: 0.9310344827586207
+d    49     T5   Yt    Sb    fU     c7    Xig Weighting value: 0.896551724137931
+V   pT   UZ     UK    xV     RF   oR   Ip   U Weighting value: 0.8275862068965517
+W    MM     AA     za    p8    W   h    1P  H Weighting value: 100
+7   tK     jS    A4    xS   go   x     K    A Weighting value: 0.7096774193548387
+G    0e     IA   tF     Om    ha    17   EU J Weighting value: 0.8793103448275862
+n    0W    r5    Ym     Rq   xn     n6   X4 F Weighting value: 0.896551724137931
+B     Kn     rn   HP   L5   k2     JS   JE  o Weighting value: 0.8620689655172413
+W    Nz    5h     L2    j3   5r   3V   KY   s Weighting value: 0.9137931034482759
+L     9E   ci     t1    j1   bY    4 Weighting value: 0.8333333333333334
+Z   m4     LT     t4   Ia   wV     Kg   B Weighting value: 0.8148148148148148
+R   Fj    tC    di   g8   gM    NN     6e   k Weighting value: 0.8620689655172413
+t   9N    V     Y   0    V     HY     As    5 Weighting value: 0.5909090909090909
+w     hu   3Y   G2    Sy     yw    r     T  f Weighting value: 0.7096774193548387
+A    Aw    SO    fA     nW   ys     jj    ZRS Weighting value: 0.8275862068965517
+V    kC    B    c   He     BC   FC   E0    IR Weighting value: 0.7666666666666667
+o    vT     HG    2E   fb   E   D    rw     k Weighting value: 0.6935483870967742
+O   XC     D1    hK     FV    Fr    yQ     PP Weighting value: 0.7666666666666667
+T   Yl     ZF     wE     XA    Ei   ke    aLU Weighting value: 0.8275862068965517
+E     ML    LQ    45    Ff   Kr     El    RDq Weighting value: 0.8620689655172413
+e   n    G   BC   C1    KF   pG   LK   Mb   H Weighting value: 0.8448275862068966
+A     Hr    Vv    4    5   QY   nx    4O   oB Weighting value: 0.8
+2     mJ     Bj   Du   CO   kl   Im   Jr   cg Weighting value: 0.9285714285714286
+3   p3    M     H     nM   7v     bV   Ec   f Weighting value: 0.7258064516129032
+M     XU     OM   Qx    Cn     q     o    vFF Weighting value: 0.6774193548387096
+3   lV   wp    mF   Fs    gS    m Weighting value: 0.8809523809523809
+J   kq     s   6    7   e   eO   5o    k    C Weighting value: 0.65625
+8    XJ   Rz     Mk    Nu   jO    e     0   X Weighting value: 0.7096774193548387
+2   u2     d4    tu   hS     P Weighting value: 0.825
+P     R1     vJ    ua     eh    Ys     4j   O Weighting value: 0.7096774193548387
+s    Zp    c6     2r   NL   29    o1     Uu f Weighting value: 0.9137931034482759
+P     ay   Vw     PI     rv     xg     Mm   n Weighting value: 0.6774193548387096
+o     c3   D7    LD     Ts    ON   JS     hE8 Weighting value: 0.8793103448275862
+D   pi     rG   u     Y     in    x7    l8  b Weighting value: 0.7096774193548387
+6     Mc     7R     2V    fG    5M     yW   w Weighting value: 0.7419354838709677
+e     r6     oj   bC    BB   lb   9I   rU   t Weighting value: 0.8620689655172413
+a   LZ   MJ     Vh     VP   gW    ZJ     a2 j Weighting value: 0.8448275862068966
+o   oA     CQ   mv   bR    ox     Vm   x5   d Weighting value: 0.8448275862068966
+1    Ac    zG     OC     H8    l1    Uq    b5 Weighting value: 0.8166666666666667
+o     XS   kr   B    4    Sb    VN    G Weighting value: 0.6851851851851852
+y     up   W6    V    a   R5     Na     2N  D Weighting value: 0.7258064516129032
+Y    vJ   3W   cL   iy   12    x0     TL   Rn Weighting value: 0.9821428571428571
+I     XY     qT    Fa   gQ   ky    Cr    y Weighting value: 0.75
+Z   6I     Er     2f    9E    lZ   uo    9W L Weighting value: 0.896551724137931
+c   YP   OO   gk   Ym    SC    Uw     RV    e Weighting value: 0.8275862068965517
+S     6Z     Mn     HN     Lz     Td    F9  2 Weighting value: 0.7258064516129032
+n     Iu    pz     o5    B6    yn   Gy     Dp Weighting value: 0.7833333333333333
+7   Gd    BK   nA    bM    VN     yI     ZS H Weighting value: 0.8448275862068966
+n    qA   sH   Xk   7F     l     4     jo   I Weighting value: 0.7096774193548387
+9   J6     C6   so   2d    Px   3    p    zDw Weighting value: 0.9137931034482759
+O     oA     QM     TR   kV    dz     tC   Uc Weighting value: 0.75
+e     sk   mL     xp   4b    kw    U9     odj Weighting value: 0.8620689655172413
+G     nu     fy    UL    aB     jT   dc    q2 Weighting value: 0.7666666666666667
+w    e     q    y2    pW    Lz     0d     NwE Weighting value: 0.7096774193548387
+Q   VR   aT    jw     L    6   MX    BF    Vz Weighting value: 0.7666666666666667
+t   iw     13     N3   9P    m4   ex    6q  T Weighting value: 0.9310344827586207
+v     0h     K3     Mj     VN   YK   q Weighting value: 0.7307692307692307
+P    GF   Yr    v9    TG    e0   G9     vg  6 Weighting value: 0.896551724137931
+0    VG   JS    6i    rW     0K     xr    4WL Weighting value: 0.896551724137931
+9    rB    hZ   lW     5P    oU   RJ   IT   Q Weighting value: 0.8620689655172413
+B    oV    Tt    Ys    pU   5T    ec     qO H Weighting value: 0.8448275862068966
+t   mc    oh   T2   Lr    6r     fP    d9   w Weighting value: 0.8793103448275862
+X   uk     Nx   iN     ad     Lh   M6     mKy Weighting value: 0.8448275862068966
+7    FS     4T    PT    Ww     hF    HH    tC Weighting value: 0.7833333333333333
+f     HA   LZ   BO   q1    wx     ra     Fj o Weighting value: 0.8448275862068966
+P    GG   p9    Qu    S    L   7h    0D    z1 Weighting value: 0.8166666666666667
+k     WS     E3   ys    yc    zm    GC     oQ Weighting value: 0.7666666666666667
+Y     YD     A5   YH     C2   pA   QE    NC P Weighting value: 0.8620689655172413
+Q    ca     kN    XC    a   N    LY   A1    N Weighting value: 0.6935483870967742
+j     zi   oR     m3   X7   Hl   Ig     En  c Weighting value: 0.8620689655172413
+D    f1   a     l    B6   pO    QI    jT   pR Weighting value: 0.7833333333333333
+u     Rd   lh     3A    Uc    fO   T9     ENA Weighting value: 0.8620689655172413
+s   JU     aN   lU   bq   52     P6     7i  2 Weighting value: 0.9137931034482759
+M   mj     nf   Kv   7G    10   T0   Zz   xsa Weighting value: 1.0740740740740742
+K     Y6   Od   EQ    0K     DC    wv     oUP Weighting value: 0.8620689655172413
+0   Ll    B4    H8    u4     kt    aq     D7b Weighting value: 0.9137931034482759
+y    SQ     Zt    sl   mi     R9    Qs    oJE Weighting value: 0.8448275862068966
+B     lm     1J     WL   Il   iy   FG   um  Y Weighting value: 0.8448275862068966
+5   cT     1    h     D     R    F5     Q Weighting value: 0.532258064516129
+h    Zp   Yg     TX     FV   1I     6j    h6u Weighting value: 0.8793103448275862
+M   PD    D    z   9j     Xd    AJ     0m   k Weighting value: 0.7096774193548387
+W    kP     UV     mR    ro   GD     2K     S Weighting value: 0.6935483870967742
+o   gn    2n    qM    a1     eh    b3   q Weighting value: 0.8333333333333334
+C   W5     L8     VM    0Q    wF   k    E   6 Weighting value: 0.7419354838709677
+Y     hb   gn     nU    pC   NT     GS     Ok Weighting value: 0.75
+w   6R     kj   nl    Zf     bc     Hw     u Weighting value: 0.7166666666666667
+p   PF     5T    1E     aN   tz     5n     L4 Weighting value: 0.8166666666666667
+q    w9   8h     2D     nr     gA    c4     D Weighting value: 0.7419354838709677
+Q     GD    C2    Ch     NN     RP   TI    23 Weighting value: 0.8
+J     uC    oP     EG   kc   az   fc     nn D Weighting value: 0.8275862068965517
+R     WG   Er   4p   AL   Cp     Ph    Rx   I Weighting value: 0.8448275862068966
+v    vg    dA     qO   ck   Jh    Cj     wo p Weighting value: 0.8275862068965517
+A   PN   tK     lC     Hv   0B     l3     uoN Weighting value: 0.8620689655172413
+K    3M     Fr     e8   7U    hG    e Weighting value: 0.78
+U     bW     zG    Vs     me   dy    JB   6N4 Weighting value: 0.8620689655172413
+e    yS   m3     jj     3C    6m    z9     KA Weighting value: 0.8166666666666667
+G    U8     3t    Om    wU     RH   u Weighting value: 0.76
+L   wa     ep    z0   IL    QA   N     i    g Weighting value: 0.6935483870967742
+b   Ga    Gv   R     l     ZD     9U   UI   o Weighting value: 0.6935483870967742
+W    QQ   6E   6e    ro   PG     K6   8o   6e Weighting value: 1.0
+B     7X    bP   xX    qd     2P     Pq    iH Weighting value: 0.7833333333333333
+z    Ix    lT    xN   yK   m3    qN   GM   4P Weighting value: 0.9464285714285714
+S     ou     oP    9d   55   0D    VA     BBZ Weighting value: 0.896551724137931
+f   T2    QH     fM     9g    00     4W   SzC Weighting value: 0.9137931034482759
+c     pH     K1     fu   AU   s5     O9   J0r Weighting value: 0.896551724137931
+Y    4f     Z9   z     u     vd   QS    vO  N Weighting value: 0.7096774193548387
+K    FL   Xc    1a     c    G   tM     Z Weighting value: 0.6607142857142857
+G   EL    Tr    Ag    4u   Tn    3i   1 Weighting value: 0.9
+t    w4    tD     i     U    cQ    zc     uoP Weighting value: 0.6935483870967742
+q    7p    vr   Kp   TI    dB     4D     jn v Weighting value: 0.8620689655172413
+d    q7   U6   O6   XT     h7     no   dy   0 Weighting value: 0.9137931034482759
+j   uT     RD    6a   e9   d9    dJ   Ki   Op Weighting value: 0.9642857142857143
+v     e5    eR     zs    y3     3R     Et   7 Weighting value: 0.7419354838709677
+r   Ly   bJ   ST     Wj   rp    UJ   Uk     M Weighting value: 0.8275862068965517
+e    Jj   al    F9     iT    Sf     ag     dC Weighting value: 0.7666666666666667
+N   ZX   M1    dF   Ai    qS    ha     nQ   0 Weighting value: 0.8620689655172413
+J    AC     oK     4z    7L   me   OK     cxh Weighting value: 0.8620689655172413
+8   FI     wl     1c     0A   hd   Pc    tz S Weighting value: 0.8793103448275862
+8    br     Ti   CD    F8   UF   v   C   6L I Weighting value: 0.8793103448275862
+n   xm    xB   jf    OJ    mT     Z8   sQ   W Weighting value: 0.8448275862068966
+h    uh   oq    oN    N3     XI   hT   TO   n Weighting value: 0.8448275862068966
+E    T0   sS    FJ   Cf    ZF     EN     3o 2 Weighting value: 0.8793103448275862
+c     lz   I1   M0     au    Zb   No    nH  m Weighting value: 0.8620689655172413
+8   dn   kR   yL    d4   xd    1g   s   L   w Weighting value: 0.8793103448275862
+g   ip    bI    tm     EF    GQ   Cq   S4   E Weighting value: 0.8448275862068966
+F     r8   yJ   4m   H9     Y2    Mw    x3  y Weighting value: 0.9137931034482759
+2     Ff     zS    9H    1D    re     a Weighting value: 0.7222222222222222
+8    ob   k6   Zf     Nd   BX     5N     vx u Weighting value: 0.8793103448275862
+s     5H    ep     F3     lF    Qn    83    7 Weighting value: 0.7580645161290323
+u    t   8    L7     x     A     WY     bF  F Weighting value: 0.5757575757575758
+x   64     LU     68   4g   O8     uH     8k1 Weighting value: 0.9655172413793104
+f     Rh    Q9   Wq    ij    tx   pd    Cq  8 Weighting value: 0.8620689655172413
+r   Av     cs   dv   7r   H1     CX     JT  y Weighting value: 0.8620689655172413
+p    JQ     ae    gs    zF   1l   Ky     EZ X Weighting value: 0.8448275862068966
+u    yo     SV   EL    s   w   8O     j0    w Weighting value: 0.7096774193548387
+w   SW   qh   j2   T4   AY     0F   jf    VRn Weighting value: 1.0555555555555556
+7    GS   MB   IO   A2   Zz    r9    Rl   QYv Weighting value: 1.0555555555555556
+9   Vf     is   R0   ew   C Weighting value: 0.9411764705882353
+y   A7   uh     qm   Xp     Oe    SH   FO   L Weighting value: 0.8448275862068966
+7   UU   2K   y9    Dj     DV   lr    Qn   wt Weighting value: 0.9642857142857143
+b    sU     fy   Ul     60    l2    ZH    Ggp Weighting value: 0.8793103448275862
+4    iF     M2     iv     gh    Kw   r   T  6 Weighting value: 0.7258064516129032
+r    S5     cE   eC   7y   Vs   dt     rv   0 Weighting value: 0.8793103448275862
+B    ns    m7    ox   ya   V Weighting value: 0.8611111111111112
+l    Ep     s1    ty     3M   1V    Tm    Ffy Weighting value: 0.8793103448275862
+Y    fU     t0   oY    gG    ps     p7    v Weighting value: 0.7586206896551724
+8     Jd     4M    9N   FQ     Ka     e    Ry Weighting value: 0.7258064516129032
+f     Cs    y     s    0G     ZF   Ar   qS  v Weighting value: 0.6935483870967742
+R   UE    RE   zN    dJ     eJ     U     0  M Weighting value: 0.6935483870967742
+k    J   Q     jK    sU     Qo    Zb     Z4 J Weighting value: 0.6935483870967742
+w   JG     8Z   yb     qQ   Ao     Kf   g Weighting value: 0.7962962962962963
+d    U8     9d   ng     DO     1N   42    KCn Weighting value: 0.9137931034482759
+U    jK     Nb     qi     8T   6B     rC    A Weighting value: 0.7096774193548387
+6     Oq   K7   L3    g7     rH     2   8   P Weighting value: 0.7741935483870968
+g   u     p     c   X   b0    AU    d Weighting value: 0.5740740740740741
+4   L8   fg   nm    TO   D9     8z     Kk   R Weighting value: 0.896551724137931
+1   ZQ   m8   QH   Ft   Lg   WA    J0     Psb Weighting value: 1.0555555555555556
+s     1U     2Z    Xk    T4     xL   2 Weighting value: 0.7692307692307693
+D     Ye     M5   DV   yW    rM    zF    OI n Weighting value: 0.8448275862068966
+O   mB   X     A     yA   S2    4S    0s    1 Weighting value: 0.7419354838709677
+Y    FL   fn   qf     7J    Qi    Kt    wX  P Weighting value: 0.8448275862068966
+f    kM     Xb     C6   2F     5 Weighting value: 0.75
+t    UU    z    r   9u     UP   Y5     Wn   f Weighting value: 0.7096774193548387
+3    2x     0K   8D    y8   3t     AQ   l2  3 Weighting value: 0.9655172413793104
+E     vB     ua    SJ     BU    xf    s Weighting value: 0.6666666666666666
+7     f5    z1   i9    KZ   sV     SH    6T m Weighting value: 0.9137931034482759
+P   pP   5p   IB     3J     ai   A2    ai   U Weighting value: 0.8793103448275862
+q     Yq    tH     lJ    0Z    cj     Yv    K Weighting value: 0.6935483870967742
+f    wQ   Ra     bo     dQ   5J     av    WhX Weighting value: 0.8448275862068966
+c   GI    tf    xu   ou     0i     2E     PDF Weighting value: 0.8620689655172413
+p    zb    Xq     m7   2     p   gm     fI  t Weighting value: 0.7096774193548387
+Z    7p   LP    IK   B6    X8     aa    bR  U Weighting value: 100
+y   4m   cz   il    HX   zO   Q6   yu   la  3 Weighting value: 1.0555555555555556
+7    lx     b1     2h   Ot    LE     As    ES Weighting value: 0.8
+j     Gf    K0   0R    Vo   9b   cs     rl  c Weighting value: 0.8793103448275862
+K     OE   eG     rH   Kw   Xm     E9     3f0 Weighting value: 0.8793103448275862
+w     3X   5Z    1g     d     L    il   hd  j Weighting value: 0.7258064516129032
+K    2e    UO   zG    zL     AW     sm   uR M Weighting value: 0.8448275862068966
+T    a9   gX   Fn     vH     0c     L    C  K Weighting value: 0.7096774193548387
+J     N7    L7   ra    Ar   Yv   Lr   BA    z Weighting value: 0.8620689655172413
+2   Q   l     9    N   9i     nP     A Weighting value: 0.5892857142857143
+0     n    E     LU   q8     WC     sg     r Weighting value: 0.59375
+u   wW     10    Ju   AW    cB     CP   HZ  y Weighting value: 0.8620689655172413
+J    CS     S   x    12   TR    vv   PY    Rt Weighting value: 0.7833333333333333
+a     zn     JK    SL   pd   nT   z0     zp F Weighting value: 0.8448275862068966
+G   3e    4u   iy   1R   0a     O5   H   7  Z Weighting value: 0.9310344827586207
+5   n2    o   w   Y8   Ln    gk    pA    MK j Weighting value: 0.8793103448275862
+B   y8    Un    WT    vl    SD    RQ     z4 M Weighting value: 0.8620689655172413
+x    XP     H9     UW     Xw    98   rv    LS Weighting value: 0.8
+H    lG   rJ     3B   zN    sa   qC   bm   cf Weighting value: 0.9285714285714286
+M    9s     hT   Yf    BR   x2     6Q    YY d Weighting value: 0.8793103448275862
+i    wf   b2    TT     nE   uD    PH    ei  q Weighting value: 0.8448275862068966
+2     W0    63   8l   Ml   fH   Kx    b Weighting value: 0.94
+Q    As   dZ    6v    UI   jo   Bj    ZN    H Weighting value: 0.8448275862068966
+5   7N     dF    Nj     rX    uq     UP   0ul Weighting value: 0.8793103448275862
+0   Vq     TZ    wJ    Hh    sJ    6Y    Jn W Weighting value: 0.8620689655172413
+2   Ni    n3    fx     G2     X2    9P  0 Weighting value: 0.8888888888888888
+v    Y5   yc     b    L    6x   hG  T Weighting value: 0.76
+7   nD   nK   k7   YG     2A   HR    mB    dW Weighting value: 0.9642857142857143
+F    hm    9I   w3   GD   dq   Dg     m    dd Weighting value: 0.8620689655172413
+d    fQ    Pp    mc    dp     IN   2u   8v  i Weighting value: 0.8620689655172413
+N     hp     S7     tg    qY    n9     J8   w Weighting value: 0.7258064516129032
+f     l    u     mp    h2     F6     3o   x0W Weighting value: 0.7419354838709677
+A   B     k   at   FT     NO    sE     hq   d Weighting value: 0.6774193548387096
+a    e9     aN     t4     Rv     t8    x1   V Weighting value: 0.7419354838709677
+j   Oz     Kn     Py   hg    B5    Wr    yG i Weighting value: 0.8448275862068966
+1   ld    IC    T0     48     0o     Ft   7gp Weighting value: 0.9310344827586207
+5    L6   1D    ez    gJ     B9     EM   73 E Weighting value: 0.9310344827586207
+o     n5    rB    Ca     lk     ZT     Z6   x Weighting value: 0.7096774193548387
+P    CV   ZQ     Mx    VL     Gj     jj    pr Weighting value: 0.75
+Q   qb     vc   Dw   IP   FJ    rZ    Va   9c Weighting value: 0.9285714285714286
+v   I0     Ec    Hh    9g    Pt   qK    Od  b Weighting value: 0.8620689655172413
+x   Na   wO     MA     mq    3q    rD    dU k Weighting value: 0.8448275862068966
+v   8N    KM   dK   pn   te    3J    WL    6y Weighting value: 0.9642857142857143
+q     Ey   Wy     qc   xT   5n    vO     9o b Weighting value: 0.8620689655172413
+Q     eE     v1     aA   pY    2Z    wE    G Weighting value: 100
+9     0a    yF   HS    hl     Vh    vb    Sdr Weighting value: 0.8620689655172413
+P    G    M    ya    En   w    w     je   WgI Weighting value: 0.6774193548387096
+O    nx    4i    Vu    kN    2z    zp     iWe Weighting value: 0.8620689655172413
+o   GZ     V1   td     EY     RJ   LG     jQ5 Weighting value: 0.8620689655172413
+8    1h    x4     Yg    D   7     UD   b Weighting value: 0.7142857142857143
+t    Rq     2S    6t    i6     jz   rY    W3B Weighting value: 0.896551724137931
+8    b9     PF   q2   e3    Mk     HK    Fk 0 Weighting value: 0.9137931034482759
+d   qe   NR     Ps   YX   N     l   6y     97 Weighting value: 0.8
+U     HB    uB    6I    LL     ru   r Weighting value: 0.74
+z     Eo   ce   UO    ON   Np    hc   Lo    u Weighting value: 0.8275862068965517
+8   21     rJ   WY     FX    Jl   Kv   FF   O Weighting value: 0.8793103448275862
+l    Qu   U5   XM    Gq   Uj     2x   U9    4 Weighting value: 0.896551724137931
+d    ZF    Zl     Uh     fG    uV   vS    O6a Weighting value: 0.8448275862068966
+d     BX     1j    Xk    lq    Dl     IU    R Weighting value: 0.6935483870967742
+H    u1    UZ     JB   MA     6q     Ba    5c Weighting value: 0.8
+g     Sz     aE    F4   g6    yc     Ng    8P Weighting value: 0.8
+J    nX     d   S     Nr     Db   Qr    K Weighting value: 0.6206896551724138
+g     j2     st    W3   f     G   BC    O0  H Weighting value: 0.7258064516129032
+j    8Y     dd   6I    jX     qI    fX     wk Weighting value: 0.7833333333333333
+8   2u     OZ    rt    9V     bn   4J    5x D Weighting value: 0.9137931034482759
+0    Zz     qW   f0     1u    nV     pb    ev Weighting value: 0.8
+T   7I    B   r    Mt     C8     j9     UQ  x Weighting value: 0.7258064516129032
+x    t2     0W   Fe   Mf     VC    CP     D9k Weighting value: 0.8793103448275862
+P     YG   rz   QR    Ht   au    ip    5H   L Weighting value: 0.8448275862068966
+D     xx   jG   gl   ss     nE   ei     Ph  m Weighting value: 0.8275862068965517
+S   xh   xC     1N    DM     gR    E    M   7 Weighting value: 0.7096774193548387
+I    fU    Jc   7O     QJ     Yh     Au     i Weighting value: 0.6935483870967742
+4    vB   UD   kg    1q    dB    w    E     U Weighting value: 0.7096774193548387
+5    17    Eo     sY   7w   El    p2    28  c Weighting value: 0.9482758620689655
+r   d    x    u   O    ux    bo     mT     Wu Weighting value: 0.609375
+D    W2   JR     8P    Cv    dD     AE    HsO Weighting value: 0.8620689655172413
+W   OM    xM   Ew     cd     Tu   cb    0M  Z Weighting value: 0.8448275862068966
+f   yp    E5     qO   Bw    mY    u Weighting value: 0.8043478260869565
+g     OM   dn   ZL     Iz   0W    fE     9r x Weighting value: 0.8620689655172413
+9     v4     TP    sI     27    Qf     DI   L Weighting value: 0.7419354838709677
+e   il     c    e   Vl     mW     Sn    XP  D Weighting value: 0.6774193548387096
+r   yb     sz    DB   LM    6b    Ja    vM  k Weighting value: 0.8448275862068966
 
