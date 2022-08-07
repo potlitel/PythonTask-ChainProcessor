@@ -51,11 +51,13 @@ def getChainWeighting(chain):
         'space': 0,
         'other': 0
     }   
-    if not True:
-       IsSequenceRepeated(chain,'a',2)  
-    result = StringCountElements(chain, mcounter)
-    processedLetters = result['letters'] * 1.5
-    processedNumbers = result['digits'] * 2
-    sumValue = processedLetters + processedNumbers
-    Weighting = sumValue / result['space']
+    existSequence = IsSequenceRepeated(chain,'a',2)
+    if existSequence == -1:
+        result = StringCountElements(chain, mcounter)
+        processedLetters = result['letters'] * 1.5
+        processedNumbers = result['digits'] * 2
+        sumValue = processedLetters + processedNumbers
+        Weighting = sumValue / result['space']
+    else:
+        Weighting = 100
     return Weighting
