@@ -1,11 +1,13 @@
 """
 ChainProcessor.py: is in charge of all the processing of character strings from the server side
 """
-import os
-import socket
-import string
-import sys
+import os, socket, logging
 from modules import utils, textProcessingUtils
+
+#Create and configure logger
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
+# root logger
+logger = logging.getLogger("ProcessingServer")
 
 def ProcessStringsCharacters(content):
     """
@@ -49,10 +51,12 @@ def ReceivedChainsAndSendResponse():
     sock = getServerSocketConnection()
     while True:
         # Wait for a connection
-        print('Waiting for character strings to be processed sent by the client')
+        logger.info('Waiting for character strings to be processed sent by the client')
+        utils.time.sleep(1)
         connection, client_address = sock.accept()
         try:
-            print('connection from', client_address)
+            logger.info('connection from', client_address)
+            utils.time.sleep(1)
             # Receive the data in chunks and retransmit it
             while True:
                 data = connection.recv(10000024).decode(FORMAT)
@@ -60,7 +64,8 @@ def ReceivedChainsAndSendResponse():
                     response = ProcessStringsCharacters(data)
                     connection.sendall(response)
                 else:
-                    print('no data from', client_address)
+                    logger.info('no data from', client_address)
+                    utils.time.sleep(1)
                     break
         finally:
             # Clean up the connection
@@ -73,16 +78,16 @@ def Main():
     @return:  None.
     """
     utils.createConfigFile()
-    utils.time.sleep(2)
+    utils.time.sleep(1)
     if not utils.file_exists("logs"):       
         #print(False)
         #create folder logs
         os.mkdir("logs")
         #create ini file
     if not utils.file_exists("config.ini"):
-        utils.time.sleep(2)  # Sleep for 2 seconds
+        utils.time.sleep(1)
         utils.createConfigFile()
-        utils.time.sleep(2)  # Sleep for 2 seconds
+        utils.time.sleep(1)
     ReceivedChainsAndSendResponse()
 
 Main()

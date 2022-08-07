@@ -2,9 +2,12 @@
 ChainProcessor.py: is in charge of all the processing of character strings from the client side
 """
 from ctypes import util
-import random
-import string
-import os
+import random, string, os, logging
+
+#Create and configure logger
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
+# root logger
+logger = logging.getLogger("ChainProcessor")
 
 from modules import utils
 
@@ -20,7 +23,7 @@ def GenerateRandomAlphabeticalString():
     for i in range(lenght):
         str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
         #if i == random.randint(1,lenght-5) or i % 20 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
-        if i == random.randint(2,70/2) or i == 70/2 or i % 20 == 0:
+        if i == random.randint(2,70/2) or i == 70/2:
             #str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
             str1+=''.ljust(random.randint(3,5), " ") #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
@@ -47,11 +50,13 @@ def SendChainsToSocketServer(chaintToProcess):
         """ Opening and reading the file data. """
         file = open(utils.filename, "r")
         data = file.read()
+        logger.info("Getting content to send to the server side to be processed.")
+        utils.time.sleep(2)
         utils.SendChainsViaSocket(data)
     else:
         #utils.logging.exception("Socket not available to sending and processing this info")
         utils.time.sleep(2) # Sleep for 2 seconds
-        print("Launch ProcessingServer.py (Server side app) and try again.")
+        logger.exception("Launch ProcessingServer.py (Server side app) and try again.")
         utils.time.sleep(2) # Sleep for 2 seconds
        
 def GenerateCharacterStringIntoFile(totalChains):
@@ -61,7 +66,7 @@ def GenerateCharacterStringIntoFile(totalChains):
         totalChains   - Required  : total character strings to generate (String)
     @return:  None.
     """
-    print("\nGenerating a total of {} character strings".format(int(utils.numberofchains)))
+    logger.info("Generating a total of {} character strings".format(int(utils.numberofchains)))
     # verify if chains.txt exist, in positive case, we proced to deleted
     if utils.file_exists(utils.filename):
         os.remove(utils.filename)

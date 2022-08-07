@@ -1,8 +1,14 @@
 """
 Text Processing Module
 """
-import string
+#from asyncio.log import logger
+import string, logging
+from modules import utils
 
+#Create and configure logger
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
+# root logger
+logger = logging.getLogger(__name__)
 
 def StringCountElements(content,counter):
     """
@@ -62,5 +68,7 @@ def getChainWeighting(chain):
         sumValue = processedLetters + processedNumbers
         Weighting = sumValue / result['space']
     else:
+        logger.warning('Double {0} rule detected in chain: {1}'.format('letter',chain))
+        #utils.time.sleep(2)
         Weighting = 100
     return Weighting

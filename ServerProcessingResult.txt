@@ -1,501 +1,501 @@
-V   ZTqXJm    A2CuySEoTVyc9I    9tb7hF3veHYHHBR    bEsTh     eVgWY5fMbVgwQURTQjX6   ZVzgbu8gUjiivPuM Weighting: 5.195652173913044
-V     0VNvT4b3j87Gxx6YhOoO     ZlHD2tqAomDpWYR     pprLM     Nf3FJekWcK0HpGpDztOQ    WYQZMRBAeNkIVjO Weighting: 4.9375
-2     bnheWlVwOm60b4PcXMJA   fOeNxdtUeqzoyEe   9C0fW   AN50hF9NBcEisUdtWaxg   KxTaprOoz0AS3ngZSAkG 7 Weighting: 7.166666666666667
-S     neW56wqdMGnREzfnWoCY   iFjxs2dKWgaDnbb   SFpcZ     vNqMkuX4BbR Weighting: 5.0
-b   SAOlWlgKbPrS9Vkh     ykj     H    lzCwCps7TiUalQB     AGDgU   jAKhcib9OGZCtuxZDd5L    z6XlqH0tT2 Weighting: 3.793103448275862
-S     Yg39NURAlXXwRzrGSUTu   Mo1AuIYt1NoQhw1   kkz1q     gnvC8Ni4fsq807fhQlIH     Rgv9bTsiHvVeUgcrCb Weighting: 5.928571428571429
-C     jGh    lO0P3CrG0stA9e13r   gwxtbC0iPJrpuUu    AhBX0     eM4zjSzFd7r6cBupA Weighting: 4.404761904761905
-G    0J0Ju5C3MBvhvfEa8C8L   RRrSon0hmyELpO4    5eggz    NGpN1QfC2fB4DA0h Weighting: 6.133333333333334
-w    sodIgzimM8BwVpyrO6ni   QhXJBidHo8Z9OJY    3M8R4   0cK44ABqzof2sqtFeukO     6ZqMXeJAJGk Weighting: 6.0
-i   BCnMRgqpUF    AwqQ76yKak    qMzr   ZlCbJF559uF    vp6tv     ibTsQrhxlpmKGCPw2kUx   QnLSKIhgx0s Weighting: 4.3076923076923075
-T    Zsp3Iv5M   EaC3Kv23H98l    1ahk70nztoiKPtK    iYLfp    SOtIhNYwZdDqPX3xICO4     WsQizz303cHwOJG Weighting: 5.0625
-N   2L4    SjGRflIaKMD67aBJj     1Mv7ZKuol8ENCrY     VF4w9     fnb6ofOwF6gT5QRZmkHd   Aotoa6ClTUNc6q Weighting: 4.78
-F    6PUmNXy7R3Mll6379yg7   qcBPd3QYnLMgeXl   uDg6t     iRTcdUVsKHyiPfUVS6 Weighting: 6.266666666666667
-x   DQsdvXaETUM0eJaDkKMO    Ybzx4BmWPiz7DJm     XbVJM     RSHRCrEKsdRXWSzTzlZD   rAsvewV6zxjx9qEcexk Weighting: 6.125
-s     OPlC0lRwMyHocxMdQMIs    6hzJ0aX1W     Bx3051     fT16B   mTolG4RFHjw0hGTpuuqn    F24ls Weighting: 4.076923076923077
-C   eIzji     WXVt9g2Ln0MaJEG   JgW08cBS7mh5H5W     On4mj    osAZqnqHyk Weighting: 4.05
-t     p3S0fMctgxWhhzxkCmYX   ttabFAMyhkBQG20     hl4Hn     DisMVGHTgacgxDHwvBC7    8Nuxh4 Weighting: 4.75
-O    5SZZgzCpyTMzUlWaybj3    I1xbR45qVaeOWHY   6iHx2   qLFbPtqnotfS7 Weighting: 6.071428571428571
-V     BNdX3U0DbJYA8IL   l96iQ     9o8cL6aXzz8xWTX     JIZ9A     scOLjFwBQgZOfCxE Weighting: 3.9347826086956523
-O   qrHS4amf1ESQ2RWh    P6Uz    4PlwydW0OighOQ4   uOA3B     S3Na6Q2BXHHWouxmkOTT     geMY3MvWl1MpnUd Weighting: 5.020833333333333
-j   OP1UiCU8qxZB547n3Atj    dikP3   9kWZri4pwU   2jHP4     hozRrVw3tGimsRFH8aVk   X5GTDO5eExWsn81kao Weighting: 6.0476190476190474
-V   2GCxCv8nRohyF3rc7Vgh     19    hxKt4MHlmBU7t    469jU   AoIcjuZsDirhwK2GzJWO   OwZ5cmZ1n Weighting: 5.090909090909091
-b   vSV8PZ8P6XwYDz7    KrmR2    URXY7LO1CIILPad   WLSFT    VXeTkcCoQD Weighting: 4.444444444444445
-A    u7wpnqj5LFgfdq3OzoW    X    XsCBJQYR6CAMpvi   cwyW6   I5HHqjkDUZh0BynJfAxt     X4omxY1W1kKelQAv Weighting: 5.239130434782608
-m     FQfmFQb68LEiSSLkwagz    Q6y69    CaK     rpPsvP1    1Euq1     kfZap1BmDPpFEk Weighting: 3.2222222222222223
-s   dshRfKZyr2UjgMjus0vO    b6mg2qjFUfcuV3q   4oghj   9iHpcq8ieOqBeUVIIcta     Myx Weighting: 5.555555555555555
-h    IIXLJwH7mtb3N5y53Uxt    ZSMM1Mj1A   9LNuJG    JHks6    phPlqoTpZ52Ty0OgZHPB    hXD Weighting: 4.434782608695652
-q    ebS4ckUwD3tGVaZQYNiD   yVVrqRd5c9d4rd6    nmc7e   BqpEPkosKHUNjWdDF0dG    nzH Weighting: 5.555555555555555
-R   hw1CunZmmwOwDHYLmmVQ     tmOHCtnagcEbwME    8XpT4    wkgCbjeij2OZjWXDcod7     3mdXgRsHVWQdDqjqZ0 Weighting: 5.809523809523809
-H   f7d2HjPK5FoObGWzdUeI     ZNGY1pT3ZIn8v97    yx7wQ   JgoZfhDAGX4ozpKWf6yu    jzJYuW41O5pL7sZkpglJ Weighting: 6.7894736842105265
-C     rOnq5MWEO4SCZnZSE     TO9     vekmj0    HiO29mnXm   XU1ZA    jSc0hWVWsZdOX4ZUyIYN   vRr6DmfSYA Weighting: 3.8448275862068964
-R    Ak3MD72CydHeNgtn8eG8    kbJ   BUQorrLa4s     EK   eqsYr    D8LBuCLteLvIizNDNpZJ   v4BbLWeFsempo Weighting: 4.423076923076923
-s    0HlDredQz1gQmpgme    HAy     vM    oKc9KQm9UqqMy   0hSYt     9lkWRjQcZezwmEWKnJkZ     95FjDgTnS Weighting: 3.6333333333333333
-T     DksewwaKZ9GnRruA4A41    lPLO0Jb     FmyaVtiW    en6zt    pGlKq9xd2wRAQ Weighting: 3.8636363636363638
-2     RTvVPZFhpbkTTTK48p8R   3EiVcAv5wZoSm0y   BjCx2     yHmPDmzFAhQzdKePkIc2   JqsAul Weighting: 5.526315789473684
-C   Euz    AdyGNjUwURZu     Vbu9e     0ClkFtjeNKzlxxh    6mgVZ     IwT50xzxYQGyJszr5Ac Weighting: 3.576923076923077
-I    EBib    zPGzBvRc1KyyiFF     D   tzHnecj1DMy7MNQ   ymWSh   TnKpSTZWLkER7EMj02va   sDsWy8IUePgpET Weighting: 4.64
-B   c4XMTzzlQd1j9BMVVelN    1PUzNwy0m5QmiWC    CbD8U   sWa5PGxxVpwVB1YaDnFS   mBgbUsGRrmUGudoNx2QY e Weighting: 7.111111111111111
-b    vI8XRxvIcB7EsGz0Iovw     OLX87HG5c2NKzak     7TP4j     S8N6oGiZT8HvHN3qnJ68     K6l7Hlajo Weighting: 4.729166666666667
-L     qLY7m1GLr2vFQxwnq     Ewg    RMQd5ihcIg6nsn3   fmmfb     l79ZJFiWaYZmd0kmHELF   fNhIVBYj2wDOMe Weighting: 4.7
-N    SeEFrK5JvuTAMiVKPgM0   CSEXKe9sg1SfAF8     EnqBa    LxIG7JqhntJ9Ubjn7GZg     ZuOKUveKuIavq4qOlV Weighting: 5.857142857142857
-I   wpJYic2WhnPdTittdOe2   5I8omDWMtzUGQg6    EI6Pc   2Z3Sg9OWBcVsYASy7XDj    2OVdD77tOTYU Weighting: 6.823529411764706
-1   XbnmZpCNTLkr7y7LUYWi     jY9   1LIK    qzwm4Cn5   XtnKZ    6kXV9UdyW8Txl9FL Weighting: 4.136363636363637
-X   B6ms     R2ghdzajTkbm8G8h    psyxBfnmyStBc1I    C3cRw     w0B65LRhwWfAEhjddeu4     2zfzsBaLZHP41 Weighting: 4.519230769230769
-b    gk6njM2kE9a1dUdMgytb    rInMqi39Otw7KHW   FkAxt     vwWYm6DXkVrQq3IjJjrO     F6bdYxkyfUQ64WJmDU Weighting: 5.928571428571429
-J   HQq1UJSVcS7lDi     ehAtgy    KVrRHNecI02Isu2   k4hRG     669ACB5xSubBMRUACUPp   4i9fCjJnrGcGLX1z Weighting: 5.304347826086956
-O   bGfGOBXjJBOxvBN5o   tIH    kyTqVBbvAk    Yr0cR   Ul6DA     N1257MmK0IQSnoIYgZmX   s1uHWmWKkABnd0 Weighting: 4.7
-A     HVNo4VGzmSXB0   aN7cJlv     IR4xJ9WToX6WXid    O3P4y     EaO3Ud3bYW2F5vsHT3IL    lJhlgwF4exeNp Weighting: 4.538461538461538
-U   YISeYwBNm25ldMfPpMK9    7i9bipL8SWBrbLZ    1f6tP     PXBTyE84bv7va9RYOpbQ   CRmltt Weighting: 5.605263157894737
-6     KHnAZA29MyjBhJF4Hlil   mGbKreRw6s1mhc0   9AQUW   DDffbXra1auG0qFuSSaE   c9wSuFFI9LYs Weighting: 6.794117647058823
-D    FIl4pvI    xG7AeiOSetdfN   Prp0hK5gnTPaXqY     77hcr   iySfva9Wbu1qtAJGEYfM   qDhxlDJhogc6xOJFl Weighting: 5.5227272727272725
-f     Pciu0hlR7sKw1eVBMolR    rnilFYHBRWakPo   C    4xl4n     IK2l7WVmNEccdW Weighting: 4.095238095238095
-k   T1r7hdf0eOKx3CPuTKst   aw56E9FVLNK3Tta    YWs7Z   IDDGXUxNZHbTRzYhq4sc    8gjuznwsmsW4ctFU7Wu4 i Weighting: 7.222222222222222
-I    gpnKsBbPBIt6VUP8PcQL     Tf7bONtU5RMZuI    m     FLzNo    bzHpczrhjvVPGtNPjgzs     PXb4x5JbcGgF Weighting: 4.166666666666667
-k   9R12cYsRBbYyfvClu16l   vk1MJ6ILe68uuqn    8PMVt    ST2ek2XJaoeubd020Yfr    N2uuT3FVXPNYbRvzZZ6JJ Weighting: 7.333333333333333
-z    Jk7ekPzRZ0v0WwC5fMuh    ByI1DcfywzvgkHt   ouT3g   fr228csoehR3jS Weighting: 6.25
-H     cUFj1rg0p5EGsybkhG35     HGMpIU9Guatf   Y89    Ynyfo     cvu9Bop32ccyrYYDF Weighting: 4.204545454545454
-p     4yS9kC    uT1Es08T8NFUge   7Bdfas5C3s8f06D    iU48A     bWWv5yCYRA Weighting: 4.0
-E   USZvHnHmyXz1VnEbrbby     N0lLeJpY8CWQhVK     betLA   AkY9mufatHB615HHajcO   qsy7gc4LbXOy92jWbAe8 Weighting: 6.7105263157894735
-9     honKZ     330FHNGCPXGFfPp   9pUsNt36hFyHMcA     xrMwh   7jaFidbhvD Weighting: 3.8333333333333335
-I   Y4E5HhNiNqBdpiXXIW4j     acW5qkYCjjJEHrO    c8SOE    IWPCUa5JNaPjp0bbyB4n   1e8 Weighting: 5.315789473684211
-g    6MbiIe    bq8gFkrMMEv1fV    I5EZmQAT9xd7cHz     P4480   ymGnMWbgy0V3pU4Cn4GE   cBLp Weighting: 4.543478260869565
-G    SyUXBsngoCnQ6VuwUhOk    BG2c9DH05jqHG5J     u1GoD    60i7iMbWfn6mRk Weighting: 5.176470588235294
-U     RTnCEgyV2i78LKayygM7    D0rvaHEM3FCKqU4   o0iti    KzNKB7GesDImUu9EPK7y   SZIjWw2uZqwxndH1M3Wk Weighting: 6.7631578947368425
-r     6xvMjB5hEPtRHdN7He6w     Flk6YiOItWyWClN     cASB9     otw9u2XUlttAVGLbcZzm   F Weighting: 4.217391304347826
-C    y4   OtScWL8D1h     P35GX     n5F   xQEWGiFvWZujrzP   9QLdZ     MvECh9fMB7M6os2pTcGi     I46Cvb Weighting: 3.242424242424242
-t   4F9v53YXlJm0XNgqJEpE     qouy97g2T5H9XG   G     flDF9   O7TXqvEOoBWTguUOBSyO   UmdUV1gN6nScH4O55 Weighting: 5.704545454545454
-z   BrbT1ufV7bpb0mVbP3Wi     rEeth1QiZbLUmkW     ExaiI   irzL3NOBHCOCrkyJnKg8   evGjaRNQxl6fm8YcO88C Weighting: 6.684210526315789
-E   QIaOlNYTdSvu6oIe   yNmW    Z9axQtm19bbEG8e     P8BrZ    ubOOc18mCh4RGePjzZSc     bxc5ULTS9f5nuBV Weighting: 5.0
-4   HbEPfs3ET6gQdKd09b4o   Tv91Rpf7rCX0CIk    dPJGJ   rFcNDq1odDNWw25wDvWD    BufYQSfpKMZXCvTqqGGS q Weighting: 7.194444444444445
-C    93W3RrwTRct   i7uM4Rrl5     xsgkd7XieVfS8b4     DJuKf   It0a1GQqlHhuso2Slon1    4fCzntmLr1jOLUI Weighting: 5.0625
-Z     5qQeou6haqnWLbP03RB1   L9KueUXGo4i31LI     zt4Dh     US6BRuj6eJBXJzuxw6g7   1 Weighting: 4.785714285714286
-g    XRm    WXD1p     AJbLw   iy3tiFT   oJrG4267N46GDpR   D7U2z     njziCRTkQkiTyhvPqpGI     HlKHJuV Weighting: 3.34375
-E     HE7WTj9T8t3JHK9w4g0M    AMfJHKDlU2NNK1e   85Yg0     XZJFznMqSYXoGpnY0fhK   qRnBmrxXkODz1orsyjf Weighting: 6.35
-y    3w3Jor    4aOvwBLNCNB    jf   N    QKCbF    Zy   YIIvpS9f     MY0sc    80Bd2GTWqSSjLvfxwhLU   D Weighting: 2.5526315789473686
-v     9ZoxMbbImWBiFnUqYKnY    Gq2u    Lrsdc6kpReB     425SJ     pAOkBMYhHzvdKLn Weighting: 3.782608695652174
-C    C2NgE4X9IhFtp5btYmnI   2iopeuNvQ37TNr4     Bw9rS     BSQtW1PKOeP2Qt3OSmx7   5C7s8I4ObzEPeIo Weighting: 6.125
-T     j3LSEzLzclkksdijkCwD     oQ7jdsUEjGDfV0U    yEtTb     T840GfN4196znYid6w Weighting: 4.947368421052632
-L    yLrOoiv7   LR4Lwy5dN5cj     AoEOnS6vrMFFtNV   jOXUk   8fotGWqcgB1hQxlKn Weighting: 5.027777777777778
-B   AMajTP7Wp7OSCgbJz32O     7OjAorYUtnRaz9m   S0Nig    xrXrlaVpgLwRej7QXRva    Lc Weighting: 5.184210526315789
-W     20sS0ZnYVdnobDU3     8txg    ssFvTVWHlllMJRE     UWX2l   Q49ZznqfSXDouGtPEsg0    hUUM70SO5vshB Weighting: 4.5
-p    v6DYH83sBV    UbWo4smMQz    rJ     koJvOifFk    iQ1I   7GnYb     3doK9mqNfXyGT5WwffWx    OrERn9 Weighting: 3.196969696969697
-C     Ikyo   JlRDNAf3gF3Id   I5Q     uukAdwh9KZAh2nF   vJxOJ     ktpsB2Wr16jS1WHRe3Ht     8llF3AruTJ Weighting: 3.8793103448275863
-3   pDFPoBBUF39DwDJdHXjV     ECxQEClq3yDBq9L   eCb0Q    1ZZDFiEtB21hWMLTLb97     wQFC Weighting: 5.15
-z   U1gsQf5z7Q5ea1fVcQsu   o8W77BvBgwhj1xa    E2wSH   xv7WTvMLEcHHe0mswTsm  2 Weighting: 6.633333333333334
-G     XzZiqCtgtw   jUTXABYhRy     WuZu4y93tOXSYuz    eZCnD     yx3HuqmD7kwk5LOwvgVv    t4qVGxxOYVbk Weighting: 4.346153846153846
-6     AMVgx11PpF8GpNRtO3dg   XV5V81WC2rn1NtG     stWAh   1K91E9VUndyrjiS1qISz    8il47hIghuVDS6RuJyJ Weighting: 6.475
-Q    Wq    F4PaXMtYY6aJfg9hS9    rNrMa0uTwpz0fZd   PeRA6    sw8Igccb2DoWuLjmt6ZQ     akzR0jlfN22OZ8p Weighting: 5.041666666666667
-4    1ndGLXxKV1PNWztLTaC     d    fyDMjBUjMGrxvj6     8aGMP     z4z0rWsCC3MZBdH9qZBn    yJFffjzG Weighting: 4.0
-L     nED1MTZc     K0CzLuzhrZr1    0cooXh76GbWdz   X2   GoEqw   tItHTFyv6UpsozxBLvkZ     jDQIxd7fVC Weighting: 3.9642857142857144
-R    eYdOTFNYa2NJSNHAPaY    H   FR9q    S6czS55Reeo    HuKEO    1Wy7W7kM0ufahZfVoTpW    s5 Weighting: 3.685185185185185
-e   osPQVPxlPHkhFd7BS3dd     g0UpB3PMfvgmMxG    ngS2j     y7zwsib4A2 Weighting: 4.735294117647059
-d     V4pOOb8zZSsXbjhYYvTI   ALq2jxnMw   Io34VA    qIrmx     HTa3gVFH68 Weighting: 4.025
-D    DJfGjL4pBq4cw4A53sbx     QGy7xNwZCXtmo2E   yQEkb   84736Z9qfZb4owADmgtc    0991y Weighting: 5.684210526315789
-w    gao3MRk04nol6xliNxqN   OdHzoYMMSH7uerZ     dvcdI    jFBWsui1GCSHy0Nskif1    qOFbLaDxUQ5xHBeOS6d Weighting: 6.25
-6     gEFQaUAnht6J9kMi     vurt    aRzzJV9OGw    q1656   HzwPZ   u0SPKUBS4YcmAq7mM Weighting: 3.8541666666666665
-a   0ahaSyxNTnRo     PxhsrrDc    9HJo0AZumsvy   qJ9   CSupP   mLUFmYiCNMnPih2BM8ER     FoMIQzt5Ysl71 Weighting: 4.4423076923076925
-R   CGWBBtdnDfzUsLRI1eQS   izHsflPx1xcHp7e   G7rRb    GXqBcFYNOeJ5CK4hrMb0     NiV4gCVoByhKPMvARsyNb Weighting: 7.055555555555555
-4     3fdwgzKbVo8sschI5QXh   UeZgslEBfCsgysK    0s6w4     ld0317YwprrEgGglKGz9     PwLefCg53xH9ENHAh Weighting: 5.659090909090909
-I     4FiENkp9R   Nwcx33fOAcA   oQujAsek1UgDimW   aaSDh     wSELQC1bXEffVvA29H6y   fMOhzE0YO8f3LcVrO Weighting: 100
-k    Qr1EAOvqIUoSabMIerBy     9Mp     B     5WUDqHSDwQ2    5O4nC   Usq73wVvrmyXsYno9iIo   5WLJgN0wiW Weighting: 3.8620689655172415
-q    wnPVULpiLjbSR2QDq1yd    O9bIuTlteuld0Wy   jJHVe    a5RxixsxLaH3VYh0EvIQ    tHeuGgDWrDzBAx91 Weighting: 6.315789473684211
-7     COflvmGDrlUQUsEnJkzS   2SFtY     ydj4bKZASD     uuDho     TCxUlpi6XVGWg Weighting: 3.608695652173913
-K    b048nYN5sWwNoD7HzFHI     il1q9H8FJeUbm8P    70UzP     CyA51GZHPT7BeQuOrxPi    9D4xnpe5GhyYVE6QG Weighting: 5.7272727272727275
-d   tGiPaMUQ06F8tNMaQawx     Up     6xgO3QDWCOSBW     JonR3    dmbTWXYhEmpucX0OfIm1     24Ss Weighting: 3.7962962962962963
-e     QHlEdKOPUQfAxY311q7    0    pEznusk2Trjej    3v     7VutV   fGCIAbjLgSbhHh4X5P5Q   aZzPGOPXftI Weighting: 4.053571428571429
-8   aLdGFE277tDdGLpadtv6    s83Vo2U7CTQ6HAj    wNpsI     296t9UKedM6Tyo3nOR1a   kGZH9Ew Weighting: 5.842105263157895
-o    S1cmqSfHIFaWCOOUeFiD   Sf    bqqHZ    UAg635NR    ax4GE    GfnquSlx5Y30rz Weighting: 3.760869565217391
-f     Qt74qqFszwaTWQlWG5tt    Yyc8QYY7rziriUS    LQhcv     FCJ10yTnmQkpOlsQswAL   73tqjlQQTAfSGU92 Weighting: 5.761904761904762
-d    BzcSakxkIsg0     rjc3rKwG    uvooQ6Xi2mHCqjP    oMyDL    U2i0MxFZBilGEKXhteu9    gzSArpTeNK3zlo Weighting: 4.66
-Z    jjeUtdq     E    WzCdwEBHTozv     Q6hJ0eV   81NbiGsu   xltnk    VoccSNtTBiKy4ebueTbO    MFxxpyK Weighting: 3.265625
-Y     iMbndZuKWHXsSTAZw5aF     kvjwuB828Lu0Rpd   dIBv9     b2I6JMxHQ Weighting: 4.388888888888889
-z    w3bHBTLgdtPxdOddbTjg   k3jAk9tihyElxFJ     HtaCC   3kIBNfo8zN7K Weighting: 5.5
-w    vYbTztMLnGxzoCf     7IafD   KiE333ylI77K9Zl    s0IRQ    DXx3vOg71xHyQMgiUtDA     m3OI44zxp7YXq Weighting: 4.74
-P     Qdm7Sjna   2SPRfjxrc    Qav   CazskSJqB5HEqNh    cLym1    DsqLBGAdwzKqkfnAVeP0     6vK18TCqUk0 Weighting: 4.017857142857143
-y     Svc60cWuv8KjfqKAARlM     NgCv9mPFeOQZTLf   xiAKk     AKj1tcO7be Weighting: 100
-r    Bd45SBkjumGPt6nFM5iE   XddeTeo3W5xvnFQ     cEXYh    9CVxjC1EZjm69F3DuUgM    g Weighting: 4.925
-l    BedF50O8m2zPDlcGmFOe    9FPAI6Ab8yqaUpP     335cr    OAX38HLyvLkCmhWY1yKH   oBJ6NTT9V4ymVSmPw1 Weighting: 6.35
-F     ZjnL1gQl9iNuRwjSo    uMV    yBwKfvLnex4ct    TX   o0VGz   JTuE9xPHUT9SYIWt8rNq   aP4MuxiucfXVN Weighting: 4.423076923076923
-X     RgZUKE2d4xsBrtCsFvzt    sDvgyMnkvmXZpv7     1zFA8   ytvHcLwAjCPf45yDZjcn   I3XCDQ98qZ10EkJ3jHW Weighting: 6.325
-v     CH8kV83QXfEJLIoVm   dBg     TJroLlguKa5gAXQ    1ehM0    jmp2V7QiZnZ47RhP0rxw   XQCxHVvIItMjZ7p Weighting: 5.0
-m     e1swI9   AbwKySuJPhl     IiO    5aLQqWf6KdZAZy   J    kCT7b     mexhvvrhNS9KulEF6Mfv     IxdJa Weighting: 3.014705882352941
-1     IRU    GWPimE722Ih    YtXBRq     2rNIJ0ifavT   bOKE     6V2b4     iBWl2AV7m0Ok09R9P6zt     Bjt Weighting: 2.888888888888889
-b   0Mk8GnN4y9HbtBF3ZBJI   V8HivbH3N5znGEt    J3rzQ     jnZThIpqOyLLyDOL8D Weighting: 6.233333333333333
-j    7o9AWup0g2WA0NVBpYo7     HENbQqWB9jcIFeH     LtLfs     GeqU8InjejRGGvHTrQd8   O1yCJjykivs10VRuj Weighting: 5.590909090909091
-P    CFeJsi    x1kdV8lb8VfdG5   IdBHPv72JtfhkeF   09dJE     eEOlJKkABZNWqwJNcCz4   T7GZb20A1NRt1qPZs Weighting: 5.636363636363637
-w     PGuvqWiz8TPSxBHqFtpD   4Vr6pvO1OmUc    pVA   acaGt     kxA6VsooZ9v1qzlqdcbE    E5YX5IRUtNEaMcK Weighting: 4.9375
-e     1Pu3jKf5dzAd    mBtv867F     t4dQ8nM4KTJct8e     nKhk0   OJTskzyK9xHt7xrI7pB Weighting: 4.409090909090909
-x   cP2xM3ShVxlLWtS5qj1Z    bWvPnSX48To1b09    0tOEN    ROAxYmvaaD4qDXVtA3x6    uYaoL73Zf9y43JQlRb6F Weighting: 100
-z     LlPh0oewOsnnddv617y0    dAWH6luFBtvr8D5   AaGiD     RChd6Z8EH9GvG Weighting: 100
-w     h7L0P6   BqrRlCAYgfXzOo    TuyBxyXyvlHzruC     49FMo   6Bchw0AugTPiw261n Weighting: 4.6
-y     ohDhDJu0bq4pvfwSKYu8   bcAOb4ShtauSfbL    wI4jq    4DXzrJBV5u8jMef4Wcna     k4i5pBBKJDpB3jAs0B Weighting: 5.9523809523809526
-D   OYU7ifeCa2    V06HhinK8L   dXrAKRv8sZIGd6L   UiOa1     c2KmZxXXACm0gqpUpv7S    B Weighting: 4.4772727272727275
-q    c13aiU6mTxg60TrbvO37    tqiGNc3NovFZ12q     owq7U   F3VVkgI10enjZ8ErPFzW   V76KhseJu Weighting: 5.973684210526316
-V    XbhvSbOE64hBPAyaeGBa     9SYNRAfbCb8iRKN    hT9Vs     OOVchbPBIFLXtfrLM1pP     Ey8WOenIwdhBwVuo Weighting: 5.173913043478261
-R    rWe820YdLGzVgzUa7vm8     9vYMiVmG5vHLswS    k194J    nOlJxQB8HB8o8KY5iS1I    Yw8pyPMZRYlcEJSXSG Weighting: 6.023809523809524
-T     Y9Z0bIM5NG2Ka4t77lvt   Rd3   K20G0    RVVvpwg    8Dbh1    jmNDnXTwJByUbZq562um     RyWtXhU5qHl Weighting: 4.160714285714286
-B     gKLQMWyiyk97TEj     JnHr7   uVzHpoyTaM     OvnV2    d3dxg    NXlcC9xuv Weighting: 3.0
-E     r4WC     vfWW5erjNLP9z1b7    Z2fVph2YTF2D7ge    hDVn4   ASNr1N6UGRmFwezlhaSg    eudk6TaESZMz Weighting: 4.64
-l     VN   A     FoXQIDF9etgea7eFV    ka     n72    V6MwAR6e5c     mO9nu     cTAtBTP3cm Weighting: 2.25
-f   tKRYCWzcM1z27dzReLlR   M1CCcfifj6LeUIe    s3vYl     EcTkNuUSJm7p2Zw6jds Weighting: 6.3
-J     XFtoDLml4l1R3Gt1Z4    hY     KFqC     AR   KqVzGel6G   XSnVK     5NKCsVVJUoQsFsbY Weighting: 2.966666666666667
-R   zQId0fQHYLx56i0U9Aif   Vg6QCoyG    q6hSUDG   6izWv    pg0Bmlz0uNlsrd58Rq4x    Iv1ETJugQlSpahnCZe Weighting: 5.976190476190476
-z    RStYkJWhRybCfHqyHDPn   BAXB42ZjfOXPUuD   HMC1K     IBtJdBHOUXvsNOIfxDFW   4YG7myfy Weighting: 5.888888888888889
-Y     B4HvOIYBlHzXJPug1QKH     vkBDpOohCJXUMl3    IS5HF   oCLmGE4zIHhY24ISxuHI     5S3PXsQWGn9M Weighting: 5.204545454545454
-r   q5Izu6X6xFFT8C2wBv22     roMu     vfdy3X9uXza    L1nMl    mWW5khqnygLurRIytcKV   uOiEl2L5EjeE4Wa Weighting: 5.041666666666667
-y   x1jnmPuG8Kyj0W2ENYQc    uYFA7xvFQpw    qZmW     P8WEM     7oYZAbtPyIJvxEhGFaHf  f Weighting: 4.195652173913044
-y    5mte3zNRck4udf     5q4GwZ     ktaIwNZLW0qR76O     vgoOk    SnNSzoDlvE6j8pyaPrDI   KJ Weighting: 3.826923076923077
-p   QYrSmouOBUoISNzeKV7t   hGx72e4vuKzYqAC     zXVqq     GpdKKUHfnFY5RYHA17S9     8Bdvb1ejk9r8Jr3dX1 Weighting: 5.976190476190476
-D    nry   LSoeSEzUzeQzjw4jk     mDcJ7    xOVLxkq5Xh     UOntQ     gAN9UDatBDJB1XQ6FdPO     vICJWGVB Weighting: 3.435483870967742
-3     x1Q0QZXJ3S4    YOexBDuyz    FkYqcl9nsN17fsf     y2PGL   Bz5QdZVEhVLj9oU Weighting: 4.261904761904762
-x    8jnkEM5soILGtLNKBmUo   uy3GyotF     ACMvK9Q    WJA33    RSOromZwbnHBiMV Weighting: 4.35
-d     dVggEbfoQQXPVbTfDZIe     oaWEhT3yUm70Jun     kQ0fd   Nu8az4Tpy2vb373xn67m   tMMsdgRgcQeOiZTGeX Weighting: 5.928571428571429
-P    YbhTCsfWSLVmtyqBameo     lYVFyf3ZNmZbVnX     QsUEZ    bFrdwPtcamyyAzA9IFE0    ztBW Weighting: 4.5
-H   XM7sQCt41uRk0diTQ45O     21CK02vH6jFVw56   UpQ02     BG7ifYitbC0SXYfreCSG     kVmT0Nut3iNUW2Fh1V Weighting: 6.142857142857143
-b     SOIaE7Wm3wijU     FCdmmAv     25abCHkXVLRVRea    EBJNC   mAo5VsNzKeVyS1 Weighting: 3.8863636363636362
-L    DLZLN1dBf35W4     q6wgxBS   30VUFSHkjOAJkow   xUSPO   YnjNxx7t02ww3wdfg4tA    WPKxMCdBvrajzwE Weighting: 5.454545454545454
-d   iycVXlEW2c4ANDIA9Ubz    ZHjlAyKSw3IePFV     KbgOC     X6evHaFWJBuN3QVEh5NN   j8D22Bp3 Weighting: 5.45
-N   jOKPDn   IgVHue8toQi2FT    2FaTReRGMg62VKE    DpkK4   vDuhj2fHeROh79Cl3OGp     w2MwnDtiLpK8fr21g Weighting: 5.636363636363637
-H     ERsZ31Fz9we7Cy532Ffh     QSdV79a   QhVIALGu   zojbm   PAXSMMDUhQniRtMxJkV Weighting: 4.973684210526316
-W     Var2mZ6b65dVTLL3h4rs   20IIuubZ9AbY     BZG     P7y9W   ipayhbfUZaRzXil2Palo   i35UfMtd61sCChe Weighting: 5.083333333333333
-Q    Zlo     poynYekyqVj9fSxVr   7wg2O7S     CO    BweFex   wrOOY    JUgMHQpD0Hz6F632YmA0     IDUuR0 Weighting: 3.212121212121212
-Y   fXLK7G    huXGZR9Y1Ag0     dp   OWD6AUloJSCX5Nj    xmdxJ   nO8vIO5ShmDLaCLo Weighting: 4.068181818181818
-m     QiAKSbfZ3Hq0seWs26Iv   vKhUA85UC5pTkK1    j3jYB   HfsNXBlXO0rXN Weighting: 5.733333333333333
-9     U8p2HcCU1aZWJivXivoc    IIJFcImg3I7Ljwx    JStV4     Hf5RGTdNDlG8J5OiZJfV    i2hZJkNKsz9tUcR28 Weighting: 5.636363636363637
-w    hCFU   1lQyKjruqcyLEeqS    p04iDYTTG   lf    8GZz   IgaFs    kGqTA0pcCBsQqwsCjsuD   JH9FuQl8 Weighting: 3.8214285714285716
-Q    Ap6CU   VmUP9apj4kjgIsV   uZTtMxBhriWPVol   Nxjym    d1XmuAowhkiQfQ8IeIK5     U2JhGKp1pUrharNCU Weighting: 5.5
-c   EIvI6zCQFWk2   bw50xdKE   1f5br9HRh544yNb   wnFnZ     whFrhii9MQ3DgggCBQSk   Ks7WDMw Weighting: 5.425
-2    M9QOAJd   9IxIqaiaD5S   cZ    aE6bzGgU58D9frC   dCg6i   JCEhEQosQbaJT2oxvFx7    Q4Hbv8DDLAupjB3 Weighting: 5.041666666666667
-W     kNl2ew57NboPbTlx6V3l    xn1xHaDEsS3qNWA    W2owP     jAIOrprMmBc6BfNzPhIf    NFgydPYU8X8oW6Qs3 Weighting: 5.613636363636363
-d     MzX   K38ufA75QbMy2UOHG   v7MOY5AufGZsyc9   lmlOh   Ous6Ti54LGPLzXEDMQve    W6Ilv7B Weighting: 5.166666666666667
-p   iJW0    2qE4E4qwADKRmDpb     iiac     TSsvcE87KFB    lkm4n   3B2fOqT8DFpOlUWgI0EX     VZ2487kBIy Weighting: 3.9310344827586206
-J     xkDrgHVPiYektyIKQ3Jg    FWUSfNrxlFa    dVCP   0f9x1    x8L0mYmPITGWS8wbfy4D   gcVa4YfRK330JLrH Weighting: 5.282608695652174
-l   xIenKi3GjOiSIke   6PFSA     OExSWe48VjSii5E    hNWTF     pXuQ4cdLlHaO4dgMlrK5   Od0CTMINWUYpei9Q Weighting: 5.239130434782608
-r     D3w6GQ0GV77rr9A   n1qR5   J4MPQnf    24s6e3U0    2PS8j    YfgJR5wwE3ZysjRTDfAY    wjrwiJ8zGTLi Weighting: 4.407407407407407
-b     ESsSumte9    iV    ddC8nNjCm     4gh   XBAN5ZqrDa    aV     riDpF     MPbsUSQmGrZAO8 Weighting: 2.4285714285714284
-Y     DG     7Otb     ZSfrnhZMqEdeo     0    N   Wtyv4oG    tsPI2     lv    M8Hmq   c96I0KvsdL0rGjZ Weighting: 2.058139534883721
-M   fk9enZGp83DaiLFnklwp    wyjyLg     u47FpDT0I     AIO0d   7OzV1cFhInP3vIVB5pvV   6WuqD0ApTiKlM4IP Weighting: 5.326086956521739
-Q   16RzbobUurRcXavYyfm6    txRlrclWhuerYhS    Iv8Fv   LR7wnEiKx2TFiS8v Weighting: 6.357142857142857
-4     WCeZ3BbGemtfqI6cjXLM     DUFCQmH3EYQoGW1   6uYtV   Dsg2BF6HUoH4Zpid Weighting: 5.625
-Y    TP4wBPP6TzcCq3nfBx7m   GqTupdWD2NGvuWS    INla7   xjmgUZcC5X8hn409pvK5    qKF6NQkWjo5 Weighting: 6.388888888888889
-k   3P30Ms0VC57Y373qCGMg    w8CkfIw6sMItK97     HqDVk     I3tv9z460wFHHxAOklJ Weighting: 5.823529411764706
-c     PFoNSPBEa7dtiwyvEqvV     Lbyfl1lb6t5fyS     z   Ohjjq   Fq2YXsRkHG Weighting: 3.761904761904762
-y     6Ud5A9OZ     hJuNsh5GcNFg    5RhVo4XPpC4W1KG   Jxj0z     OfFOxmNWXIM3TS8TVF0m     8 Weighting: 3.685185185185185
-6     xOGR   ijl9b09XW   ISrULe6    heJ5fbauTP8RVLM    zvKDb     sDeNVBAEFnNcWJ37X3CY   qOBgwWMYEkKV Weighting: 4.2407407407407405
-X   NTLRgXTEl0jcaU    RjC1KV     bFqCjq1ucKFxH1W    5dKyX   tO8pQrKPgl Weighting: 4.184210526315789
-Z    FQ6oy9gnDm9bhCTW9JRD    knJ3GJxmrImNfal   RnxZ0    zBENbWXf4zQnthd8wY3x   EwSoVe8Hx40VHNapLh6zC Weighting: 7.194444444444445
-H   53Dn9tfr5uFTWdNRwyOl    XcnDv0jj    tEO3sFx     pOCH9     xdngyF8JQPcocw1Uoa Weighting: 4.428571428571429
-G    Euvutwp3L4UD   uX3IRBG5    OlPCxYQGFPTPYm1   OEXUr   XEWJzEjnF2CsG2cuMnIq   Rlz9bDYgQvuaH3jhzEl Weighting: 6.225
-5     60NnAfTLrO1vDp1xip7Q     L5gPyEiRwJYTDzx    NbEaT   Ph7NSMTlbwfugZdcN3zQ    QfBMDZhUlGA9xsxBci Weighting: 5.880952380952381
-p   3q    Ne7eXz5oeo8pYlZqt7     jUzDr9Y6Ixp3VRl     0gxMU   RHipemAil1 Weighting: 4.075
-f     Z2uB8ldGV1GRjnWCVieX   wqxFb3Wzub4JIvt    VvVSr    gmVer66QhcrkqfudllH9   RgbgJ3olYO05XjbQ5MUt Weighting: 6.7105263157894735
-F   mLIf4QsXtnO7Jj0x5e7p     QLMm3qfLL9fP7ZO    VJyvD    aPpfTQpGhJs5kBc7HR1j    gHz3YPB9PuO Weighting: 5.725
-1   3dGp56hkKtOpAmfjzQOd   lhYYBhfFh2r1KPU    lug0J   ybGuxc8RXmx Weighting: 6.3076923076923075
-j     FP7shLuu8Bv   5ciFvo3tQ     OFjHeAfBwxNars9   q2Qfs    Bv9nC6vw1LUIzqAsWSin    vO6nOzMsTaMawCW Weighting: 4.958333333333333
-Z   OdsvVljsqXopzHg9OTgU   YEZKPUYZytx79    V7    IGGL8     c9YG0BQtxdfcU1PnmKeo     bCxNM1JuYVMpeJb Weighting: 4.9375
-o   qUrJM27xI6OwDuI9XTZX   s0qbJU1umG8numl     89yoM    0gRO84gIgd9KWJOlqveD  9 Weighting: 5.882352941176471
-O   IlUaYsQ   v19BybynL5fWz     15wPJYJDiLsbSbF    tMhpH    PtGvXbA3MGhb1771XES9    U Weighting: 4.282608695652174
-G   jhJiI33mjnJ82YZ     x3    qM5    zoiTmhTGFLoOqPF   RWVNS     zSKNueCpY3WS2BN27pLR     mHGtrZMbe9 Weighting: 3.8620689655172415
-m   KaiG8BGHoCY1sDTBPWRf   6juFB9CNWPUqJzG    3n19W     xuBXdGVcAVS Weighting: 5.433333333333334
-3     r2HjSE    cg6xNDkSumHc7     j   mH6nn9zWux72aNF    BDlpk   TA2qey7rIvPqMa5pxidQ   LAc9AiUXJxNh Weighting: 4.277777777777778
-y    GHkaCpQbJes    lasPpJMnI    omcPlCQGhg9fi9c     Oj5fL     z32PZAENe74mei5m0FjF    zFQWBk2H0gnEm Weighting: 4.480769230769231
-L    9bFu0YoYn0zbRL47jKBv   HAKY5   phj     cvZOq7L    K83Pa    oEFWrQfhS39AcAMnZ Weighting: 4.021739130434782
-d    h80x26h   duTkEZYxZJs4Y   TYwKLvKkMjtDhHl   p8UkA     5rxT0K5ms Weighting: 4.416666666666667
-i   whAW6PgutMQUXfg0Yq1o     6MC1dYY1T0Io4Pr    SGeCk    J54qM6jOp Weighting: 5.03125
-X    4ipHevYuDUWdXlrRBhVY   WAmhkQ1Uj3dyXcp   NYELO    SNlIKW68we74xoisyFWO    jgKJek1taK Weighting: 6.138888888888889
-1     2gA     1T1oBcT7O28ggiyjp     W4MRwnNtzvmlYwt    1qpzK   SIBr2eDXUFv0iGoOyUht   yThU2wYUs5l6xD Weighting: 4.78
-m     EQYaJrgKG1Vr3s0rHfzH   H78hRhE4Su7jNqX   ecfsV   7SGG3BJWfrMaBYhB02fO     JbuR5QI1AjmrnSw7 Weighting: 6.447368421052632
-6    QpjS0lHbrjlfeQEF   HwtO   UNzeA8yNGpQGvu0   A5EaS   wUuBwMI74iAAacpAVRy1    SuCOnpPApOUwiOuG2fh Weighting: 100
-L     LgC4emXtKwK7Tpui5jUx     1dHoUVC91QAWCK     0     FmNdG    DEM8lLYK9XYe Weighting: 3.5
-7    E9Z7m0UJNTD11wzuKc1o    WV4VqxCKLzS8XIz    LkGL6   OBGpLu4XPWGnZ4FPCPR5    aq6MGPS4jKZwRGd Weighting: 6.394736842105263
-b     OAWpZsOJa4dFVJ1EKmHI     yp2WCkzfR6h7dYa   1Wip6     FVqM9ksoLENcgOKHLerm   pxZitSLg3bmdRuNjY Weighting: 5.785714285714286
-k     c0     xLhE9UJVe0R     KcWzeWr   l3FohPJ     IJfyb9Rm    5GjUL    xoK5QzGtveEkfOf3Xhmn   h Weighting: 2.8529411764705883
-I    wuSaSDm7UXjS2L5ENKL2    OuDYtFM   KLqSMMFa     J0AX6    BxAw8YrDL8f1CIKu Weighting: 4.5
-q     1PH23F     xzTeRPov6U42tK   AFRAXhAslNAgkzR   kYJai     PAyRLSIOTUs0ActU Weighting: 4.238095238095238
-S   2Y26OyJrIhzpMTbh   ePz0    Snsvikrv6TaOa79     4U44T   pDfNqFWQlM0J983veXf3     6EoXkAD8Aaxlkwtq Weighting: 100
-k   r2mHKtQNfiMFFFt5gX0P   RKRWVWmS9acw01q    G36A0    0DvVyOhDKEHD7NypMHK3   E62iRie Weighting: 6.411764705882353
-I   NVZdMYdDaHVnHgyVdTZi    MIW0rbJpwMbb     B8i    DkTUH    nZQ39qtTnfuMOD3W3b4n    3WvprHk7eYcJcJF Weighting: 4.9375
-k   cucEvlqaVGMpyWNruH1H    Nn9sXZXRLIMINY     c   zNH6k     t8ubUgDkRY6IAvSlOodu     K Weighting: 3.82
-U     OB6v233ODm5zyG5o29lf    WgaDBvO0WpVcLyu   lkXeO     g3YpEb7LegDp87Pe7n6J   CVXzHpYHFqXX Weighting: 5.85
-X    gvXV   YQUeTn0H9KK90v6r   oLPg0GihQj     Kh0fX     t1AUC    bT3OUCDjPsO4FB9CGpld    UGZWqt7P6Qe Weighting: 4.089285714285714
-B     i4aiHBfnHNvFpbSnHHXH   8B5w3Mmp5VOD9MM    VfWaa   pW9qSdJ4YlkZ3qxgB Weighting: 100
-A    aQVoFGkeojY     rEVaMCND3     YKM7GCUdTz5Vgva    2iqMR    YMNc0AGFOkKSEcXLttP5    4fFOCtHYKfU9F Weighting: 4.423076923076923
-N     NoL0KxN228BWZ5HCjPpB     jn9ZlCQJ75f56mw   TJJQE     WsoDONdNlMRGDfs48cb5   dJuwJTMtoElnPsGCuI Weighting: 5.9523809523809526
-r   264NG95Mpw4UvpDWeY6s    9db503SUY7ulR0T     zOSCb    TUrgtOFVvxagPWqWuicA     WUgDpxc0NsNiRh3Jph Weighting: 6.0
-L     dDkxdUF35gWs8bRATmC7     wC3wPXyEWeKKe7M     ZUbKQ   p7kTu6bttytzBUHLEocp     31xwM Weighting: 4.521739130434782
-M   xObbx6W4DaWX8GbBMrJo     qU6tDGjcCjvfX3P    jzrNn    Y3mR1u16wrrtArdytENE   cwQiWYQFTscebDZUFW6t Weighting: 6.657894736842105
-8   Yz76d8WcH3qYRRDkO4LN    S8w     erdBT0Xc4G4B    wSXME   YJSAdjkmbmGg8WbZoWTn    kdOvy4fmWLk5MxFT Weighting: 5.304347826086956
-F     cBMBe6kjbrMJ7iPA853K    uRl5rEuyYEx4uSH    H0elp   iAxN7NIAdEdIkH3F4F Weighting: 5.875
-i   VfJsgEucnX    GSNc2BLDdQ   YYWX5XMRc7Hf8KO     Dn5VQ    mjKCQDSDMYIYzEo3hN6k     T5SDV16A4wfQCR9 Weighting: 5.0
-7     K4oKak4HsD0yIwxjmsm7    QafIxiNr    aSF4iD   u     kKSQX    AfpTsfWEbAIzpmDxqCf Weighting: 3.72
-Y   Eb    BWlrBGBPoIK8RqTV9A     0xWscnvq   0ChZlP4     HTupj   YpgVbmekoLGjDhdsmDxe     VLbckzhUy7P Weighting: 3.9642857142857144
-c   g9T92tDoM9uVFMZpKkBQ    xuYYlCdbUpiiWQV     b1ls7     u96iSCR77emyClh5Yiyo   davWUUOd9LevY70sbjv Weighting: 6.35
-6     YpKZag    rgvIsoAUcQKZ4S    iGoCmJKWf1bdZAj    JLyZF    NhQmGLs4TYc6pAzlbYpm   pMwEqbVa5k3twjt Weighting: 4.895833333333333
-q    QAVkFRJs     zGZsrQ    Gn3OeL     LFF3wsgFovv6ff4   s7oVU   1Kc3vLe2pQrnVtqgw2cS     1mqd1WwyVu Weighting: 3.8620689655172415
-x   3Do1HmcKbCrnGSNrBlJg   V    u    L3VLysGiBCnWL   I4Gfo   S8FecZeKkNRb Weighting: 4.1
-g     9a1jjABJkZH3YwPGEkGN   9U9w5zio6ZlUpWY    Zq4Ic   F0u5AMv7Y90Z5Qm1w9e9   5oFghPyizyai3uYZMvY Weighting: 7.194444444444445
-s     acmNcMmA0syDvwHKM4xF     NXRHJmesxYnxGGh     rUgwW   zMbYdTsBaKYMGQYfDzTV   VyVqqvC604gTbW Weighting: 5.476190476190476
-L     l2xPteluj4xU    Zah0FiQs    3   uEYyEj    v4RbiXuG     EVYlg   wC65WL2tPOmbIc9WDXFZ    dmT35gL Weighting: 3.359375
-2     NbhJPZ6seMnRNNpv9akv     d77bzWuzRpKKxna     5bHIZ   mg93n1y3EQNu Weighting: 4.694444444444445
-V     8eJW3ZxWjnOfDM76McMA   MlQIEk8id4bTKOf    mHrAM     DqDP7kh52eaqQyefBSYH     2OrymV3y14M5A4UMR Weighting: 5.659090909090909
-J    9AMketnXF7dHz   MAKWhcx     cYfNwDnG3gvG3    MX     ueVTe     oVVcrQVzKBSLXqZrJ5F5   NNrt0spqjO Weighting: 3.793103448275862
-p     YswEnEKZ     D9JcDkfACmR    d   YQ6ArrpvaHfU3PP   wsZbM    S2o1nrkHiIJNGbvt4g06   FEiCnrSCaTMw Weighting: 4.203703703703703
-Z    BqUPFFtJHomaJ    KWvXXqy     XXX9w2vI6AdjkB1    9xuXq    uodSLHSwr8TH5ex0Qm6B     3e Weighting: 3.826923076923077
-S   XAw9L    FuVmigwDDo5s8iX   5zhHA     7woo9xCvdR     I9yu6    PHG1WTqlnBW0A4Hn377 Weighting: 4.041666666666667
-E     VmEVrV8YkIQG78sZ6BTu   R7iZwh   nqPWyTyo0   FawvG     fEuHoAv9cAxx9KF8Ytou     BYN8bk Weighting: 4.395833333333333
-R   yAdkOWtGscuwZnmOT5Lf     yLRrOBuPAgDQj6B     Kz8CM   NyuUguk1V5wizK3rMyz Weighting: 5.8125
-u    j91VrACmb020pMRmNDTP    2tfK7XaWMpU849y   19Vnx   PIYqf3n8te68Dpxna0hB    iNXONIuUljhq8vaKkPWuo Weighting: 7.333333333333333
-F   rtirfgj3cTzgTR9DLiuE     j     2f2MXUvUZy    bnGw     1Esh3     AKFIZciiOetatpDktrOr    yztdfNOc Weighting: 3.435483870967742
-g   XcS4tJqUNWyTrWs6Ojpm    ScnJJB2mXDLS     vz9     hWxCh     7uQ5oMKmoy7wmlNjeZI6     QDRw8ddEsHd9 Weighting: 4.2407407407407405
-c   2QIZa1EIoXrg3YPF0DCX   fw8wLpA     BwH2O1Px   y95Zg    wZMbcdcLruDOuoHyKF5r   Aa5uBCfQ9L Weighting: 100
-g     K9fv5TJ   REIfZDWeg3lYi     mGl4NhsxK4vS8oZ    VQfyP     ZgbkGMpfUW9xtPbqGrt4    njyQ6PNbYkulo Weighting: 4.4423076923076925
-E    wmv2Ara64XwNUpPzE    dt5     59zxH     H3HJORkfJx     tSYJx    BQfARIGjJ7GUIX Weighting: 3.2037037037037037
-Y    BF2TMOIW4g9G4ENp6Gqt    PFr7bYptd2TASyP     5J915     AeVWKYDlQfn9ZS2kXWUl     O11NWkInzTx8c Weighting: 5.173913043478261
-w   7SZfIzpQp6bYNHC08t8f   uwEeurM74VWhrgF     ElphJ   qwBu7kPtTKT3F Weighting: 6.107142857142857
-O     D25R4aq6kbw2qxllZE6p   64buiSDQetor    KPk     uu9e2   NMrl75fRyxL93mrqPuKW    zi5dmthYjjY5K7K Weighting: 5.104166666666667
-d    J4E4Unw3hZvDiHQfgt89    SfHDuVmjrTt1oMX     4XStl     e2ASZbI42j Weighting: 4.527777777777778
-E   Rl     bCjyUtsQRCB3GbvuQy     XU8fakeNjeDeCaL    znmp0     616ffCM8pbllpU73tVTj   Nv7CoQRkdLRSXg Weighting: 4.7
-g     bGuW0t    X9nbRL8g86Klym    iLj7vZzMsArxqfR   txxZU    fanwIuAD6uW8apBl8Ego    IatpjHsrnYW5yfP Weighting: 4.958333333333333
-t     RAsumGhRb9O5N5jaUJMY   aCsSygqdJLsY1c8     SGFX3   KFhIMM0PpBUQc9WZ7G3h     YLwiZOdELdxysQ Weighting: 5.595238095238095
-3     it4NTOX8LoRat6CLFm6X    dH44JLR5mNgHLx9     XuUZi   zurgcWB2hjYNCiBQmXCc    js Weighting: 4.738095238095238
-m   FwB    VgCRi    q6frXA8TMfRR     2kiTv2xfyRrsMbC     OFc1w   ZPUyzHAMrB3Wf6oV7fD6    IJHfNtriJ2e Weighting: 4.035714285714286
-z    71moaLE5rhh3g    Q2QTKLT     DVGBFnAicywEuNX    G6CCo    R7VarNpO5lqoipI7oIJn   bBdWpkAj9oyd Weighting: 4.770833333333333
-W    4WDw4f1Nc     gkzSGla   FT5g   h5uyeCsTjOdC0K2     3D2Tr     WKfK8GmdU1WUprXFNSu2    vtRR Weighting: 3.5689655172413794
-G    lx3zjeIlLktlcucXchAs     lvYKmT     msRbVersc   CCjNb     K6q5m7HrqinMb5PKa9EN    0kxA0 Weighting: 3.9615384615384617
-R    4CIJ5odAj6d     PkVtk5Egm     z     3J5hjNHf8uJmWV    zjHR8   0PTIG7lVRpEBzs7lOOeW    4rBLDfbIV Weighting: 3.7
-W     3Ht   UJ   Xwrjgrukjrf4wT6    ykYlqNbJNJQA3Yn     vtKTw    swY2RMGrKeZ5N2Z45ZIE     gbXOTkFqYW Weighting: 3.8275862068965516
-Q   4pINavs   NX3iHp708Dxvh     UC   G4afZ5gI3YRz4    VVRXI   JzOpSGYaGKnPvasfCa0B   2J Weighting: 4.166666666666667
-k    jfNgxxCYJcWDsYUFWPXn   DsvOTv5G15bC4zg     6mtXS     ZuzOurRpZKzvUL9zOHDy    P1ho0Z0MCxwcNNs2Lk Weighting: 5.880952380952381
-x     vv3OKzvfO6O7jKTaWPGW    H1PlMDwj3LlQOHc    VsYCw   lHrefeT90WZPTyrtIu81     wkXGhhbAwuGfCdqO9o Weighting: 5.880952380952381
-M     efWdJ56VYcsjOBOYvPy0    QJrKObbin5Cv9Cu   bN9K4   lhNTGx28VnZsHOb Weighting: 5.9
-x    EQcTj0N2KQ51TT7m2mnv    j0OueIox4sHeLtJ    WQfst    Pc0rBHzvA6lJWO5nI4tb     bzN Weighting: 4.857142857142857
-N     riQmJwspHmtHgffm8jQv    ra5I445WQmnL9Lg     cVFUY   yL4QW26T6t01tH2cSUNe     qpzDdKgCHhJTNXY6P Weighting: 5.636363636363637
-C    LoeLUEkVwxu9RSInbiDj    MeiImp5nNAlQQuD   sRhvn   vv0xOsv0WvdH0Fbsk453     YdkAp4l5GlKIiEa3nU1n Weighting: 6.7105263157894735
-V   6KTn4PgGWY55PUNFE1rJ   upb1xZBcCXO05KQ     yl6pm   d6Ay8T4fOXuQyMrmez5R    lDXjQeD36It3jyYvB Weighting: 6.944444444444445
-v    69JSTB5E4O6eT   pFxSBVG   VvcUNLIwTOFvdrG    9WKov   DxeMrZKrnhXT2RPHF Weighting: 5.323529411764706
-u     67qdON   DPrB   JqKx1M6JJY    DSWFw45nvNAJj9Y   N5SfA   EZEh6IpEWrewDmHmHVUU   LQZJ9iRiyaBt9QL Weighting: 4.979166666666667
-W     8EkR2CIwqoOXDn4xyqW1     c9nVAHdEV99r1dO   vigRq    yVbzVKGL9kkTq9B3zuVq   wgC9Gx46FPqhBeW6JZe Weighting: 6.375
-W    hriBi6qz9JPZKRqXXHCN   ocka8OVrLfMMqeA    5SCjU   4ph1vqpr8gxqL3Tezi9b     TPE0rYDgoOvaaZtL Weighting: 100
-L     CGmPg45hyTg16I1Alx49     XyGk5h98RYbNsgN   2gCx1   Wu2AX18YQq36uxHjrHYo    aSvv66DrUy6lyGFVNrK Weighting: 6.5
-O   ejvHnV6dO4MNKi5D6CA   2     P7ECBIleap2bven     kQqit   XNg8kOI3gLobsfR4zaQ3    yWBToOP17jO7RSOV Weighting: 5.326086956521739
-F    4ijZMN7F    PaYhwjWwwTvp     2EQR6E50JJyHZO6   hW1Cp     XppF9MWHI62gTdGQadLy    uQ6v2VdeX6t5oY Weighting: 4.8
-K    7H   wDksYiNyOmQQJTe8BP     leLbL15EVKHFBUh     HzVeA     QxTevYN4velAz8y6jEmq   n9BRm2b2kz6dYZ Weighting: 4.72
-0    5A   48RhzYXy8    PUpe3b0xn   95JG4Es5pbYohCL   il2W4   9TJaggpXL7MjOIVobXf7   dfattyJA4rbSR20t Weighting: 5.434782608695652
-V     sK1xcTbcpATE44G7P     2gH   uQSJ   G2a6Hm5tdz5    RjEdK   tJI9zrY1MJaSTL Weighting: 3.8260869565217392
-F    FckOH4F5xmOlpcWFbZ6q   bc1yuQvltoA8LJG     xbMQM     GP47wxQvD7wS83R45Lsu     UsS5TLL2neoK7uxbL Weighting: 5.659090909090909
-6     fx8JwEPW3zCGVed4qUwB     S57HMYDBgfTYKlh    PUJfM    XU7L7U8VhCH Weighting: 4.583333333333333
-v    Klrg8vuIKt9eCyT5ckLv    v8STNyKadh    npwU9    wgCva     QPvqiGBkaDBPOn Weighting: 4.0476190476190474
-n    3DjwocTSQraqW3grdUfs     Y     c1W8g8Z0KG3dVD     bF9US     9Md0BPGOwOUUpTqfzAGV     vOfwu92adu Weighting: 3.8793103448275863
-d     h0demNF1UNfxQMtjo620     dHR52qJ     KnoLtGis   7OzH8    lyRdF4OLulcAZJl3 Weighting: 4.136363636363637
-v    waR     wOI    fT4I8I2EaM   DMkm   j1xpSw8KrsA0P3l     5VdtL    I84SMTv7UMqqRmrL0Y4e    1FhZLvR Weighting: 3.40625
-J    kU0AulaezYB7Zr7v8IH9    rHFQaUJTsas   uArO     vLI6b     UzNt1kJOIjFIXXEaT0FM  o Weighting: 4.217391304347826
-g     A3nNpRqw1HOQinXfdPqK     k4I0hF1qYz3Hy    ZZ   2Vlc7   0psUqX4jGAsqwjjGCYFI   cQ9 Weighting: 4.413043478260869
-Q     o4VVWyF5TyPNr189     ib08   TOuE3IpSPT4aiRQ    bF7u2    GPYJ0Ba2K Weighting: 3.880952380952381
-S   zkZlZrgd3ghBYlaHfBkJ   F    1QPGCWL3PFoMUA     B3DKI   TO6yDMDBOSrQwal4XBdV    H0coLv7dNx9zuGlbL Weighting: 5.5227272727272725
-A   19HZArK0Fqrglu0l0s6G   nRKB2zv    cVPOeVde    BVlJ6     X5B3ZTxdietGFuMO7wX0   LpM5Q1srQHcklyWv0 Weighting: 5.659090909090909
-7     WYjgkXYJpe4l8hQzhk7e   LD5n9v7fRkuw8Tw     oknhp   aIw8h4JVINxoUO1Yl6dU    WE2ObhSDulIlXLt3xEr Weighting: 6.35
-Z    yNhby25Yp8y5TabwYeMt   yPY     61Pys2qPZUfX    xtBN8    D92edM4xAiTC864 Weighting: 4.55
-R   d6   JJ3DkhXsS2Rp2uH   Lhz    OAESTqVWy   ulLnNS    uRPFO     87CxR5OuPUb019jzYS7 Weighting: 3.82
-T   YFhyRTlXq7pcpSP51YHU    Zj     Jhwl4JrDCHU     Ux     ubrHQ   kWdpOIqZeBVxnK2KN3xg    Yf69cBJVvr Weighting: 3.810344827586207
-j    DJw9Q9Hb3CCoyl57zcpk   MI7Zd    pdBRx2o24Y   KsmjT     TuwJLPRpnUFakSDkgYUE    XX Weighting: 4.304347826086956
-a     yENie9zYr2Z5TBUV0Vf5     tJ4Ov8OobnJC   CiK    SwIFQ    VBI9PjmrERjYsrHs9gLu     QoSt5SScFXo0i Weighting: 4.480769230769231
-R    J9E9   Uq7GI3Dok    zZ   U0VhQ    bhZCeFhSeR7bPqu    ukO6Z     i4sRLFEXcATcdpVUUXIJ    MHNiIMr9 Weighting: 3.4838709677419355
-H   fGZVBXPGX4Q8y3w9wFFM   ASxTq5jYTyDcaB9     2dUdX   cUvN5sEkyEx Weighting: 5.857142857142857
-e     Cs4GusRLZ2FALNa21Inb     htH88gbVXXIZGf1   NjpI8     eiH6Em3KmrFwUojRfOw Weighting: 5.277777777777778
-h     YypdrIwvfboC0VxEixSh   aW3ry   ONIdJWgXxV     RKKIL    Czxb5Kz94AUoyPiEDyUk     UKCiaREzf7SWIr Weighting: 4.62
-D     odN6ipQdvHBT5VJvBQ     2X    h6WLGKtoW0k0kuJ     NrKZC    cXh8vfaLTvkhp3G857hy    pZzquZAar4dN Weighting: 100
-c    bwVTf2CUvwtWT06ZgyMt    XOJ4mgrqwpMozBv   hVdTd   LkJYNEFCvUga8yV9 Weighting: 6.321428571428571
-h    wZTkIQvt4ke9nAoy6GUZ     OkpFx7LjmDVBocy   IeeMx   aFbLYsogn Weighting: 5.133333333333334
-8     Yn33igBcYnAupkNXjEwp   jCC5H1bGdQKZONV     X5GU0    QcqAlc7Oql9wodo9di18    YrR1f543Un8loWfohG Weighting: 6.0476190476190474
-Q    xoSgnKHxfVwAbNiLmGCv   voF   DPaDa4Uvg4ka     ReuJQ     iiqSgwYz0RnIBfvajzEq     jEMQu0HbAgqX2f Weighting: 4.6
-Z    GmXRu8X    w0QAINQDVLN8J    547CWqZ09Dxkl4B    TI34J     4dCgpoULkgAC Weighting: 4.071428571428571
-O   iO067qPnp7mNfkU0bmj2   oAQx76CC8U2uXJv     uxGOS   8towc5MQV1p77vMcai75    fJla Weighting: 5.888888888888889
-h   kdFbCm6   HnWX   ikJml26cI   ZNNSeQRCwtwA4qK     ZaORY   xBAJlj6huNSo17rbxahg     C5maMYDjAOClWt Weighting: 4.66
-0     542     KJxV22VR4qvR7Aekx     ApSvZDKQPa6DfUZ   174ft   sdWk3v0s2VTy Weighting: 4.142857142857143
-p   9xiQ42J8xeX3nVn1     ZIM    x    WlnH   SDqy8Mrdjve     bAqNS   Yw6Y1O4T3E3Xo Weighting: 3.2222222222222223
-l   ZkbQV3UZZpcDc   gCLIuON     9jj4kwKLpmM1i3P     khQaU     CQbTVQU7FSXu6jBA79K5   q Weighting: 4.083333333333333
-5   2qD5gXgKryA7DppzIGUA    qsp7Oe05U2zqIPi   n3uE0     ABGICpeVOc1yLZVZCmtJ    gtKsR67OQaYfyC Weighting: 6.2631578947368425
-a    4ElrLYonZ0EjwNW5ggud     lZJUm7BgbWSLdwk   bt4FD     cNUc5O5kgbTDlFlryVSc     eNnyB2mpPKVxtAySI Weighting: 5.5
-e     ViMXnBMiIlGIJJ     RVGhWo     T3SdIeShTMdVzB8   avFca     4lYWhdbjMi7QC48dJ9Ez     FUWhfGEDRfA Weighting: 3.982142857142857
-d   gDNpCX     2D7ymN    AsZRtcdQ    2GyZnB4vlGqt6vy    6BNhW   lHYEc9dkBdSVYZ2n Weighting: 3.891304347826087
-v   PK    PwSe9d9WtLaeg   AGgsk   NosihIziUsv   iiib     geAoo   L0VPEZfjswDXibx Weighting: 3.5625
-j     AM21VDKNqO7tXDJb83Oy     5M590jhmyn   n28l   b     X0h6T   SfTpirr452mQf8kMIA0E     SlWbXkF6H9 Weighting: 4.017241379310345
-6   spZhYu0V0yUCBYGgKT7a   uL2PNSPTzMBg     SZL     1sKG5     O6eyulnLY0EIxEWQuzfo     snSH0zDJgapZ2 Weighting: 4.480769230769231
-t     vL0IcPoTq9OC4Wj   ubhcH    k     iIwijJoWFX9rLl   mJX4F    uceIMwk7uuFpwEpMB2vy    Eo3nUgFpZbK Weighting: 4.0
-m   xz7Crr2yybGl5GShP     3uK     vXP6jwQlSjAWU3M   w1iM3     uUZKpwAqU6tEbfY3uvAO     5aG5 Weighting: 3.980769230769231
-m    o0G8WhA6dElbqYbO92a0    mB   4VLVj3GKQKIP8   lyQSL     X7dtNIDcqUz1qHUjz3ey     ARMRZfvIscGgwD Weighting: 4.9375
-b    kIO1GaXNZN16OrXxsx    Ce   W     ccdcbUeDONh3q9   CENH3    ddJwy1ESNnejfiiSeyl1   6S7lCsvVcvkRb Weighting: 4.461538461538462
-1     VH99U2Ha6BvRrzGvfAP     j     g8VBywUtJodOx   Z7    QDbVp    23Fzg12b5uTvlBgucOOj    ymW Weighting: 3.4
-r   4SUDERV     96H7Z68ugP41E     fIqXPmCKow0Wy18    gNd7M   dm2kLyJ6XR2MhNynImkP    fWrAf95pJZfBX9u Weighting: 5.125
-e   bPgqmp6ezzjczf2nY5QT    PBSKWH9smBwi7C3   a0GN5    oNEVWj3zMBKQBYdeHqHs   M0VyCy7I1zSW9Ywhglyb e Weighting: 7.194444444444445
-B    Qj5uxRdNQOAeoijgZD4L    HayNz0T3tHTPem0     eIHnF    bmlEfiN9n3Fgu85xeMsE    RxkWEYexL0yVg7Uclq Weighting: 5.904761904761905
-q   a7fDPZuFjHlk5Sg04YgN   pDVIhQuEu    Dlt1S5    JSCcO   azSzjUtfxRFmSsMgvtoa   tMwsoVUuLAVqvY5 Weighting: 5.875
-v     pCzU6S9WeXs3Ci   4CHEBX   XtziVqGmgKl5qzA     ZhigY     dVnmymhLQVIW5bvEyS55   VJdnEpkKF3b5Lk5 Weighting: 4.979166666666667
-u    vH0AS8mrLPF1PR0cQR    vg   GbQfuEFerEx4jGI   ZjYDe     iipel2CDmjO4CA09nQTY    g6iwSCXZaT3sAaoS Weighting: 100
-0   vxO1YKsQwnTzRH9t75uc     DQXyOXo9X9f   WItW    Mwzlp     vDiJJW6jXG4QKm6CvBFp     wFTqA4vGRKfrvH Weighting: 4.72
-i     ltLZTcVto6ZwW7P1PUGS   hzl3Dyebnqy0ozt     vZSGu     ZUAXcQSbMLEhY4P5kv67    3paoU1r5 Weighting: 4.9772727272727275
-B     gjpe0   mEwqGCfYbqN0Lux    YsRNrC2    yWedm34N     KtP0G    48Ljjm3Nwm0erImyEPvV    YXDWgSA1Zt Weighting: 3.8620689655172415
-E   ryiG     RK9TxbRpYCbexdUS    CPYc7tE6cfn5j37     Ttnoj   lCEGgeMubofkW3xpxTlq   c30PbyfQIoJv8v6A Weighting: 5.260869565217392
-V    JKS9zjihlYw1IPAg53G5   lflqFGDFx1ueqP   s   oIyxi   PSajnYn2aexJF8wjMHsY     HcNFxrp8YNDln0J3YX Weighting: 5.904761904761905
-T    R1MGnL6mXQ    9YQXt6zxxa     r3gQQI    K    adGkfyGh    V63k7    yNDW3tfVEuguqW2FGYFZ   R5QZEDU Weighting: 3.359375
-d   Jp9K6eKrCR6AK4C16Xc2   8X3e5u2tsAqC     mBy    juC1g     VSRWjG065vcFoQa0KipR   sNWPYfUzdQP8chAW Weighting: 5.391304347826087
-0     Es2YzNpGrULGS     FvV4WuM     KgJoc9ZcdQZDTTR   03JGJ   D1r1n5IFfWiuVHf1wOtN     NNdgeUD Weighting: 4.115384615384615
-E    tN5URBvD2zSgD11GSbzp   H7fmaGsm   oH6wAvD    7vVtO   0vrscSxCOtfYk7VPrTUp     dO652KIWRnVFkLT8g Weighting: 5.613636363636363
-j     FYLObzd67RXOUN     WBD64r   VWjmVl0    MMO3Sbjq    acRxp    68zL9gqDDenSymk70E0M     X Weighting: 3.3
-C   ZnWm0w1TOOFkSTXWvecY    2iiiIeIlBwe7zBW   rrAkI   IgbsU6XmEEF5qq5nX5tK     KHbmVVLM7AMeor Weighting: 6.5
-D     jP8AvU4nYyQoFulmH1yB    qjywEAyIAC24vva   yyM4P   uEdSde1SC49TgORR9J Weighting: 6.233333333333333
-m     CAUCur0gui4z9ZyGVLbU     3yJxquxjlB4Dggv     oI0c7     gDZDIirMJOcIg Weighting: 4.225
-6    aiuD   xvu2rPLHz8wS     P    0i1    nFWXyzxyh1erK4Q     VLHa5     cxRJpSXJBME Weighting: 2.7333333333333334
-R   tu3qYj2XKSJd35ofdfTk     ig9oEdvqh   U6Iljx   fjvMa     eFqpFXqAsIMZdw6atb0j   uSf1vOSKcqrCl3yr9 Weighting: 5.568181818181818
-N    dNZon2arfdrRPA8VNLnh     L     T     1hLh9ig8wzJXl    KhYtC   so1MAQzzpzkQK5Ocwcp1   3elv6OjNw8 Weighting: 3.8620689655172415
-V     iYLBoDQij    AVxIHyqFoi   6   oHv5nMdMvjIjAko     XfTIx     yuwIYCPDOmbaKscBAdmy   krUS8fi33oU Weighting: 3.9464285714285716
-U    r1rvV5mauJqc2M4XSlR0     TArc8uwdUsx     VDcU   XbD3d   lGEP0TV1Kx3AgjQJYk7i   6Y Weighting: 4.369565217391305
-Z    0348   sGAo4S4VErttXWlK     a2x8qCEurQ86yAG     i8hPA     P4OCQFAKlGWLQwRcBESB   U8veoh3xGWceLs Weighting: 4.78
-b   0OnYF5OgPpxgewAu   Fr    Vb   E6geGhX5daswPy6    bb54K     wNwchXAHrTvqDFnQWMcf   1b4pC7zRmjnpr Weighting: 4.64
-R   hXdtIyCmC7KP5Nvvd97t    pebnr58pP00TNal     ijxac   TRhbs9tU0 Weighting: 5.333333333333333
-X     T1wqlj    c93atlmmdQWsQm     ZmKHxRVH4TYhzBm    bdBUq     XXlmYBqA73Fvhj6ijbes   AdWDinUFzmGsN Weighting: 4.403846153846154
-x   n9SewRlB    7lDDEu4sVItl   FAkZFTZLmm2Zb0g   swizB    S3tYq3CTAOT4TyWM Weighting: 5.264705882352941
-7   9P25t7HdMIQFVIvqt1By    TTUGHVl43GhbXdy   JWNbw    T274G24HKY5XH1z5s Weighting: 6.785714285714286
-f    9UtXUBKybEocXuaPTX    By     VIIeZZsCaRp    Sj69     tbC9x     bjjZQZu3vQKVOD Weighting: 3.1481481481481484
-p     6q71YIPg     51LpwhkjAtFG     ooy57TUjmSrGj07     CspiK    CWdFmryV7eNZPhU3wkcQ     S7MOX63Hg3 Weighting: 3.9310344827586206
-j   agHrDmijBzqqYpYzSzii    e9if     4ywbSIO6ocs    hDfC6     7b4nmJ7oFsgjMqp3jFJi     PELNUoFjsX1B9 Weighting: 4.461538461538462
-J     Tym66otf5ucCEayUZKX1     6BmjC9YRCX5ukqf   SxSuH    dn5GsHgx1XAMRhifwRoi   8Jcg105EPjcXCHQShcD Weighting: 6.325
-i     1IbkIF4sRzbyunWTrDWe    CMJYJbDG2    TCOpQ2    WGR6x     lFiXiMqEaspsoxvshB6m     jXcUzk9g9fch Weighting: 4.203703703703703
-T    86vQSMsRE5tlCel0se9N   SRYoPO3qzCCnALx     tdO7f    hbfd7MTpRvU5x7eQGHvC    sU Weighting: 4.975
-Z    QcQvuYkFWeK2kl69gh   WS   pohUR33MPQvZCj7    LtirK   hk6wNCdnyVBPwomT3BNV     CP6LtBRiD5Xe0kynZ Weighting: 5.568181818181818
-k    08tOE8vZyWFExHIf9dDL   qpb1E5Lq8Fc1R7y     9RITq     YVAtwpk7jAaQjj Weighting: 100
-K     GuXZ0nehaZiF    T1RxHsDm     6mNsdJOmNiU6u1h     mIPlC     ZFMFG9Av59vpexd8UguB   g4MiLgHVlzwE Weighting: 4.2407407407407405
-u   6Zbp5Ud   ylAtXj6fQB6Sz     NdA8HXfi9Bse   dSL    9yW0n     tZWDX9p8dnPwUAvWVVs2   mFXGFlOZCioTI Weighting: 4.480769230769231
-1     87V1OhN6lOQOLwQGfiEa     0vl8EanVbniBUZ5     I6CfS    QoV2Ck2UpmS5295BMaDM    ac6QfkwiQVj Weighting: 5.043478260869565
-0   7kW0M9mcIxzlHJj72Dke    o9PyO4fxSWMxPuS     Y1n18   QnAvGo2WUE3TGpLku9ys     mImLD784MPoWQigEuhz Weighting: 6.425
-Q    uSq    ZQ2Bhz4ek   qzRCxrLL    rU2CeVywEBgv6Jw   KBxPD    P3pPQ9oM0nAcmXuVvlDu     w7ontbYKBycc Weighting: 4.203703703703703
-e     MLN   odIGiPD6wdedy7Jaf     sOtQlzLZvwx0VVK     6ikGA    PBTvAbBbv5tVgJpo2ZCc    hoplLXtzHparG Weighting: 4.384615384615385
-y    aqMEd    DcmAJKJEYZkWUQP     6Uo02arDDIIndZc   3IxhB     QwCbBLLKV6qjsYXxDkOI   CU2p4W9z1nI Weighting: 4.6875
-L   aZb2qobhTHfHs9dP07tZ    OitHCBao4bZxQMt    F0UCy    q1lNVESMyllsLLZnECsY    VefaYXoH7DDwRWwezxfJ Weighting: 6.605263157894737
-9    9W     AcyEEPzNjbuNVrod9M    1kgmKWL6OCOqMIs   h0lg8     Y69EPZfyH3nOv50hrC15    3aJtZDu1w18GUG Weighting: 4.86
-9   fJNauDyd2aImKnlP0bEa   mqLLb24YK4jBpCY    xP72g    4pyHhUDMft0Qqkx3hcjM   YqkouN1MjCMZggxGOxLz t Weighting: 7.166666666666667
-W   1PNKJjfX    jZPByyd6FHRe     1ZAt2ngECqgDWCB    iiBnq   pfhgsPfwc8sEzYzU Weighting: 4.631578947368421
-W   Nn   C1si6bbHvc1cSknEtL   1X3eQM    LRvZQ3joe   IY4Eo     dLErl7SBbcNut3CHeZsl    FRECz1iRNwDBD3 Weighting: 4.72
-V   U5gaNdhO1BnGk2hDDzl6   gC     uiH5O    IWNtjM3j     LitEU    7Gn9NmTL4mPCan8H3D3b     h4sWyeT Weighting: 3.7413793103448274
-U    Kf0E5oeEOY2Kckfy1CfV   rWzQquoyyQJtNOH    AcUBs   a4tNqdRbcBO6t Weighting: 6.0
-1     fhAcmBJNrvoYIDRzZwjD     MhEqLWTpV6    syxZ5     uOwSv    35Gukg5LCip75v58dCc9   C Weighting: 3.7884615384615383
-8    vRUBfteNECUr4BXcbPC   l    rFS1dVerWDYeQ8x    GGQsD   1yXvJnB2peJ9Q5x Weighting: 4.888888888888889
-Z   OWai4A6AkcH4     xeMe6fjg    f0nYIUNmUEwu13J   4ZNfw   SBAAgBAQKmQyEjxiShO4    Tqs0D9nMDRSEV249F Weighting: 100
-L    9F5AZ5iEZT   Wt3qjld62D    f6fk1jGJf9EZC0L   ntXNP   Adgg5f5J2vMKdsAoSlsc   CdReGp5DxGJumYIzi Weighting: 6.2
-7   FIa7uXSJJA2dlAyraHdi    J5UiSlt   EUL   LL2VE   TnaEa     R5TJUxTHOfX2cd0PMewo   xHHq5Ip4QO5gYhq Weighting: 4.979166666666667
-e    gC   I7p8xNpU   5f97Ly7hI   9   lpIFydGALc9XOLP    m1ZEL    zWrQDVbg9AYtejhgsLyY    QmP692xAmhH Weighting: 4.089285714285714
-3     CsKQgrnoOQ   mQrQwDwdov    pHvqGqYQPIAzSHx     qMK8E     ZUUjY8rvaSCxLAz1zdiv   K6qRH7wIfUTHnK Weighting: 4.62
-d     A2tPJgUYwz9irQDc6Nz1    fugciA5BpEdQmV6    vbD7E   D3vZz05nBYTxrYhyBy7N    BoSrFFiuJStF2Tyvleb Weighting: 6.3
-G    oi7ZBA4YX9e6tCTG0INe     gWYikgneDQ5kSf9     5gcSG    fHwTWiN2q8HBCNCWCXYP     OK98jyGf6YgYtQSZ Weighting: 5.304347826086956
-e    hOlbFF4NqQha1xiaXJ   vV    hcriq7IH7enk4xG   irIMN   lDflU2ThU8kqFVhH0dTt   FikZ Weighting: 5.075
-z    hm4     HjPd3T6ZC1xBj0vzm    5wVAH9j6DHr16ZB     7psu1     hsWLr19xreqp0On79PuO   1lJxMEatVaebR Weighting: 4.615384615384615
-l    UqD9j0wO8hIw920xGTpL     zPW9lGfEE1CEOaC    uoZ9j   RziVCntJ1qchQwh240MO     8wWEyfLEmPVCffprh6 Weighting: 6.0
-E    BoL8gLAWbWgLk5pVPXgk    axFbpSEeU6iwvkE   xZEaD    tOekBJqVbXRCXdxfkgtp    C2sf7WI24IGAZZGX4 Weighting: 6.368421052631579
-D     nYjA6iW1YbzsRMwBU9hi     gr31GKwISNualCM   S8WCe    rfxcdCoXZiaS7TsuxgoT   K1BZkunrziq4GZTIhA Weighting: 6.15
-K    w0l1EasFBe99u5HTk1Ku     ZVudZQlOBzN8Wvi   RtLFo    BBbaPoKKYLGJi2iqMH5X     Uh1k6gIE0VZqfTWBmd Weighting: 5.928571428571429
-U     KtyXTDYwhItjQLQMXbYk   v3Dmhwm4feOSFaw   LSL1A     VstXVJVlJdJm0ox6XN2V     DvFutXF2xoGQgwVBs3 Weighting: 5.833333333333333
-R     NERSQXCPo7zcM    pdEjBwu   kaE5vJyQtGNg60j     VmzOi    2K9jlsj6YBmuJ7wlW4rh    ZoWKlO46IitQWp Weighting: 4.72
-E   XwMEt730gFCUT   M8sPcVA     29uIvpQMofvqiHl     GjkpO     wm7qasn5zANe9ITXlDV7   Z3ng3Nlzb5KMa7F Weighting: 5.041666666666667
-k   EttQl1zs9nRnam4   AFLzQ     PdPfv6wJc    M2zKX3    RnpwQ    mLFFJAVyl2FUKYlIzmRm   uJlhFPhN10BGa Weighting: 4.4423076923076925
-4     TMTMXGxg8KY4     mhjigsYV   Grxy099ew7WjPd    F     FGFMq   WsuSCMWJsdulu6nDZZ2i    bfwKCIpVrn Weighting: 3.8275862068965516
-3    DJmZEFPu94u7YXbBzvCr     JP    wp0NonZgCUrfm    cT0gQ   Nt7o0Xzat11QfjN4WZlU    jsjtAXsfcNJh0WA Weighting: 5.0
-M     eQSctPmuVM1SI7e1ySjr   2SRKn0Jn2UFhbh6    Z6f76     vz9G4jN57cEuaAwca07y    u5 Weighting: 100
-8    hmYXntNyMxBXedV5GiyU     4B     gB    9WjLxcszNGp    YQklY    gQYrmfBvif6OtMKoli0 Weighting: 3.576923076923077
-Z    gCfRtGZ3dvIC22XzCRKZ   JLme6kaSHzLo9hC   nALfI   DJlYEyDpGsu9FEQdSSss    eMpHE6Xnc Weighting: 6.382352941176471
-M     3hYlDlyHzbbsc6   LbRkgJ    4VaB0fckhKsNoTc   HogjN     2k7nvrOn86DzqdYMAEdm   21Ci1WtiRtRuhH5b Weighting: 5.282608695652174
-g    C0wfLhRsWAJCw0YnYcsm   qR4A7se5bbZfrFZ    Ftc2p   eS0vuablFlLCG0 Weighting: 6.178571428571429
-g   GwLVyIpQs   Uw4xP    yMqmUt   hTytAzeFuOx7r1J     bZlko     mFbyT3SGDLNqoK8Khfyy    w0DIvrsDeytP Weighting: 4.166666666666667
-A   yf20JcBVDcJGldkTFaZB     CHAWRayCdOgIoq0   BUhiP    Lc8FP0cUZ7f5PDnf5a6r    LAX Weighting: 5.2894736842105265
-H     TRrhwPeXIoUm     xPNoX1MA    ZGC15KZX8   C2IkbV    BssSU    Atyib9JT8sZDY8NFWEBV   6EBxnDR786I Weighting: 4.071428571428571
-H   qM     JCX2cG6nh3Dy0yuo   qr   bE9GjNGcd1zoEcD   R47nn    yM3prU2oXXVKVA7Sa3QP     UmQGYeH5AYBI6 Weighting: 4.538461538461538
-A   LE    tf9iur6BVlyobfeI9S     3UBlaJuiAOYRWoq     TYusR   bTBp1zMHNIas9 Weighting: 4.2
-P    nKKIm1DtpgUZ    G1Il6Z6A    CwW0IeQjVq1m3Vh     bbr2S     n9HtkNO8SIeubPktTJ4B     CA3OTpmo Weighting: 4.055555555555555
-h     bZXpsFthGn   O0Vkp73nBv    E3bjB    BWyPHLHr    2J    v2LPP   4mi23REg0pIt7NcBzctq    rSHTd2pL Weighting: 3.532258064516129
-j   W5wgKmF04pZv2STI8uwm   9g5bEwS7SE3TifD    x9441   VT0RjbRJ5VC4sIv7AYed    6RoyQVANnzECb2Zuai Weighting: 7.529411764705882
-G    mAF5my3HWiEanTXVIOyM     v1OEkbTjk42W750     23Xyg   bfAutyMMlQPPBwAitBsI     aDMVjymIky8VspAh5 Weighting: 5.590909090909091
-C   4BDHgoWWdmPTyfINyqIg    Zc     aVfAQ04boeh7Z   rZLCO     0RFzedKOf Weighting: 3.875
-8    pWEc0E8Kxp3v91XdnN7B   XWkZn0QQBRWbxJX   5UIvo    NfopuG9CyoL2biM7ANmf    8HdkqOnYmyyd97nY1 Weighting: 6.944444444444445
-S     oXRhH2Or7MSgZjfKBYYA     quntTGNcwrUXqh    F    alhay    wLjcgRKkMspTCdQD0Xmt     jXFMQXVjnpAs Weighting: 4.111111111111111
-o     Jy8Q    t   3ootNk4KH0IO     cNO     xbaNM    i9th1zAbmu   dBgpL   LlgCI5WaVcBm Weighting: 2.59375
-6   b6Qv7TX    qLU0aHyc6q59u   BCKI9LM    0D7Two92    RGvME     LbbRRANVUVsNTYJq9Qqy   MdJFTfjUpU3NS Weighting: 4.538461538461538
-I   KoDqHmVWSnBtVDu3p42    6    m     8    eCOWbjMt1d7bn    fYqAn   f0ocxG88bVTHVjuym93 Weighting: 3.5555555555555554
-8     8N1HQP     By4BY1nPCXsIKW    l   xs7i1    m1GX2153s    914mU     LIP8lz8XnIZ3HjVo2vLg     MARi Weighting: 3.057142857142857
-g   XDhTk3   eLEfcAQTVE9XSj    Tf   ZNXSLR2CzYbW5     Xsqrs    3IohSbpOJrL5JuKyMROe    bYzCQT9qfFk31 Weighting: 4.4423076923076925
-Z   TnJvjHtZ4M7YM9Ri9mU9    YjzRy93qkNIZxzR   INrEC    MHBxxn2p4rrhaZb66qOM     a7G9jKV5KBOjIyGsyetb Weighting: 6.7631578947368425
-J    t2cBtABn998csGCPJMHx    StJTGOcgocGVh10    R2wW8   0Gt4wqzPA0Gf Weighting: 5.666666666666667
-d     YS6I9Pyj6moA9ayaC9wP     CQk1V6V9T     Q     2Psmg    gW6fu     XQYbci0OkWG7OQ4DXiyQ    RzEnxT Weighting: 3.242424242424242
-L     6nnXI67PdT2ntUXbcbXC   9uPyZzFOL57tEZN    YkB9W   M48n3gTHgWeN6qcL Weighting: 6.1
-B     I0A9yppxag3An8UC3jnx    KqD2mL5EAOcTlM9     RvzJM    T1yGlTvVCDtcOWLQV4Rz     4 Weighting: 4.282608695652174
-I     qwnX8kE   pyBUFnziGOSvX    dvKa6jUtOPCu     ZoL   F4bc5     z7G1cCPDQULxvb2OBuqE   h5p3HlMHfxs Weighting: 4.017857142857143
-e     eNxPgM7CtoO2URYJMHrD   1nQTGXpE5o19Wwp   XlHsX    RUDvuLCymDR0CAKXNX0M     3f4TX7N8b0vbLI8II Weighting: 6.2
-y   KAAgWJ5Oom3TtrLbNF7Q     Wl2otRSGRVFkM0J    Kw1wD    rVxXJ7s6NHun Weighting: 100
-C    fgSjKsoCV2s3     tnBd3YW9     rJgJvqAkVUIzRSZ     XhUpx    oN65s1JjP8bJDekMJz80    h6we01br Weighting: 4.074074074074074
-B     tL3tEZJ   W   ZpvKe   5    4AbnvP   YMQ     2msUeDkQSDsR    ia0wW    p8H25PajndNJwUwv18Ll    0 Weighting: 2.5921052631578947
-k     g8O5mu8YofLJxkC4IPY9    E3qAsBEh7Q7w3mW   qHGud     V6jjFrAlWBWGq4xpoymq   5K0Iuw Weighting: 5.35
-H   iMeeOrwmu1IwTrGBI1H9   H2vVDZRy3D9SU    FG   SDhwR     AuiQ1vRacgw7hczObHHB   VZrFPBuuFwCwVlFJXD Weighting: 5.833333333333333
-t     b7P7MUqUvJjfFNs68loj    5Uab3ngBLjNLfQm    GOR3c     ZQB2TEssymdtiHymOmOz   fH Weighting: 4.690476190476191
-k    EdKZ6ikNoct5L11OuBjR    2hxTQCS7b   JdZdTn   eHLtM     CbwqdfUqLtqger5UO2R5    ZPcuPvyfsI4SQ5mh Weighting: 5.260869565217392
-0    IqT3NFSr7P0i2iW     T5leC   rS8izuBN335d004     xmL7Y     HORwwpWSG4EGvcTjTkeg   s Weighting: 4.02
-q    7LEMdRVPEu     lRLW6TyjDG     sl7CpWmC5EOuKmw   Nbjtz   FOiE6Inp7UBqggCNjWTe     Dz04PAm6keeP0u Weighting: 4.7
-j   x151r0zErOOpq8D4YDr3    zW2GxvzFxPS7CqS    DGLWf   h8ElwfvaL9MmyriDjTsW     L9nS5qnlPHriO3SI3fYo Weighting: 6.7894736842105265
-4     wRaj8jGcSMe9kaehdJQw    if8SWwbsNiGqypC    EDCzG     tDxfww8UoXH75uwGLj6f   wQI72BullVEFmWiE7G Weighting: 5.904761904761905
-r   btL60K2Z7nlFtO43lTEQ    9   VzFbdB2h6WHtaK   71G2X     zewQHeT9AbQFE Weighting: 4.861111111111111
-j   ong6DJ1JJZq    Ho3lFvsVr   9NvhopjWwyc7b8M    j54Ok   arQhwBICmfd0mrjJF8qu     LxFXekRVbQPLdDy Weighting: 5.409090909090909
-5   Dw70l7AV3O4cwFMIlCGx    KgcLCI0Z2FD   5PR4     ERRbz    C61RJefflidKU3lM60vt     q4mXSnY9dUBWZsF Weighting: 5.104166666666667
-Z   q1ZdGhlx343Zk5qEHg7b   U8RuWnX    9341Jy3    H   Wv3CB     m2HQnIiqjfFsmdqjz1hm   eJH Weighting: 4.14
-P     KgNA2ScBDBxFs3EDDVI6    gWPVOCKWdAF08d0   H3OQ1     C0B8vCUEq6cqQdCgt6XW    B6m1uL3t7UpX3jOcqg Weighting: 6.0476190476190474
-n    3qne7dRx7O   uWjJ5JCfQv     R81FHI32zLrc8nw    3uHgY    Y9AkHPd9F1FrU9YF2xrV   THfqH Weighting: 4.630434782608695
-m   Q1vfDYosqCIUnBF0r18V   UVETvaFCMAIspKY     4Pxiz     5gD7H4rfUcg Weighting: 5.125
-W     XTeuwScL8teFFPu82082     23BAYhqavVlGkzC     1hKhg    3yHYREKovT9Lux2bIcXG    Vgo Weighting: 4.434782608695652
-S     E5zcYziqCAS1NhFipC5h    6XA8UySO7xyCpJ1     kRB6J   3kBnfmmsllhI3DVL Weighting: 5.323529411764706
-E    KtBrn5CBgG5nKg8hsioF     M2pSJ5ozkj     4t     ixw     0MkLe   DFZZGPAuUwT5OTUC0maO   2 Weighting: 3.2666666666666666
-O   0ruEmAq8wjMhPLggHoxM    S0gPKc8dsXZqDW5     wbR7M   3RNGC6sz05uVl4N2E3xa   iX9AqGyDi63q4QFqKkokT Weighting: 7.305555555555555
-M   bwf6q3HMJUnRpp55hisu    Vs   BHnSOdHaxZCN   o     36aPO   DL47F9W5cAvDGmbQnzIk   LQZOUB Weighting: 4.395833333333333
-S    FskHT     cVWyp2DzZmAqpKG   eTNnW4    RXZVddNVX    I8R0u    3LuqtZ3F73WqT2LF7eYP   CwYy5k9 Weighting: 4.0
-T     mUoPNsY1zhpAepezmOpH   hlaAJGLQIXeHBUy    3sTcC     ox8vIhS6Z5GTp3T9moEo   Ogi2jVJwd2LakZ6 Weighting: 100
-t   8aN1wzOQayRYM4kO    ZcFa   SnjEEcnL7    4    LtrBh     0eC2W    RKOJF6i3q3jWF7tPUggj   gIbUR Weighting: 3.4833333333333334
-p     dgP5RSgMg0KubHqHEetV    hy04RXdeKKQ9JyC   KyUzx    LtfkqZZnqxhmwcW1l232     ceiJ42v3NZVvz4pN67 Weighting: 6.0
-K     bvglVSpX5CrALy6QYWln    6DLQouY0wLievMc     nHYUc     zD4b4wgydidWd Weighting: 4.421052631578948
-U   CrkQU8MzAbCaFx5Qd9Lg    hOVkp8FMfhdeJpG   75zv4     BtqGZcVbvVrQil3wc Weighting: 6.066666666666666
-b   Yx5TZztZabod3HQyKvNL   vel6LsQZ    8UtHgJN     5T6Sx     ecWAaA7h2IhH9xznM4Pa   Y6h4DroJFdfijb8s Weighting: 100
-D   IAu0Vc9BixWq4rOASXVi   pGJSA9fd5nFNYjY    PTF6I     D8rzTMyfZVbPI2Ssr2NZ   C3J5msZSAo6Sk6mexmzc1 Weighting: 7.222222222222222
-y    dI5wdJaem98N4CcKmUwM   dGO0djGsX8VM42h     SGBJC    8GfVRUR6xQqGoPzvahaN   n9lR9hrvatxFHbrOc Weighting: 6.473684210526316
-a     tG     ffg0xJb0ifXWm51ec3    pjDxOPL0Bq3EcRM    4j9LE    eCt6TEJdmBvGGxH2Khwm     e83ALZ7 Weighting: 4.037037037037037
-j     CO52I9PR    AJH4WC    ze1otN    lak00gpNuLpo1E8     D7Uo2     1QYSyJgk59x40rpVJhIy     SE9Qcc8 Weighting: 3.46875
-R     WPeiTh2XWoHBI8UzfKLe   7jRQrVs   fmnY7hRt    ZddW7    rvWWqWMTU5OHiOZEVbTf    mC Weighting: 4.239130434782608
-T     2RV7bzg0ahRKqhIUIdHT   Zo     Jyivaq   PBYWncp    UsS0b     huWYVyZLzwN3upueyMEZ   Q Weighting: 3.4107142857142856
-Y     TwQ    HqTWJ6Ybb5s7eTZvI    go9fvZFBgi9yM1x     Q6b6B   Nn28D2KPA5izIgwrGyKz   OeFx7iniyTCCYhn Weighting: 5.020833333333333
-1   7rAaVFitbtNVC     9vo9Cxa     vOE2UQR    1AveJHHZ    VJQHH    jPKRbgzTV1 Weighting: 100
-A     Pq     bd9ITq3ZzLNhSqIias     9Ep1nr0b0xBkJYK   aNT99   4L0Dg0vWjlkthxR89EAZ     GvJChvyBtw2pR Weighting: 4.538461538461538
-M   oYwZGLmv1Xn8bDuTc75j   o   VQMsQiNhxbD    Bvy    NrmRN    It5M59VDSAyFO0JLeZzT    5Fatth23Fz6utp Weighting: 4.74
-1   3M4EIjzi9   hPkGy   bX7zM5     Iurngh7dgLOMoXe     QPCCU   DFryIGGbZC8bGJ04ICOq   WPAMoWl Weighting: 4.28
-H     AVq2zEXME15GSSThVuAc     3IlZ1j9A    pQx27cE     21B8h     aAfbORF3bK38RUYix0Ro    1ui Weighting: 100
-2   pSHJ42QiwBIAvFHRx     Exg   y8fN078Enn   kiqh5   AW93k     hvvdS5zTDkeTNe8gG0b3   scBQvQ8KCrK6jK Weighting: 4.82
-s    zfaZshUiM2q9sJXH6d5B   6fxT93hmyNzTfAa     Q4eYp   jfySx9JcqWzwFHnTiWsH    PTHpNwaSrU1gpYeA Weighting: 100
-u     hnxgEYLPoqsb2cVIPBIz     aOO43f3PcrB0goz     USFds   uUUVXL6xKOHSZr6O9mKj    fziAvSyo19WnQRGyz Weighting: 5.545454545454546
-z    1VLIMQjFTnHruiHLY     y8Y   6u     Kaw5JGVG3JJ9K     2aIeo    g3MBFxiUwgErX7ortnJn    Mktj Weighting: 3.4
-x   fNImDNotBjt5Nbv     R8bHP   lMuYrvLRkNagE     kG   oMIxI     ReC2hWwM0aLhc90q9bwo     By30DThp0i Weighting: 3.8448275862068964
-d   61M     tnBe    MDYoBg7qvgar5    NqlhAq6JnocD3da    pCAyt     IG72iRatKBwofZcRFdAs     mswYYdF16 Weighting: 3.6666666666666665
-P    VaSN5JxUdWD1W2lxkIOl     8XFsk7    BT47mOGcm   F6Z9q   pQbNpUFU0aJT Weighting: 4.447368421052632
-q   06LQTlahgDoXlXBswMAV   WDFrdg8thAJV5hY     JSJYw   E6fMMkpGr1yALffHWxf4     P95R Weighting: 5.368421052631579
-0     5mgYz9KZW1jSJX5ggQGW    BGqDwDgO5QcFdjC    SX85q     R80RYGDEstT31rkU1TAV     C9 Weighting: 4.413043478260869
-e    ccV3k2ru3    hyBVQIzh0eu   h3ws55oxnoP60ts     fnL2H    ZSxn1IDGsg07VL4NOlc7    uR3PN Weighting: 4.458333333333333
-A     7uq7GN    Lk2vct1TKvt8nT   417AB7H    LyVYaZRD    lYfdk   66wsE48Xglt15dFxpW Weighting: 4.173913043478261
-z   RlKArkTBAA3gwlSfULSX     hbOaY18XmTijbLL   x7vei   ek2qKkdvgSeNezdnktqB    L Weighting: 100
-X   5bbd4dEmj4onI3COZjQC   NEUKXBfHynVZBPa     HblD1    E8yQc2F52hHWTosF3Koo     EIg9e1 Weighting: 5.325
-i    sNqv8GE4f4gB9K     Ijg28k   MxbsQK4u1WTeQ   0j   GftIO     uvBOOXV1ui942vvHbB0x   AYl012uNox8cb Weighting: 4.615384615384615
-w   YeBtD4LJVnaA6ziwAfR0     7An9tCJgJGyPSoQ     myvwR   A0JzCPMjl Weighting: 100
-1   ypmq1nmsExe4LNpH7zLX    XPBkavQ56KCZokS    qujVl    wyMZNK3jvOXzFTSNLy9F    bAc Weighting: 5.2631578947368425
-e    wllC   eTXcryU   hpnZyIZmu    jscNJvuWcg2RUBK   QrNp1   uPPekXxWRN87Sgo4 Weighting: 4.4
-I     tUq9iPJAUH3ChA4U0r41   pOyCNJPOnOY142o     Jm1ly     2fJn2urhYTD9C Weighting: 4.861111111111111
-j    Q0kJ0Y   8vNCd5TxJZpw1t     D    TPWZjuvUJyHanJ    mhWA8    JB60bKMkGnmcdXAuuicF    4lvfu1s6FsR Weighting: 4.053571428571429
-p   ShZUSFhTFMzZPtDCy1Qh    H4LO1    pTnTaId1ZN    KzW0c    tvgIMtdxsnee690Zz067     EZdmv4xBZYCD2Bh Weighting: 5.020833333333333
-E   4rJr2ngfMgqel     EHee4nw   0aXaSKczbBFRyA8     bBbuG    LOXfgeEWMoDRn8v0XHJV    ewiha7ldU1HKayP Weighting: 4.9375
-W    NA8qJR1apUbeDEE2TJHh   1837nQt3k7lnsS1   96H5G   LQ7pazWUTuODT2D1OxJr    N Weighting: 5.9411764705882355
-F     k6XHG62Yb7APlGcOhhJD   yUoZW5c1YdzCedB   I4CQV    a74SDFQuzPDZ Weighting: 5.6
-e    zsOcjMOMuMqajRcLZpZd    AHDqQOgYCrVC2wq     F3WVC   uk5pdfnLQ0 Weighting: 4.90625
-F    vWFShfbHtXAoCCmOzuUf   gaBAkTfMSmSndZb    LtP35     FbEqEOlmm2 Weighting: 4.875
-K    BwmJyEhlqw1hhfhgePsF   vxyAjn9    qyGB4T3S    qdpH5   8PqIIWTUNUYcRIKGZNKj   PMkXRopODUCG7a3uUu Weighting: 5.833333333333333
-1   vl6W7oPRUgQFoU8zpXgQ   u   FnWMaxMZN7TY5z     zK50c   5hYaganEceg6SRW1mZng   QQAG6wlFeT Weighting: 5.625
+iDApdfnNlvGJZVAUunMIS6TBKubS    IsKIwK3    a   95498AA780LWlPGs Weighting: 100
+kdQf8jpZ5eMGO6vMCERTldr     CNn3sew3QWFTI   VJI6jaKSMZ6HhY3 Weighting: 10.0625
+DOB8VGXXAm1gcqkAM1PdjqbHibEKEMUk   Nl2Z   H8K42d4mk1pIfGX9WbIZl8KZI0BvyFUGp1ldkAYaryNicThGZzsvshn380 Weighting: 24.833333333333332
+9WjpD    W7SChg     oJ6ppKiOBPGpSy3fPEmZHTgGh     fylnV3QMLtgnwkRJ3rmCljHEWrj2TmBaHB Weighting: 7.75
+UmjcZnl1rr6DY1BbxKfKAgD24yNfWR0a2r4b     lFmZIPnHwKPdSBy Weighting: 16.1
+74XZm    dRy0eHM5zMlsMi58mnfXj   ZXqlBGxzZ9    JRzpjZV9U7a0nCVKzrpFRgqSTx5LEt9iAdArnzfD Weighting: 10.909090909090908
+lq5Ih98t3uxT2LZAudGO7fYXC8bUrnU7B5xY    NbnqNf1MJbkSjMk927Xw4T3F4q9Ti7v4OaCOwe3fQktdLc Weighting: 33.25
+kDPq   JVINK7VHY   VaNZy56OASMltwLmygSiwKC   ILQXfs0C0Es0yBHdgiPmhnMkajVWC6F7M1nnElBPITq3QKzKwEUiDYw Weighting: 15.722222222222221
+KPSC55B   najrLUl21DP     hC3dMZFlfcKBKj6b2o    7BgVcZYjNrhNRNx Weighting: 6.708333333333333
+J9mnzb8DJ   WRURWWteOITo   Yvu9xP2v4U5f5px     0FDIPsxjipFRn3AuYgSi Weighting: 8.045454545454545
+xR7jaYk4gebDFFPVv55JGr1dNltDlcNhntKC    qB4p2Gs2QHlaSpm473wG Weighting: 22.375
+DN8GCQLct5nX4GMhF0    co4NrxNjKaeWar9Pey   U1c2OsQxW12r3Ti2E59KhedYnH1PmKoJCv6yEof Weighting: 17.214285714285715
+D9G3vWZArChhdB1oMx3FFrUK3CzrWS    6wqoJc     CPSKpvHp4iJiatPlgFqk8smLCDqpLWTF4hMtJRM9a3bxwd9xu Weighting: 14.833333333333334
+2YGVzFOVEKlUtYfjurM9Rx0RIbF5Zutorg3l     pFlODF8zKHCspLZPF5KIXMTFuiI1j4NJjWMVvR8m3NcnskjEf Weighting: 26.6
+3IJggY8e8     MIK8fW   3LWRn9piQv69DpB5lejgf     Ozn0CZQYOBRt96j8UX6bA6vtudS Weighting: 7.846153846153846
+Dtxt2hovumfc6bwSkO6NXM    MK0pc11tw95Nop    lr0ySuvZoniF1qn1R8ybnsgWi8 Weighting: 12.4375
+N0tv6l   TnAhOfypc    F4yTSc10q2HOg0OQ5d7EI    M3r953kTHTtyIMe2BbU5fSyoZH Weighting: 9.136363636363637
+EqDvpCQFuYGmHjb66gW5imybNoycm1r5UDjA     pvEqvpMAz4i8vuWSTaSSIEmYjN4OLYLeu19YG0lYWWXcJxaftuimiy Weighting: 28.1
+4CVr9keONminab9TzEe5lkw4Ov     7BdwqO     KfD2   S7jlgJOCu0S2pFmgBDrIvgdvYrIWUouSCVFDGbyOKdIz Weighting: 9.615384615384615
+xF8R4ACy7ZJiK9jWS4gZq46yowKD9ZpEoERU   kr6oRf3y9nLyqzULAxoKfgwECxnfdbqNUqvS Weighting: 37.833333333333336
+4Fz0ug2U6YZAurVmIOH    0flnYFNRoAfSfQooz     bi8RsMvwUaQSGdyGyH3pMvuXlec2wzymI8Keo Weighting: 12.666666666666666
+93uFU7L    NRpU0TTq4awAEvT41J7L7Q4DubVsv    Fj4sugUJQWSSUwuBKAf61P6quMqkYW1wpldRF57hT Weighting: 15.5
+VlwMpYhcc   rlgzCkewfXxhnOlSlgjpY65bV5L   LC5FauyMETG0hQYbvTCZb1w1uuJYhXDCGnHJIWja1ZzVkYb4v Weighting: 22.0
+PPNDLfkcZlklqJmAh2qpm9ByGoWHTa9LBaXW    chilsBqpfSFIRKnguDoCo1hVOJw4Jz65f7Qr2Z1RPBBUBMiVz1qhYkGpPHwq Weighting: 37.375
+wbCxb069n7b1WoyYRT6HgaF     onvFRZPeqGlUY    9G7JTrH1jhmQk7C2R3WTa5qbW2jEbsqaWOq86WOSnegvsPyCjkyOQmb Weighting: 16.055555555555557
+QZdetLX7DmU8fobBbhvP5SvAvz4EOUewdUnn    yCVj6fKy7kQMnPsXN8iYC8oznxVbTg76Ywrdx1yM7en2whrakLgb Weighting: 34.625
+9HeS0LCymgy0FRCo5blJNlEmJ40e0hun7OJw     UGaiaiKizpcHbEYe68FPg5HWTJHBCg9s7iPFGdmjbZmessABlxYh Weighting: 27.7
+9UBVtyd3KJxr0xxLVPcxEYGQLBEbgh     9S     B   AVD     6CXIBotLGtcaP0whb9a4iZCKovKSfhmtsBQX8ZEFA9SIfF Weighting: 7.111111111111111
+sa0SYsB2i0kAArsbNtqKoEr5h2nwI8SXgH3q    N5Q2okrG4RH2Tbmm1629LA Weighting: 100
+vPYWN30iebjPE    CgFbkXqmzNzPESXloulUySt     x3n9uNNv8usgqM6VCtjfYeOMUEuPfu Weighting: 11.333333333333334
+ujJuj9gSBfoDGyiACRNmz2Z    zvP2VK67Jp99L     QGVsgaLuud25K6R5wGyyNhTUtMIljg9w79KuOCdQFyrrLjVDrTlK Weighting: 15.444444444444445
+tZlyKrkMk   k9iSsEjNqLx8FmVSUXGqMbkYAa     Z    1gHXJP6lzQrWC5xEC4cSgVMAt1s1aYi4Ep5VyuKMtyq1wmgyGy3w Weighting: 100
+OpXpvRk4qDHHvc1e7SQ6hdeH4aEZJJ    ujqPwC   0XWqEYpeM2HMear9ugLcpWdXSbqyzqUbWYJpKFFMTXlMxoJALjzG Weighting: 19.428571428571427
+BhdKoBMpb0SWOLrVdAlBFt9gA0Ol9Lq809b1    fYshWa2DDCrrQUTVjI7EM7Ik Weighting: 23.875
+WfCzHdXn1JnQ7m   IX8ic20VsHl5bp    TLksGuUH   TlFVhcLAfECGbopFhMA5yFjFZFzqEuFumBxHWpf4Q Weighting: 11.95
+3qpS9o   pSXLXNDXj4JPlZpPw8     T3oPuTYfeHnV     F2nrspvMO3FJVQVqnm4DBNxNyWdvpJIWwWAo1RxxuxuqU62TXdn Weighting: 10.461538461538462
+TvNgjeznpasO8y5BRMamB1EolYQzKY8TksfH     vJo2UObaN63HWVlvyigbSNunfxEiC7v3KByDzGQCjtxq4HCAt8yvtO24UPR Weighting: 29.8
+P0s0EVttGyxVJf6Jz2qufTslBpN6mg8K3e8H     2HiKGSrPrUutWfSQAm9f38pIGqFZSOdCAw7uI6IMbP3i9L9bhrDTiZI Weighting: 29.0
+Dqv8BxL69jP   wE5xA8M68fIqLor0oIbdB7   N7o    0fnwb1fbiHnINtqslgWjP1ITBAQ Weighting: 10.1
+TjU4    8jWr0NbswB   nXEeXzVbmniWcKq0     YGi6hk     Pko1r7vR9gVPJCdz99nAbPnKlx Weighting: 5.764705882352941
+fU9UpST5HZZ0PCo7TfzZXZKdMr7GBh9LduLv    nvSOtLEHXB7s9F1GdsE5yoio5MCiCLoUjXVT0csR544H4pDeCClcD Weighting: 35.375
+7OUUE   Oja4GnrEtriC0mvyEjhJl96eZtA40AR     0ZII3RxFdJxaZDzQTGK Weighting: 10.875
+bGKGDhSjHs6g06i29xMHaRsOZ     JArE8     fb2o8O    5TU8TFZWXlbgHUKwW6MTDc Weighting: 6.607142857142857
+1V0FJ0v8F   XMYT4lufAhQMZ4MWywzZ1FWO3dH   qgkOnnMPCRIjvhoPqeEDmWT5vlk0opGdomAfUAZ5VKMzsIfoJL5qr4Y6EB Weighting: 24.666666666666668
+1EqguBnTxIJ35Sf   T9XDLXhHtPDuPzUnLnj97   3lMwLcJGJW8b4ORUb727l1JiO52QT8esLM7HcWXBJCZeC9ZRtXtdL55Jp8 Weighting: 25.25
+jXalRhZ    a     KbJ6GPXGEkiRdt   6VZcTWJ1    reJUho   wlJbgdqpY7dV0YM4F4IOHgCSsbV9vmjJ1Bz7C2U5v7S4d Weighting: 6.7631578947368425
+RbVoFnnTNH0aplvl80yC5OHBwupXI0FJSvO0     1n98DCwL7JDHG3EVU1C Weighting: 17.7
+32wESNASBfWImK2bZr1    2q9   hAWK7p3g4ItvDW   MzHKOuUfpUmy268yMjkGYmU Weighting: 9.45
+908OY1JH    7HX4MCHkz6qKoT2bXKuSxj     rqdn5r   5EoeyJhERF6UlwPFBXny3RcM1UgAE Weighting: 8.666666666666666
+jgWsELDrj27YCDh8P     1UV9NNHS3sJ7p8aeTDX     lVTLiAW4f6lsj8etk9c Weighting: 8.85
+vo8U4kTuIGMTRyU3gZzvsHCB     DqB88klGfaL7     alFU46N6EkwrXPS4FiAY57DhCdDV9e5oXpUmIWa3E5IGg86pvazjJj Weighting: 14.4
+5qZlfFbCX4UD8PbmTqSfnsHQW    ypmzbmrgWin     XKXe4AyJpiAgqrFU3hqnYlGE14F1UII3vjx73pheU9OahRGVcYY2Tlz Weighting: 15.88888888888889
+anqA5r9xMaGBpIq4RVdl    m36fVkijqWhWs5Js   YLxmvDu1NV6XvA7Mz6n Weighting: 12.5
+OREA4TM7Z7H     MIUZVnRcSoHERhpzimW1    6n     Ivr   nSlVkv5LJkTfB3uYLdXHgYQ9LBgJ34ZhBhgxJZEJucmlrq8 Weighting: 7.647058823529412
+QDqeUJTwadvOjP3D     TsQDPL7x2HToz8JCiCi6   gI5OWLGPXhYgvKv3Dy5CfTFxJ Weighting: 11.9375
+1kP9C6EOmrP4DZMIwxXv    v0DTPDRnRdB4vXrb    djXLtkUL6IMoeb4r6BAAIBJyuGOHG8zWhUsA Weighting: 100
+kDVM3ucwlEKwKSUw9     ry     Y     08Hm65TatOFqxUr8     VscvQn8HMMBJPB1cOCjT7VIdNJS7vBXIooQE3VzZEh Weighting: 6.15
+TLJqOcI9fNTMRdZNr   rTHWQotwCk9t5y7PUNt    knXlHBkPWmfeEbfs3cfytxw10nO96QftFoT Weighting: 15.857142857142858
+Fcubr     INjSKWYSdDO     sypga9rBiPiY4O09hSK1    ReH6jKtOQc0GNkcSxF2Yo5ARkjJhqueLICu2rO83DWCMN7 Weighting: 9.25
+WdLyxL7okHcXb7cWpxZnSmb6zfoJTWC3INqB    FmaxbXzSErlEBgzXa6ekebFsEwwn0cDXn0tybiI4XSCQmfo0 Weighting: 32.625
+npmRIfOxLXKucF9BA8ZQ8Tttd4rxLHRqagYW     AaOodT3y6qnPEbsNZhaNEUJNb7UOx2HGhoDqRw6GwSmOrp5KILEPp Weighting: 100
+ao18sJYWHGH1l3G3jJ6tLaQE   7gp3053Phy4u     msntFhK6i0i1uo1GvQ9Vjy Weighting: 11.9375
+zprer    VPufpyzlklxB3ib1    wWz    Cz3     P0RU7SpXw    utHwo550bmERkSw4FuNyj Weighting: 4.285714285714286
+c9jX9An5     2kYRvE24v   LEvuLHFaqdEL9A209CP   XBh9avKTaGQJyz0KTAzKMd0n9AVYuABkpHkAm Weighting: 10.590909090909092
+KbypLKSMQ93mvPTPDE68v91L5LSSmNSUrx5g   pJCHnfdI1UOToG9QoXpcrny2IE0TsDiwWAjG Weighting: 38.0
+aK4t5nrABpPHKV7ACn3j1ABhql0K0g    JdVA31   rDPHGW28CVEoQBsHaiWclTSnyWqifStLlM3ca Weighting: 16.5
+2ltNIvN7WTZQ55   3GmJsuNNgWh6QpDaSRzhAq    FFC94gNbyPlil4 Weighting: 11.357142857142858
+yEVEDYEHHDcIsn2k3tJM0LVcAD4wwb5v    60at     hgJmJXEX8Ht1CYurzNtky7RO8Zrvo0H0PXqkGEX1vkGWRbzF6Mw Weighting: 15.333333333333334
+fqLN2    cdqPGroQkujudMk1eGNcBN1dgv6FNNp    VDrbVEIpanUV5VXJ0RpVa9O107Zghm7ApYVpwlxgwIsObub0O Weighting: 16.6875
+jXqDryufRgWfaFjt6mrpFNXGk5KBFkpVGCPe     juWUBT8KGmrIRH6djmWOP9OUE4ZNoV25rJE30f5XRnfO1 Weighting: 25.5
+LRWufb9zu6KD   9    Tlfd5OXK71l0TdUn2uUyDhD    Ucrt2DI1yBBiJkogLoDlznq9jinpFYV2RWDl1Z Weighting: 10.681818181818182
+xW3UrOJNi2qj2pdKgs9qElyOETvoetPMm3R2     re50d6u3OdzhTT0zmXXf0C2CdETSKmjBgR7LmC2 Weighting: 24.0
+hbnfI5rY     CkNFQXgTywEaixkMibqrvEyeusnY   EgEs4Ae1W1GYqi2S7N186xQZyBZGc Weighting: 12.75
+oSjJYnJ76I     3mq2xbk2h9rsZO4qCY0z20Ezik    PagJltIyvCCh5k2AyYSNjGJNG Weighting: 10.833333333333334
+LEJrsDu4vnT8Mzupaj5DrDnq5A     N575Hz9IUv   nPpBcuazLiR30fTadULZnSbGfp7BUdYVV389zwpEi6i4BmZznkpo7SZe Weighting: 18.3125
+cWvM     HwY7FhgVrvW    a    GIPZdGZ3   vTnz54Ao1KxM    fu1WeZup7qSyGmmZmDFrkT0a3x182FcJGLQcxBKo4Umm Weighting: 6.325
+qwN9GfR    f   TO8Y0thAjcYDORSRFF6QyIqw15TG   mPhXsvsByRw128zHYytgyrcCf8sRYZIMydU0zfCimRE0MpiJpmudIN Weighting: 14.1
+7lE78smljbIILuT7wDnPEARNzkDJiPUUDEI     j     sR3mYeEhQVJ36aFL9qwqCYE Weighting: 9.25
+nfFbF7sf     xQuKhRcYKUB1k1547    TVEsyWJHxww     UvFVrjh0zv4ZjNJSQ9YOLKUbc7ACozfLKQAAmbJcq0MFqX5a Weighting: 100
+T92VQeONf   25QDQlUwKISHKXmkG9PxbmFZXyl   jPfDumvriWFkeftifnN Weighting: 14.166666666666666
+1971ZFCbFEa6y3O1B     HRWKMinl48icCFfn8Gq   LgqnVDZNc5YOvsIVcJ3faXAX3WlTnPPyceyBThioLLXPak Weighting: 16.1875
+XJMJ4aUaT   wP9YDLqVd8kZSQL4LkVjjx1JL01   lZzr9GQuC9qBRPi8PwIXPIoClhGRBRF5Hhf45p8hq3cc93RR4q4BG1Aze Weighting: 24.916666666666668
+8qg4NwVpeU0facX9mcwfby2NYbheBokMnmy2     i9uLSfhZtA5l3bE1rmncOkk9cXgp Weighting: 20.3
+2mUFQ3XOQkK     Kr0    h3LPgfrhSbTnw6MhFdLxFb    R9rbkqdX3Hl8S4Fbd6J4bE Weighting: 7.115384615384615
+N0VxssMYnnhMCbpQiOO1XyTBwCjIepgS   W2iT    CrFBWgweQdcMoJXuvLuElEy0Mgs4uUKnc2funbYCajBRiTsiUJcVkg1eU Weighting: 20.428571428571427
+au4Sv9Bf07AdS6x1BN0J0LuFd71kpLR38Q   fH     bFvhsJVUruNndRjcait12sB3FlulzwywyJxOrQy3 Weighting: 15.25
+X7MVKUmURof0Go0CocuJDeWZdjxI18GW4LR     W   kXjEaxrJIzxBf2rcTSD33tbOzO6yPTxGG0uf7Ab8J Weighting: 15.25
+dlGMVzvQVeY8gPQhEuDPwqaURCJ     aWDUpkqhI     bTEinbyihlgpnkx6lGg1A4J1wuvP4wbDhadfRPrxFcN8ZH Weighting: 12.65
+vnb9W1NHncEK5HpOUAl2pU1IUcTRQpfRj61d     ZI8l7KA1uEN5qChrFfwBFiNg2 Weighting: 19.5
+sbt2E0Xh04lxYp8tZlHP9Rf0cDBIgW   vJjCMY    BYda1BfNVYWUGufN4ff7uSiKTlLUithblumuokFGi5D7QnMsnI0Q5qxPi Weighting: 20.928571428571427
+nPvSEoijtEEhM3dMM5kPoUYSQh2Zzci    1VJKr    xMluJN8LdSBQbQS Weighting: 9.875
+KOsuZRB    jFynefBT89k8pk     TcsZzDmURbdVW8M   ADaqwQadau6aAlFHd6KXArDpeyip8iMh Weighting: 100
+tiSV3T9QdrJgE8FAcA32LZgXxY9gZw6ffv0P     xRlIjOqru4P1y07uxXlRGbKWcYjDA Weighting: 20.7
+XnCOeqRNuJAbmL7maQGU3JRkFwj68qR3onqO   3Ha6Z47CsgbpcQgKvFWxscvJKuybuymsgtr5Bxl Weighting: 39.166666666666664
+n0k    er13vKc0RCeE6Fm7JYcfqB8Ine39D2PaX   CHLTcLu0PNvkMjDZn8SzeG5 Weighting: 13.571428571428571
+I1Y8jOALtbKuU    VgGGyfq9jcmFj26XArmdn8q    zisUIZVL1dn3aKUcm7mB821r Weighting: 12.0
+3TPwPnPUlfk62VrAwkZMZc4ycRHGqT7zMZ1f   I5J8jSnQyC5R5wTZsdi Weighting: 29.166666666666668
+4Lo2eFy    oLtPBIn5qUt9MTBf4iNtTN9E6bJ     Mz     uTlXePQznCPzEMLM4yqKC9wwaV6fkh7ntgCeqBwcb3Cb3mPNcz Weighting: 9.678571428571429
+yzxH2KxOtbvxaD3     DzjUsoecnhzr24ssoACHT    r8Zl2H83bzKSTNTR4lC6XDQMDhUNzlPbduEnM38SGXrzjggMuxXfBKI Weighting: 15.833333333333334
+Wm4mIpAx8secFn    kd9FocyMWtzoibsY   lo    Ud     kc   a1wlOStlDsHaqFX9bVQxXgnnOMEKk8uyCfaVKkvM3O Weighting: 6.342105263157895
+NOovG0FRoELGynPAXf85nBZRrq9L4kw6mlht   8JErFkjPMZ2L04BwyHhnbgETHU8 Weighting: 33.333333333333336
+sdORt     NSHVtgn9hrIvY9BT5qUiveWlynEQggW    6cICel8QPzEPktc7nSXKDqRyouAefPY7T6sDywY Weighting: 12.944444444444445
+cEz9   MYSU4tk8SdrCOdfJ30Ivp   jTWu7ZfQ9uH   VN60zp0PlnHuxevVDCkNKJ9u0xz9BudQqihd1qNakH1yxmBb3KpPUdz Weighting: 16.055555555555557
+Tl2cV4gWfV     ayqi    ZmYhjgwsuDczXqx5gMKY9i     CJ3X4UFI4K64jNF20dqUhDhYBczKAm6Bi Weighting: 7.821428571428571
+0RFnd6Xqmi9iF     lxlXJWXs0   T     WozswXeWaJxHH    u6HZ5nw70IOea7JtKLxBYP84pUk2DQUNYLD Weighting: 6.617647058823529
+TWawuLtxCfb1LkytZfCWU8UrY2ZdYJKzqVjy    ankwmp2Yr4ytOPJG08zO7DDg9WBF8MBtZ2HtJFZrR8fadwkXVybHGlUj9U Weighting: 36.875
+HvVcmLjnsDIXHcr3HyJcDyo5f1BZkRY7wLts   WvVs4TfBNQ1Ypdn4lihrEYlmDU4IM0QV44KlY Weighting: 38.333333333333336
+k5EyB6ADq    XAZ3Gpf4IdkU2j2UyBWBEyhkux6    B1iKqkI8QtpvD8unyqxcbjgRvo0siE1aYTW33dWnnN6txlclcz Weighting: 17.0625
+ITiZqi1fo0WSNV     YOhk2hlSr4dm2VNhfVeB4q    NLtqsTyZyM8F9zOlMdyTiCAF Weighting: 10.444444444444445
+8vtFOfQPjIP23r7   Rn4sJRBI   4GrOZ8VxDmMhj   HEACD5pzru66IhzTw7i0wAfQh5ekvmY843qUR Weighting: 13.055555555555555
+cyht0RhYgOXiXP9WNpKWdc3ngVliLo7QBjtm    kwZlLGS6weSaiZWaGmVUTZW80Dyhgom7Y6QI6YmGJD79E4ffS63Gu Weighting: 35.25
+evW9baCAoCJjGdJCllUHzLiAeAHsNIidxx4Z     fenDk3hynlJHO6C0WlanngQGvAY23E5eJV5HU32 Weighting: 23.6
+HOxwEgFux5pnkLF0pRz2BvNb2m26ktLB   AIq     p   xp0orJshkpVmP0eAoM35DCJzYn1OkXJtKPKNZoHmY Weighting: 11.0
+HnIRMqolfSsqC4XLxmZzZw4rkfVg6DdAOGIJ   JUm0s66t0htpTKetmKphRBfse0uJJuE8x Weighting: 36.0
+TTVBTKDVvLk    rjOoY3Deq2S3u9gYIVjhXuveH    x6dXnT0GyT1Ugvxn3Rkw5ZzvSvetyGlATo3SPwJUF0BkF40iLOZcitpd Weighting: 18.0625
+Cx0fZR    94X2NX9ztMy30IAwP5zrE56amITJjT    CxuxkvAqZo1xJkAJxu20YcaL1D Weighting: 12.5
+nigef1K2D    lr9CA0hWy57Tc5AB19   emjxw8vGd    1bsMCTyWIJI7wTBzLQ Weighting: 7.909090909090909
+L61KXn3CINWH9Qy     Z8Cv7OhhVeSvx34sx   NXHS    ody55fq97ft1spXUHjQwUfyqoxqpKO0c0idFT1p1wARS1JVHaC9Z Weighting: 11.791666666666666
+Ks4xBOG6QTO5N4L8DUtE8jNtQGe47L7O6NON     wkuYC9dauMvyMEhBrc6ZoiDDRw3JvjuFbSDlmWvostxtNnBSV Weighting: 26.8
+vPoogOsQXPuWDOXlkTMiTAxyatkZcjViiLcJ     HhJ2I6Ftjh3ViOzIXxuAW Weighting: 17.4
+3tQqpl7zTZVmf     aqMHq8C    wD0QXBJcE06tq6nX     oQ0oxAAAFCZq6nqVKjVhfJs Weighting: 100
+ru8okoZP1GmvsPDFV3hBEXqdGTGGjKrjHtN   I   si3LToLTDBrxCrra Weighting: 13.333333333333334
+dSVxIBAsKbHaLC2FR9     G7HgiW0H8yD3P4QPHK     w2NoxVXm3vU9v7tXtReWTnjkby Weighting: 9.85
+keChq9WSYkVj2CqXTSkhE57H21QdYlH5cDRy     4w3ZRHmUai6xa1ncgrnpRxmU Weighting: 19.1
+A78ufyo    aMQcP7Wi1qzhwkQBiPhF   FFDF1udD9    iicfq50zQbWq1yvQnWSFT0eiW7 Weighting: 8.954545454545455
+2EGRrHnRCUi5Czyaqz    qvE4sc0bKZMG   x4s73M    phE2tyqfHsIn0LIGIkJITut9Q3tWfKUeEBZJtWNh Weighting: 10.863636363636363
+euGM9eAZ67UwtdZMImXJMdfCx2lw4QmiEDZm    kyWfaI8kQTBC5bP6d2oY6Mm6 Weighting: 23.875
+FJGZTW9pb8fWbK3   SbypQae1Oa8kNQrVmCZs0   PcmtUxtp4WDHN0nBJhBVIeDwZ0yoz8ImaL1GuvnTEzOeGxR3pV6DfHa7jX Weighting: 24.666666666666668
+Y2VsWvmgXcKV40waC08BdfRLdnjcN    X     aGd    VyD    af5MIO59si5V17txR0l8x7YMP4UBDOUqFnxLE Weighting: 6.882352941176471
+XCMQvTF    0uGlvcA     zCM10z6jRkexDpsFa5CmWN    RRYsb5U0n3wyAlhmwji1hBJt7WKTo89Y1Rez7ElRwGiaQbM Weighting: 10.115384615384615
+0gyxmcsDwUWHT2S500LqZNpRDZijB2edxZ3V   w79k021BjjlqSTPOAXhWWJmIiM1FNSmSnPNA6n31ILy9IS Weighting: 43.833333333333336
+FFEsr3uU6vMvsX2hrl18oXU0Xuh1qpoASwe7   BQAktvn5IH8xneYyXMkexBaQ0Y0GVvcN5QTmCbOPmOv1navtVYZ Weighting: 45.833333333333336
+kuAdFBVU3eDqAifq0k8G3zPZMM1ZOYW9DwOm    oy2jNetKJiL9jdwaX3aa Weighting: 100
+Y5gHOhlufxrsThmPb1oEFKNQMGdqHeK0FrZ1   sHuvsMmdyJH16uJJZLu9EVFk7IJVxSNKg1yYUuUZY10WTN26AQpptSBWVsJ Weighting: 49.666666666666664
+ic4onfkZyRCRpx     El6Cbs2RA4PJpgn2yeWLgD   SCHsDRdn7mYWxvXbWQTqqz3uauPBdbyNsVnUdIC813m Weighting: 15.4375
+CyLOIC27i3Z4YB04sBpBAVuizYk1hssyEizf     RsTP2VO7aID3vinZcFLwUpUDTWNK14ml05mt9AmuiYGGBxrEV0x5qMDJaGC Weighting: 30.2
+3QgNlt61lVeUtmstUKz89ZKOghoJkcHxz2sX     mEw7QNvVTO9Gk7IBIOne7 Weighting: 18.1
+1fb7DGpin9zYkP7jwOzaEK    zn8NP2t8B74    Bbd    R4yXtRt32dv9LeAwMKkotSbIVAaFAUiuXfAzZ1l1vSF0KBfTHXeW Weighting: 100
+9Adv2x0dliO8F2ZI2qVNdHX1qc    bXYnPxeYGN     3xUyjq65ywFO1u6xRgGyi6xp7HA5Mo Weighting: 11.833333333333334
+XfwBUaACXClQxnWFHKutEVt7suxe4qXYfCMg    WOq0nY7xC1v2L4lbnBPd84W Weighting: 100
+0vK1lS1j18Nv6dvJvYxVISwj4    htwW0p1RPX9   45CgGY1yRoC2BNV01IB Weighting: 12.928571428571429
+sW59sKFGkY67NN    FJt1i8t4twUfwPoNW4d8    hm   wd2JaV5KGGo3anGeNi Weighting: 7.909090909090909
+OfP4eZ     7hgZgPq8bTVQV3A2cuxnlzyuMYOVbr   VKgOLJ4wJFj4slfifnGt8YTc7Lrz0VOZPbZSdNYmsYYHInxiQRycIbDP Weighting: 17.875
+c2MY9xd4XqL6eP6ribYPrkMylrCdrxAYB    pSb     8eWCrWNeFbTWzYsIDDaD Weighting: 9.666666666666666
+vrBf712IRkFiVKBhFaddsfCxNx4KDdZqUSkH    8tAxDBjnT3sG5wpHzZdpUZdtUcVixmWQX Weighting: 26.75
+RRjv279uJ9XlZu3CZ     Is    iolOXRPrRLfJFbt9t    si45tPCpChINLqeoXgjBccmfgYXaijRqmyn Weighting: 8.5
+COaGNwGo1I5YEneQl75K7zoz    axKRqHcQZU5D   s9CchrNzmNgRhLL Weighting: 11.428571428571429
+BilNzpTZUQ5NY     9M5aTIOp8V0JGCZbiYlCYbl    OxnXVmzsLPxZceFvps5 Weighting: 9.5
+SaQMobrpEtEKJxDkH1t7UfBZEZdHGoBU0OfI     rDusYlQGMPJ4RH0xHMlx2G4h1PuuZyiiuGDkg4d5psdAk4IRbDKvZGa Weighting: 28.4
+BnHKS7TJfnAdJPXCoXcZomLqnxpC    xcIc   xrLK     UzYbljHQDR0CPSLBTFHyyUppDkX7e Weighting: 8.25
+R74sA8Uu1YPheOZXdgXVkW1ojJWGyp9a2mgF     xbGRwogzSmf4hOsMYpCQh5WGyui Weighting: 19.8
+53M74qqAB     cVqvKb6ZH32jbwq49Z   9PhN3gAkY    DJW8RgTTrBytz13TqCShXzhg2qIvUFiouAY6w0myKXF7EkcpQdAr Weighting: 11.75
+VhVMIhgAGuS2u9CMXuSLwzxW     xp8jhdFFaVC2     PTcuBcAmNj5arPVdulIIjBTOdlZavDOILJqjbXvSkbgH9JTHw51ipo Weighting: 13.9
+O5st4V1IGpWIBsmJx7Ae   Fzg0w4tPV    yvsJD0V     f4qObV1vFAKJ19rR3QM1llvZ4eYFFPlagZjuoU5nRrdkVpqONsFH Weighting: 11.625
+245HHlaxuernlykba4awuqJcY789dkZzmie7   RNjeCgo2LmR3ntRYRrc1fg81ycJOeCbzrWKMyQG Weighting: 39.666666666666664
+oMLb6CG0bOHuoxK6WyPIAyiJoaL5D65gKmi0    uaYX1xpotCwvkl81f0drqMfswu0UwmHYm09TiXCKYo Weighting: 31.0
+PJvUDh6ktWIHVFS2UdCrYcgpdRYMkf0pAlZi     u2UPJcuBvkXZwTNDW40vNtXHujNoLDX7c5SqF7V964z Weighting: 24.9
+ElnaF0aURfVj8mem4g1xRRtXoCudDsO    SxBeS   RUUgX1HPvxA7PzHDFRrgXiQr Weighting: 13.285714285714286
+q6BDDBsuE29DsYYMVDjZOtnGTq9ErRdlbqvq     RCpDRP51RRjFfGq24WbmsjHh9ipfLFp6Lq8yjGyrwwkj Weighting: 25.1
+pEH2QIB7JJehQGgr6Vkh0Lsd7UGO2CKED66A     DkL2Q2aQKlZA8GDKyxs Weighting: 17.6
+gPdxWaygDbnqH98r9iYBhrfdrSMcSSH7lwm   c   Jrx7C2ikZQ0XwnJRzFa6gCbbxtiC6ATkvaT3DiW0sxD7eMfEfvNLNycHqX Weighting: 24.5
+IEhFUqOdT1rhAgrOUWKWcUUXasDYlGrsEkm1     QaCTygbn4CtmJCGvOD94HcznsSJqaNCEu2NkiaJSli526gpgQfgyHXVQa Weighting: 28.8
+ZVh07vBSTruPuekze6i1q6B6coHK     Xl1tp0so    Mitk1AswkES4gFACqoy Weighting: 9.722222222222221
+5cs4lx6C6En0rL47D4fMLlNl53mcn4xp4GI1     nBO072y21UlUeHdebttQinNuKJ2hc8XYT9AMuU2PuRJrAHCAg1lfH1x03 Weighting: 30.5
+5M9ZjR   LZwL9s27ffNijAAoS6oZAk2s3dO     t     E0   dOnLw6t9NukSx7vKycN142tiuw5Fn Weighting: 100
+CfDXEXPBpaXLZ1zOP0zHaLosYJabclPYcF6J     fnH0UZ3UYty4SqPb0LBlXghwFOlv3Bsl1mh8ZRJpiHcxPAYFGZkGHdFtyGt Weighting: 29.5
+maciMtesxeF0p96Wxg    pqU5tMvictAdRH9ExD     xllMJLI0xdsu7mw2JSjfQD6dMAGUq1tVb2lgOzO Weighting: 13.11111111111111
+UME32LVQ9arGF6HvgfUiQL2Adc4mwMWNv9L    z     7pMOh4tJRU3pqhyuz2VgewVW1JTZpjhYxMYYb9CwV4RBCY6QV Weighting: 15.0
+IkBpU2luhWj    AFmhbEFxCbBlZUjA4dhW8CQLB    kYg5ABT86yBMyXOvR82eFnpV1Xm2Vr0XknVDgqAtKChWcfzcyetf8dha Weighting: 18.0
+WnZH6EryAxX6mcvrsSFvt0   tBsm3gTNu2b9sV     JrQIjjV1R0IWMDKNpKtoOdtbY4tmG66Y5Ge3YAAFBjod Weighting: 100
+r5sUlwN6EF     Xf7C   eOQDdKDetS4WqTnOrPGLn9     roe2XbBZ1waFcAG6CSh56pWR035lxc8qdTkcvweKDpedwu Weighting: 10.0
+XDS    ozj     x12rlcOvDfv8USKhwRBZltxT1nHPxt   FlaUZop7FWSnF3AcVRHjGmvr4hdFFfCWe8f7qv Weighting: 9.625
+DcWSxDNckJu2knAamcwWceh    RRyDvdRnMq4m    9     m1FtOL6FOeHESKIGqCMchfi9XvU1KYzG Weighting: 100
+kTXK2o   VuG6Up   WqRgxtIx0Ig24lTLg2Iw46D8    uWd1qwpNf0YHSdVuS8Axh7HoP3dztUoUahFOgHTvm Weighting: 12.25
+JsZtF   kex70zeVHMPA   rniZcx3oHWh1PhtrM01    ZMGDxjTFWfLXCpz4paZAyr4HfUY6DIdlyyAdJ88k5 Weighting: 12.15
+N0z1y3zfSDJr2phCAudE     ihqFPmGpGca8dfkq     9TipdsVuLjjSvVF4ZuhjQ3Bo1ctA1poGeuqO5FCbqK4huZE5SrUJCJ Weighting: 14.15
+oM9tii0OD6PG1ndTJgvxY35iZ0UsEp    GZEu5G    blW7QwKA9FFB41fp6hBK Weighting: 11.3125
+cqvb8ZP6ZtgDi33Bhy    scl5mSW8TN3fEsW7tM    W8GgxDVMMSZTG2l9Bs1PqkvwBWgV0EmGwxyh5ZUF9AXUdt4 Weighting: 16.5625
+GonsSAFXj4up2BBt82tJV6uSAqvkereG2QND     D2LDQV0RUp8e1Ub4jLdVDorQjKL5mACb Weighting: 21.6
+OnUPIVq6GLF9GTqbdpGlmIOUz     M1rs9dL7Eh9   6RPbhWfyIvLhRn7TGIGLBD2jc2jwqgCWIPMtDdckVrEWE3a9Abx7 Weighting: 17.3125
+fAIgvhwGahB6rL1Ze576LufKTQt8nyIH2Ok7     xUS1hjKlRzDTFmARJvy4MeDRXgsSXuaTly0nQGv6WeLiBkxGq1ha6 Weighting: 28.1
+kPTO3ZBiGL3ngdQM9YUVJcp4g1UB   j    ggX96iN   lfA0aC2P87MgttcJdT1YhK3JIaq6oAuTGhxQeJeumMQP Weighting: 12.7
+8cb    LkArEbC4   vGNhdCasyvIlNAkU6c8XARFtW     UkTbrSQa3y04L0JiQ6UB6sflYfSn6O9JiOTTLj15wLSmSYQcNc4C Weighting: 11.625
+u4Mkp5vpFxIQtrkkxFya1iPE    Jjb5subueOew   NJGsaIQfoLmkeIPuOzxi8HoMgXHq9RbckLfUnsE8l1RqoaXlexMvmiArM Weighting: 20.5
+9NAu0MWS   hMk7H5g6gc9wQ880ac0pgvsuEr    xH    zO64C0T4fMCc4vsxg4iQGYW7 Weighting: 8.954545454545455
+YdmvXBLeU2H2Lt9hIuoVSSYiYKEJapsmguG7    aiAKcaTT4kZcMr1HBhKvBHG4k5TqWkPuSnFM3bKJRHkxZLiGMVt8BOg5zI04 Weighting: 37.625
+cA5RSV95ihYB0iH6Rxxmgy1LoL    d0ICTgJhGc     ZRwiUIfceB8HHidxCBhQHb2VczbAH4iJNBJkwZwR23fVXJf3 Weighting: 14.722222222222221
+NfFnPyRfQxMCmb25DOd4hFO8wQsSrzgNC3mE   rsx9LaGr1gPKQHMP1wjfTptt Weighting: 31.333333333333332
+hQzGvhX   89I8dy4Qk2yKSqA2BOVos3VtS6A3I    a55F2wypNiDTxsFH1ZsZeWFPbVzDdXfI7bHXQFQ Weighting: 17.071428571428573
+pjYLkReFuddlIaRV6RoODIkk0wstpes0PPH4   YNekN21IL32vBIaUCjLJwfmlP Weighting: 31.833333333333332
+VIl3rn453GwIWW9d0og906TXCia8ekhGk    80D   n9lKKy2NxGbhSrzI2gezg8ND0ic9omb8EC6fC7UojFs35IwoyOsPHyosh Weighting: 21.571428571428573
+wkAQYXVjRPDUi2   vDUtW1GOL42F    5IkKwqIlje   M31oieUouBWaWgQwAtai9Y5d1HoDvxh Weighting: 10.55
+ZlDWhvLMlexFBxPMvMVRkPVYTRXbZ   VmF9aQ1   sTLYr3jioiyuXiCJDrOeHdXfUG4Nor8vAxH176 Weighting: 19.166666666666668
+b0T2RRMTXYxijDGeLtVSepR42Rsp3ZSIoyCi     jOMIpC0yQ6gFdRtHu2OOhNyhK4 Weighting: 19.5
+1rvNfboqnXhQBsjvzhNb9Z1ol0hg0FHuq7fm     WAFig3ruMQxtdzE6JjDopwUUIfgq0a Weighting: 20.7
+9fAjGLyjU2g7TXI7t7OUL4UfIDNHhTcU   7DTU     YKG5HHRdermOcw0QWLzBN4ZJKCqefPaZ8dYO9kTPicMaeSfasiZFwpJj Weighting: 18.0
+i5K96Vg66wY9eIL0wBtne     U0zD6QjLtPezyaj     Bpn1mVO2o8J6QgTmJ5xqDK0mT0QapAKcb2Jf Weighting: 11.65
+NKtrMuzre0MHBFRHywkn4T7    BL6o5v7TuPND8     W52439eyDZDGTiuh4K1d4X9M7ofI4KCV3WSMa3IGtmj8M1Vn0pxetXy Weighting: 16.444444444444443
+GXXsfJpH     x2hv0ymuPfwS3JtA06YrIUBsDIC6    cj2v4NesaDDFClFQiiosml1Ns8e2v1TBoQhJ78wwwDwZCiaG8a3dIYh Weighting: 16.055555555555557
+gJw9EwVq    CQvydJuXrIJ2   q1UoapQpVRAfrMfA     e26u5pkkerp72Pk0TCBQGB2MHMqDQ6UDmyOMll4xTabinIt Weighting: 10.875
+T1U9y    5bPXPYJjfWfX4kyDYiWDYnkjfkxa74F    2yqKZQaKDbxJxGEJK4hMPMitueFSulZEeaFFzrOhoRzy Weighting: 15.5
+xMHa2wi9Wz7wgZpG2BBY6wzlVgWT     NnA6fvnL     TRcMdx8TF3jhKT2NxrWH3gR2GBrs32NRV2MG3HyfVSaHBvYJ9lJBr7 Weighting: 14.35
+MgbPOoVgnJV22Vjr5suJfjCyjE8mm6tpNApI     DYQByir0c3Wl0ZiitdK4mYxhsFR8MIJSDBtTibgXzCuy Weighting: 25.0
+kc0TJWDhmoVDyBO0Obb3slIoTszP9c90jGC6     wSVg6DbHdrtGba7KA92rr1b33XN7M2eJORWyRARn4eT8uK0TmczEwx9V2X Weighting: 30.3
+1gDlUpFkw2YmyJjwMvvvC1VCjYI    Re55S51Dx     h1AKqFg7t4tJdDwxSZZNB2zHanseoiAYF80Ng8YPikKgqk7fG32NiEW Weighting: 16.11111111111111
+oBAjuovkda     xHGrmWfcRSXP    oOo1buZR5b8LN0    KKcav7CvXEOqWDPStdGyRO0ys9LVBeahk42vjvRSTTjawaLcjbw Weighting: 10.384615384615385
+CPvZ1Y   EpD3UuWowfIKbMOgznhm   yvcE216     1Ne     kYX6hdYhkeomofAmmK1 Weighting: 5.40625
+AYCYujRIcFQrMjmWXqx1X9Z9ddpctPiKYRu2   01dICjqZjHW0zo2AkRpCyxy2a5j1e2v Weighting: 35.5
+N2PTDZESECheQfZR3WYPx4Du    wktkEYWxa     kn2   aDA0UaabOGuGVsTJrZ3b8NVHze6fULHhTJ8gKQdMhT6 Weighting: 100
+tywbf   g8iYm7IDESmcv32NToXf   BtGqJSOBQUh   C4AFo8HRnjj4EU9kLmKNKC79PHX85W9a Weighting: 12.055555555555555
+duSPXr   ijUGS2YoAwQvR59BrE78czALYrPt74    zbEdCH3jeOnCPIiYxgsYkhu2jcI6sSpedQ3BXGPbDhXfMX Weighting: 18.357142857142858
+Qfq0o8j    0   Ew1G40NcA0Mbc5rk0xALytD9Xvi3     QyTs1T8wIdvUIsRF15rvezdXxF15ZL5Sz4wx34IR Weighting: 10.375
+dQGCCkIRqt0Ac892iDUFTWZn70Mpa6jnEFNi   1cTrXW7wWvKJG1qOznhLHT2tObXHyeKZxvuRNJxHy1QipLyxfI3oEqwQv4rM9 Weighting: 51.0
+XpFpFik0    1SiLDInYsYZWJZ8lIBEsd77uR0Cn   WwtqwhWkIqdFCf3g Weighting: 11.642857142857142
+EAw5i    zvI1IGHvv3Pmrisszevcq     RRKGht   ucr5    aqkvxZ4cg1LquvwFmD4nUwP0Qfe3nz5oPENLCCSpxA Weighting: 7.625
+jopFZzZyafwxWRcrr6kkyHX85NPiFU8F5jQx     ulKIxhKpe3vYWJXJ6yIXCzNkwZa Weighting: 19.6
+3883BDzvm6PL06qwQG3vFDMN2MQYKCm3KK   vB    n4KKQCjt2f2smwxx Weighting: 12.071428571428571
+NYhm50RWGNZ82Fqi2NF8M80zJ46klNTGIt8D   GPr0OVKlRYj4zKGZxnyI5FI Weighting: 31.833333333333332
+mZVkY6928OXVur9uXfu7r7M   UXYCQybdHUNVR   uGYYSIYh5IXjwV9eRXG Weighting: 14.5
+OqCFh7    QtHsrE   OoeN2CjTz6mjUq50z8khhMtf   GCcocwjqBquunNlbsrygUUvV5nJ6aMLWNE82Ii5fsYQHGaJbd6fgrx Weighting: 14.1
+ImTzXdV4pHdPHv9Emh9BH9m4rzDxhnDREJ     Ax   zquIeZde2vtXrCiSW10Zei2INYKzFGlTW7XCcRtYkt0orcLPDUO2Z Weighting: 17.4375
+zh4PW1Hr     yqis9L   SeKocf07fFDx0RH56dPe0k   aUVr2bgvk2gqbG4LAgR Weighting: 8.045454545454545
+TLJF5o8NsqMaRiTU291    PN7UaXmboSZd0JiQO     cCfdYpN8LQf967aBL2vdAsQMuEcQ Weighting: 11.333333333333334
+GjqzbisQ0SzXjmzIFYglD0k7LZByN7Pr     1FYE    dHlcCzJsgFCn4LpJNLgS64V37eb7P Weighting: 11.444444444444445
+J7S64NJmNs5wLpD6aELOHeVzItaTg3xm6Gca   208qevyeLjgq5twDUMs2KY7HpZ3T6JMpzUGwYYBrB Weighting: 41.0
+jaw6    8vBSyMjDSzP8Xl1TiYEYFWD6AhQEQUTq    K6nUWMl8pAE0DCiMLQ9q2Jtx8l9B0ONNgCDfOXGnkdaiefHoPYSq Weighting: 17.3125
+mwibsSfEU1HTTcmswWaQMXG3rBwSGXqqgE    7G     RVIKoY0AhogX6mPu Weighting: 8.944444444444445
+yiWOI    afSkV6jUw3sSQg     VFo4zryu8hL1SNTlY    EghvQRklNsMiJS5X3uhOOLYJUoh4WnelCKN0yTL Weighting: 9.0
+mkzuk7htPB     JrMm     rMfzYStjyzj7vI7T    Q88IFr    hrDlke70MjqSQU0eTGi Weighting: 4.805555555555555
+DrQP92dbHVqkjgLgsc    uNbl9oEh6dySu5YdCb     ybmxQ9phvM7UEEKUWhWjjXd8GAgyPJkIqzrO5F5aZpzdW1BSNlKKEwn Weighting: 15.777777777777779
+0qpXfJZK9Qjs2VBvIsd9WE2    yLoQPHNRyF0lG    6PQoFnil5dRy62Vs5wbemCiZcaF8EBv4R9bUsTaArKlbz Weighting: 100
+ycX0u5uYvpOuEd    ehLYdunkiDeuJE6Az8eSZw    teyG5otkB5xPaRLyEbqn Weighting: 10.875
+JwtKyWGHlrZm43D1pYF3CPiwFfZ   aYs0f7zpt     IU6EnOQgWmuAus Weighting: 9.8125
+m34jJrvX0zEygpxI79rHRLqqF2H0    GGxcDkRB     gKL5EwXsEOohqgmDyhApJ Weighting: 9.944444444444445
+ffkMAdFvthwgG5d   PpX8jiRuF3phTOc046WQq   usfohY1YjEWtHHrc16n9NKsGQ9TcTTgJoI6GjKm1fvVnvvvWjq Weighting: 22.583333333333332
+noRb3YUTsro7KMhznutmPB6yr   9JZFUwmdbYe    SiKA9rbW06zVe9GRJLr0UmsLCDLHXXVeVTAKFm7c1zG5fHGGxZ0iMwIo Weighting: 20.642857142857142
+isiXuYYrG5RIAaT8LocN1iCNcuT9MCYWV7A8    ugEBm2yAsdzO4zAhxIcMk2tU8cMq5yod2DsJUMvyvMOn71AFYHj6qRToN8my Weighting: 100
+8W1D27i4RFnFTabAf1a0   8FblA0sbw4KQUXfJ     I69xYFvB2Q8ROwjBm Weighting: 10.8125
+5I0laJDxAUnQeAtni7i9Fhv5hCLAUzbjnDP1   SFg6SfKKfPHqq4TLtO7q4 Weighting: 30.166666666666668
+kZMoZadmTwjuegdE   R     BSuyImsgCpYwVpajfVi   HV2aWZ3DZBBlXCfB8EW0YA8tCLERDnB2E53LdHrteWt2l29DNBkw5 Weighting: 12.681818181818182
+3yQrW9QhWAPCZIAD    b    2PoHoM8xE5VP6oM   wxAZ     82r4TXWRp4gf80Hsj0UVirQml0NFkaVb8fKUth44w35SM4V7 Weighting: 8.53125
+jjv6KIZDCOSAF31yGNQkXsRUfWyOicFgAfv5    qfrNhHMz8CBztVS6FB4fBZMANdFdiTdIKE8UOGtaDY0yY6fSF Weighting: 33.125
+ihR6sbX0JEacKWlLjBLSjqL     6EtCMAR9    INbY7    hlTiG8j4CRdMlQxYd Weighting: 6.384615384615385
+qZpFNbf9AeZak32mKFxguOaA5mbxd8pOAFLy    7YBkSh6sa4eFo4LEF29q8ootKQHpt3ifoGPRtncsQZ Weighting: 100
+0fp9x1reZNagoHw2i1Tg7T9D0jIuTJhFKoXD     3fAWWu8ztO6zyGeimpAQxznG07WGusQRg5d Weighting: 22.7
+lqJBk   4pKytThbxXr7fxqZ5BElAClzA1FjEkX    t9TCqiuwzApzj6EZxS8WD4tOjPEMuIUk7 Weighting: 15.428571428571429
+UIUJfFnBVqPLVPTBlzX6cVcCj3T94x90wYW1     HJgu4d7VlrlKnmwVsMFwiqTi6Y1WbBtUjn2YT Weighting: 23.1
+lml9   kydDW4DeANu4xnp4HKZx22iAaazlS8G7     nHQT6hcIDmiS9JA27jpfD4bNKmMMAvMHyYtzmH Weighting: 100
+yRVP8Ud30lniCOsJ    D   eIh03frNhXGmPlIt    qQC    IoeizQQBHliPi3HHhzG3mk Weighting: 6.033333333333333
+ZJIcQ6VdzI2lpvNBRqGsj7I   0a4TzSfbc5ywe    pV92JKymSIamx3u6xdiyw9TmnwptSsUdxmfx6lm Weighting: 16.928571428571427
+1vAkkfddSJOFdDkVlG9x1Pgz57bqIYqqbPbb     uvKrrTGe4tL05rrh7LTQP1PjqRGBKA8JaE6cj00HTwzxqsTVkgxEnGkWbWi Weighting: 29.9
+LJzYWe    2   8LRU4iTeEIZn1yKFr7ZnXJZUKkdUZ   HuRNMqXyJxqKFfQYF0rOX1jeBnwb50pahGBIQln9E Weighting: 12.05
+xqyCrADi62FDLJp0PtjBNC4FPnChbkSsahFJ     0BJiuMgqizWMxvuKfjGYFYYWqtVL6qzvfKAwrzo2sqZqrYVR6P3tX4dtIL4 Weighting: 29.6
+XlzTbNFa7     qE4KrL    bNkO3zcIA6RKupfeosQAS     pkGznnsNKDSaFy6vM0JxwcHkSHQPVyfwXWV5tVereUB5amg3iq Weighting: 9.535714285714286
+oq8eUUZvEdpH7u7ICpn6SQgjwWsZl6AtW08F   pnpC2xPTlLnMxFb21uhUtEqhb2wIbHQNMoIKkdy136G7hYETxja4cP8ceSSv Weighting: 50.833333333333336
+PzyFEFxI7     uUw7LYPTjubyEz     w889FQsrt   AbUy     QjcstxeshtcpGFSIY2AI6NANCjYnlyLH7BOSssrLL9UmdJ Weighting: 7.083333333333333
+zqKN2Hxf7NusZshl1ZC1w6rMWHNQb5NnAnhW     64DPf3Rssbw0vc0pezl1g71rAA29MVhdGLHD6LtoiuLfWLnrtOtDQHLgezU Weighting: 100
+qW89tValbva2VHY1q1CB8mmcnRrhEapX0hRU    GW3yTsJKoEsBCtg4hgc0DM4s2ZMgEvbWht4HubnVt970oKG8qoe1PI2WRisl Weighting: 38.375
+cMWriYRSzIMaHyH0OUeJB60rIQlW   iJ7G9zsa     4g8DVtgMyJ3Bvsv2GCJNX7em8HHTkRN6Exbs8H5jBHnRX6INz0 Weighting: 17.125
+AkVHVQOQdxPKczwyfm076GqYBXoc4jeqRExL     6EOj8t5DD9WjZgFL6pHNjj9FQjgnkMw9KFEHpaVsK4F7eQH14UjcYF0HXRw Weighting: 30.1
+PrhKkQWxvxjttDgLaFGHsG8Y3VzaA1dLmea3   cjsFWMckQ2pSJC4euRQumbipcf9RjiJvMVxX Weighting: 100
+bqCEPTiRKsqlBrpWy3pJIxHpLxWg4gF9Lrmo   MosY2id82S1ceL1t0EzhGoMNK0XboI4tvLP Weighting: 37.333333333333336
+yvzb2QHfqB6V   2V9Vr   unblrcBZyFxsKLWQ56V    ilhlMwHZhQnVD9bwtEsXaAOgJtKdf4hrNdzrkDaB2GobjKXG8ouu Weighting: 100
+K1iBMX1ah    fmQUaEsEkTg9lev5hSr8ZRKJ58O    XiNdR60xLPZse402IHnm8iR1ZPzXnvMT7QhCcDLvHgO Weighting: 15.75
+cNqJ431MgPJX2ULcOMSFs7M1Wn    lfch1FrpRV   aUQong8NhdFkpeM4HUJQv5rCpxNVLo15 Weighting: 15.428571428571429
+5ik5EUZloWGR    OWtvV1989zSeRsOyjtyN6hCy   9vNQpcyB6PTwH95 Weighting: 11.714285714285714
+TYYanNR     wNq9NbOW   JH3A4T   u     Z8K6G2T1ydZHnC    w530EPcI5B2rmpz58pgxTNEOgHC18Rc11hnrqGj0Mqni Weighting: 6.475
+vtQasnLI7uaNDJPg     aYVvXoEHcX    PCt33BYNID   ahkYbgEBtINwvNbEjykW Weighting: 7.125
+xqXaDLN6gWhzKce0G9JjUIaHsa1Qn39YFEwX    DOuRO8eiV5GyPpA9tyVOghUORrvjZU Weighting: 25.875
+s42KlFd1Hz    60lWd5Pih86XNnYqp    9w2ClPaLP    UlmNVRH10oNk3yYIAr3HdTY4V Weighting: 8.25
+bLCybm2Mjrc3Llj4VAczidB1SJVKfcSLYcor     Az83nBvcRWJybexApZgLfUQoReqpL0aXepsPOTgHagPdXzCAEIy3lb8YhL5 Weighting: 29.5
+k9BeeJY0xc48OSGeObMmK3LBgKoRjcitO     K1f     G12DjwDuBwKZmDgnOJP Weighting: 8.65
+lWXyROW0FybGnfUiwNOGr     dLIzBJYA82cBGfX     lf6cWkoEdtpI3MN1F0Dijov4f5z Weighting: 9.9
+zszNJI2qLN3GIMMF7Nmoh5lKzweIHBsDm   I9o    CxHtwvAaqzcRuOYp4gY5 Weighting: 100
+wg3EcWy5HghoIa489VzzTZ4pxI8syzHpudvU    rzNlEVuLhSA9yTEAiDDHzyE7YVgkwjaXlkfMV3TRthI5GvbDGM1Xbt6 Weighting: 35.75
+F6xoU8vdk23iyVMyc3WjkcRsW4CY7yn3BHbt     LyJrPl86AxTZd2yI8IKB5L9Vp Weighting: 19.7
+csS46EYfuqZFWx4tJcrqz3ezIosedIm   E2mZM    SWNhP9NxyPVzQrXnk8f1 Weighting: 12.571428571428571
+Ny7XQT99dGVu6V25F5hPHCGSQ3z8B     fgeLNG4     KsggvantdmUTJZfHjxuqfSIswPUGv Weighting: 10.25
+rWJjikhzNkriPKqmZ7A4XCMG9n0Z2UYzHHGc    jQLuNgsq1eHXtJgDbW5wo Weighting: 22.25
+1zVKkCLjQG3LChfKnt4JuR79xV1BKQ2cvyT9    g369WWTMS3fwErgmLcUFXD7zBjoZvg8kJiNyDb2pNlFa8f3oi9dei Weighting: 35.625
+j60J6l2doQdCnF   VgaJHpwZuHJXomVFI24xR   s    91fcQL9BIoClpDG Weighting: 8.1
+ICL25pTVlk1c8Q0TSN2wHZHPlafPAXGy0oeQ    0lB9c7timZRmpKxXUB1dEnZwsjj6UDKpgphVP08ItTRX Weighting: 31.75
+lubjVCUx     DkxelsUKaIx4VZ7kAU26hNfigxs    f   7TtNZPOrIIcn5LynJQ5zAMy69RKP300yXNEeEh1IyFKOvvmITG1y Weighting: 11.583333333333334
+htIMfgsILnmj9yW6plG1A0hjbG91GV4wXh0k     h86YjOto9dRMFXWvs6uhwik9mvOIkgKLWGuWPAkRmjSR6FSkqmOE2CQhod4 Weighting: 30.1
+X4YbN   ShvUyTCiXH5JWW5wsaGtkluumAFuee9   FB7hXrkAIGEnkCPCiUVL1G8Jh2M08 Weighting: 17.083333333333332
+MVCaDu75WIegp87V3xMJmvcuXfhC7UgJHQzs   o9OFU4kp4h86f6ZjgQTPQ69QUoJ8P Weighting: 35.0
+OSdh1RPnClIUxqMJI2JuZ0hDPmO8RdCwt    F3     e     kmTOOtr37hYWsrLhpBkTfU3xWHQnOTQUj0gbe1cKvccU9YdBH Weighting: 9.5
+zK7slZ   6Sr   VtZ3VjiWIprRr4z   1xqhhl2d   X5Ix     x0zk1h3QMVFThEcVx9YHp3z4SFSCegTvOx6 Weighting: 6.676470588235294
+GKr3     6   UYkY7WiVZFyRTLWRv9CAHbfabmNayP   2     AHqpGn60redl5DdL2cibRjWlM4rUJVREYDQQXexp Weighting: 7.4375
+LLT6QoDUo162sX    c    sbYHgwZrXHn9s3o0StA2f    S48t1KwJ7FkzHBj7brZ Weighting: 7.416666666666667
+g0XSm2sLtQu0343UBf2VwGDReYGUbT6FNFs7     DYsGauw9EfkCz73lryTXr Weighting: 18.3
+klTAVUjrMfLU6k2toYlhf    DgVpBUD5Zy6uGBA     9aq31XeF0m5SAlhTM6bij6RkvB9NoOazwAVSb Weighting: 12.833333333333334
+6wfSsz    eClsw6Z98Zc85vntRjaQUIqC7KREvn     iOKvM9WFCrQxn7bj6Am Weighting: 9.722222222222221
+dezjd1qCP31QWwAHukxhd5QHbSvf2GjAasIQ     hNc6KgAWtvY9syLao Weighting: 100
+kU4QQ6G9cBfuDC3f05HcesJPSucFry00cl0B    uJfLPmsXDoEo768NFUIU7Kx8cPcOdMAegbrme Weighting: 29.125
+QXQv43gLnVkWPxF4GTa    z6g62b3rBRCLCgEJb    9bQD2H4B76rPUhKel2w3GaHXin6xF3Ax9wQ Weighting: 14.375
+FN7OUXYTvJleItB4ToEW    fUe00V2Wne033jGQ     5q0zcHZLWn5v09HkNPHq11DoATZnqOZTp6YXEKYyJSS5ZkN5obC9oxZ Weighting: 16.22222222222222
+nCNx00z0iwiAsk61IULemB8BUpMdNU5e7nxi    4f09mAZ1g4ltvHuxr7pwVpem1TayDBPB5LmmqSjM Weighting: 30.5
+AI8yHpU35cFgv0fUyYwbdu2qE66wI305nFhs    VpS69OlVUPzAd25TXj6NI5gSM0V4oziI8Dj8nUncezdiIg8P Weighting: 34.125
+HgHLbBDh862vyv7009sYrxC    6XRYxZ    Htz3JgB    h3OkhcQGAIaZ5o68fWaDIR9NN1EiCHujKDvLL6OW47wwaShCi Weighting: 11.375
+icm96aLro     r1frQp   0BOmfAJVC3     cz732RGwbS9   LX6xjCS3aJUcUiVvQIrFBRpsVgp6bRVQaV4 Weighting: 7.0625
+8bvnRPoejV6cYdzMgF9ftiF5zPOufShdwaSj    Vdjv7dMIjBF2qAvJswev Weighting: 21.75
+UCm8xRJDMMH9F8Y   ZlJ    SxJ3QHhvWpL4lppxpb   Phu5KHmMbMaA9Cp2ToFRDlfjzRrDFSpkUD3sHhemCyojfAIRmEwB6l Weighting: 100
+zA8nFo631fYfc3tKtZqbC6i8m0Qqo1r4fOOU   UN4x5arvG5UaVElp7ewW6mKwFTfonAKEB6yOjrcWOgZ7InQN1A Weighting: 46.0
+47Oa1kVTnxolAk0e4OU7Oyc5gnoodHnovWiS    IDbKRYDAis9QTIW1l Weighting: 21.0
+OKfieMFFRi04FXTIaZ0KSZ16b9Eqx6mzlaOp   PqKNANk8jrj1PlZObWlktVrEkM3wpVX4VXi3LRLNA Weighting: 40.5
+dOdwv    VZ0GOZ9efUczf9B4bISQOs6A4mQYFD    3     XmBnnpn5N9aONnw1aZTT9uR49VUkU39YeiWbHQNH1q5loeg235s Weighting: 10.807692307692308
+hovfXRVNFhFKgNLueM3uqPGRrjUMpGoIti77     TmO3hgRKUcPMaLBV843j61VBwiXSBtushEiymF9c9JLY4ewhWWNkh Weighting: 27.9
+TbGPNImjigk9wVJMDNU3M8HyKd0BiSdDDrR2   S1Ds1wor2o1FiER3AgtBX4BGCx50Zl3 Weighting: 35.833333333333336
+rH3fl8EkFAqFi88V5xMzEEI2P6g2Rx30PCmw     W1HU1z8FVuurHmoT1DefTFUy4vDXrSRlPrkfuAhKTa Weighting: 24.9
+ZKnVAtm1So2lbjKjI   Ax4voeAmXb6X9ocqkEi    FCqeTmnju81Y4niMoug2wVx9qck3IKEhAjCExmBrj7RXA7Y9flxfPm4eQ Weighting: 21.0
+uYKEaH    cXHjoWMaF9E8nFrfcDMbfNPWI     P8JJk   hie3DtMCgDWXLrGXix Weighting: 6.916666666666667
+MhCDvkNTfUp0zHxltb1yuQhGS     hI9667Kmlqm     l39qfbLDosrzg0TQh0 Weighting: 8.6
+tXCMjRVCynnF9z2r    5TeCS4HCQFRZKdpJylg     F   1rbQICmdeae5vRhA Weighting: 6.75
+8C4mXoSJr463hfgj   znMQID0AiVNpAg28Ujgx   kBeqRHUgqsZY5I9EtYlWXPlZUX8fze5a8WgTLPnGzmasI2mWZjFnq Weighting: 23.416666666666668
+CWVliadkNFtqevXtfoi6NqqgX671RvKOB0Rs     mMaKNfWWNKbsdhdQ8IWlWSSSirURW8PO7pdsHG4G7Vpic Weighting: 25.3
+GYJzy2hSO8OHU     pITTGm7jB9w3YDaLxJ4HQJd     TfKPcisJ9WgkCsqgcifaoKqRH5jwEZ Weighting: 10.3
+r9SZZPJzr4IeA05MubbQbjlg   MSPiA     I9Jhnnw    dTiEmboT8z7ucRQi0q3RI3C4JbYvTodigALM4Hx5gpHPwg2Trebx Weighting: 11.583333333333334
+e25yQnWa2UhSxVOpA90ZNOJ3euOtNzKqOWi0     CZQSR7iiQJivQ8lYfy3V0RJRdEJhSrmVtG3uiJg8fmaYDvoRp7tgQ Weighting: 28.1
+PAaiQII8PXNCq1foKpIgB3fyFTTRvtZS     A1ZN     TQ6Mf7sihUSkWwmC0TIW4kJYSp3naDkuHDjbonIEBKqoVj Weighting: 100
+a4zs9RrCG1RW8qHpVksURRFev3hzv     kT8XNqq    4p8nkbO0ZxQPgUfr5m8QGvUKZlHiaVTJrraxTxtTDLgzE3WZknl8aQc Weighting: 15.88888888888889
+JMe96vLHJe    DzwoztPME1WGjB4k0oGXl6pyo2    1QcRDlrMxxSZ41Kj4ebXRk6wpUjAdH Weighting: 13.125
+dme3vTXIM68W4XSNSG1imOXKUHKdD4Q6wW   96   TBjsU7OFRUNUvZoUtTd4HdtQwiqq3FTO07jpfGwKSZIbb2NAz Weighting: 22.5
+fNefIQSJ   zBl088aEAYfu9O     PYHD01GOYFGIj5    p5XUP0Yc3M3E0BFZaCwm5Lrp1NE6eH1LSTrOO Weighting: 9.791666666666666
+EPpNFBM   VHiHgdDdxSV1H8lzrwVvnTBHzl9rl   3z7WxzVTCiXEhNGGAdl Weighting: 14.166666666666666
+rI1jN84dvYxASgPydz3vHCKRljipKr    RGDLHq   pBy182iETvhck5sGzzBdUqN31XNWAZAWVodgnQtXdpR Weighting: 17.642857142857142
+4pWWW    t5dZK9Nx1rC4vr9     wGzr1Z2xHNy11HSt   uZhP5MWyZ9ZTNStdxgeNUqOCI41oxCSJFyKUqjDTQLTW2SOUs Weighting: 11.25
+xNkmm   8lMZDWt0I     66TjT6   SBpo8MgsjFavAP     V0   vf4ByWlvr0jx58kefXbuEueQPz Weighting: 5.184210526315789
+vG04RwJc0   QOKENjr3uW05Rt0ksB    QAqZsHCC9     cLpGKyOKs0d39bJqwKhhhpHVA Weighting: 8.083333333333334
+kNpJjJ    lmWx04Jbbast8pkuBjiiLZcUHD2MWt    WPyS59621xZimFr36yaDMYMfrAwjMdtcSXozVFB0rOuZ Weighting: 15.75
+QHKED     tKQ0ngwqrc9IdiRBi8enYXuZFUE1UgU     efeElws27o1pG5qQFVvcuxDVL8F5nDlll5TooJprm6ksgvtOdNrKlt Weighting: 14.1
+IjnwMAiImP2uYOk3MlN19sB0q2dpP4jJMKt7    74vRCQpsItX91RePgWADC8NprbaGrW7yobNbAUoDKIxh69E62s Weighting: 34.5
+6zL4nTDGrE02UNFYR2gb1nfTNUigRK12ZRY    p   pwmNGW6tQ68WD5l0BfwjnjmDXbUAQiDFmvrUeD39eDpRNDN6KpuhAXsOx Weighting: 21.071428571428573
+NEHOnvC00A    bRvhmPEWLk9BsFt9F7un8DC9Rt     S81ly1mVYzEFJLINPsq3lb7NTdt899zhYig0xKzH1quTIam2 Weighting: 15.0
+xFWmXzogN9UNOjx7ySNcLnZpM5h   dl2LbYzEW     tfEooOZbOsgjkkdzoGtEzViWlyt6o4muHpQK86i5 Weighting: 14.8125
+4FffEILVWO   JJDb2KDsB8yS    CTdzaxqUNiciII    ftAqalYmHdTSRYdR Weighting: 7.2272727272727275
+hqpFVJPZPEz5E   T0Ct3Kq0BcfJDvt8sD21E    o1    MyoHCv7yZeSKIE4KIpuXClEZQR33GfuyxDrzf3KUXt3zXKzcbTBYA Weighting: 12.772727272727273
+PWgVpGr9WRiPl776jFjnKjiwEj   0PO    C99latG   2pbqEGpZVokKA1hY7XJKCdj3KXaC705Cav49O53YA9m59tZDGbG5eB Weighting: 14.6
+YIRnLX82rhuDLsmlpOK2GNQxC62EM1HEXAz8    kOWtXEPLIJNsIlcYROgviSf3f4Mug00YcvhLuY5481sjjgdKtbKl6Fe Weighting: 36.125
+rjJtJ6VnwQedBk3N6VVyMC4IyuFQ9zOCcngf   FqhEJMiB6nZpTtsJj Weighting: 27.5
+mQ7sowOtrRmifNjOJwY3UlfgXWf2TJYS0QXI    klgSgat56HCtVQoi2NPXSgpYRwTcwNgdpodhAc Weighting: 28.625
+AtWha1H0tlpxw2t5uprLDLMkSiv8DfE0F8ws    9ZdXivRmdzpEZqeI5G Weighting: 21.375
+95REDqG9opgOTIk76oxlAiCgShzxQIL     meEPq    RIkxOyPo9pFDEvFdSwSUCF3HTGEPgmqUzTj0QHTjcYG4Bp97u Weighting: 14.777777777777779
+m761PPE9VSba00SeTSdaAE     z    4suBz8by3Awbc    H7VIeP3Lrx0H6NYQmNaEIxGxWyChMWO1jDO3gm9gLCYlmod1qtF Weighting: 100
+cnMLoDo1jUQLbXKqjtmMaj9UKVGZv7Hx4iLK   1ltEkqGNkVsKaPxxtGtbJijkt3qNB2optocbLmSG9wIny Weighting: 41.833333333333336
+2Y5kKg8NYqC7vLLYAwFLMgmQiFzHcSQlBrla   6z0qoO0Ddg5AuKGj1iR Weighting: 29.0
+5MyliTfhKm2xffAsyBr9lMrxiX3wF6TmKIsI     1ruQdABi0UJ8wIVhEVTKXjXtZ3CLTWpWAohjU6LnuvGAMR90Nu5pDUZN0so Weighting: 29.9
+XdB67S0uTeSDjptp9H96pRqEhX2iVgQHnpYw     bNZA1sahLJ1iIacmvVq325DHBZHNEvhvkVXtRbm Weighting: 23.7
+cFijcPWa7m5EWFukatYiZAWwqiHzcskAFYCv    K2NISKI0qT5ssfy8IxYWMx498KWeIEgigdIZ6k Weighting: 29.0
+Rv0PetsRu5CwMhQdveFl1jwOKNg2W6gzivUg   Rj3iosampBpPWrq0E3GfgOavzLgLF Weighting: 33.833333333333336
+qPXJko4Dj4k9   euwEF6DZjE1R5Mj1034prh1n    OlWjobHzbRNFkDIHGpQwOgReBqnL9kiIpDewc5l Weighting: 17.0
+rHGasVsS7uTiRQsdeBUX7aI8x0kpnYLULp0h    s1cAshGGXAPisrpMshB3DvtYUvk9W Weighting: 25.375
+2xtks5VVChrA1n63BfpSREtyfhzFaCtGSgOr    RcJSlAmCasCr7s2BBSVU03C6s4BYjYCTeXaqeQbwJjxXXgi5TuUDJVHrO0SB Weighting: 37.625
+uKIzbcmU1KkGYDBj1CPukbIhRQlrzTSxdHkM     WXYqciT6fqLxqHe3S2O Weighting: 17.0
+eQ9NrcCnfSV7CahXlWKAOWxhWcvi63BagLYy     LBqNe95qT7XB4KHkxWqZDc7oWTUfp0NuerFrQaVr4cR0KxYJHfoxU8LzRr9 Weighting: 29.9
+Bs2rBOdzUelhPf7NQ3abEvukG6i   0qI2mGl3Z     8VOQm8gz2TWKrhLx Weighting: 10.375
+aH5ag2mabHfswcTUE0EswS65iLeEgCyeR9Dt   9jtDKAdbDXOhO0 Weighting: 26.333333333333332
+CVJC1GtMIdRmxaT8fxmUDhNexnimt    nkyVmlA     Wv95jJ4XcZPfEU3Wi9AiPhyIoXLedgOcgzYVnuvRujr1nbwl6ZTDAeX Weighting: 15.666666666666666
+WXaQHOH986ODVAVzyyccSTqAYMGpJaVnrU5w     HeDCQ6fnqtwb0Ka Weighting: 15.9
+xmZhLNtjDPA9QhHRI6   NuxMhAQvPRl0no6tAn   B1L7T7DWpT9TkA5E6mb Weighting: 14.583333333333334
+u4zdsmLs3Ixf     ER1OqjamwS8Wg50AwXOmZbJ6    khPopf0JMtWuuOrxyVpLL4lXi0YVSgjPZAwsSt Weighting: 12.88888888888889
+jiGtrqkMLcsDST3ON1i2459VYG4iHzybBsII   QVeTtvoMfoCpJuymhf13eiC Weighting: 31.0
+w9rG2qT     qh   WnHKnGK3FO   fW    JFLD9mAnVKWxLFv     TDiyI2hTpyicexNC22cFHkjD9O2PPMePlspscvXCdlzo Weighting: 6.225
+UX4c3DNFBss81    9CeHM1LYXflK9uR8HOOdvdi     vZB2c3M2Yv3kJ2jtabJ0DKXZ50wdt76SnCzwjMB9PqqsuJonnugJkvw Weighting: 16.22222222222222
+uBpVpAHM9v8uM9T1iOwiKEch4bOSE8Ldp0QF   fcH24PXpK8PhCsPOl27sdICdg1HrX Weighting: 34.666666666666664
+bXn6recPiruZenlZvBUTtPgPlRVU0RET3SRg     dhDmWhtqxOW1u3mjKh0bfujGOCmqYxFGS6FWmn2hgVtUtPDcGWt1p Weighting: 27.6
+i4eUvhAXsrPPKe4Hlhsf7B2KHH4WmhXdRJOX     hhr92FmfWHmHLhugnNri54Ocq5swdU4MJR9XcMgoxaS1e Weighting: 25.6
+jbgITu5phyreE3xZWQuzJNY   vEpxg   1TRP4IyB    1SR3Qm5fBzDVrHKlrBczIvF7OjDQgVAFUXjNHvKjntRnnOpP Weighting: 13.0
+mkGscSv1SyT9s6So1zrTEh3RcZ    aJS     aNFIEIi     9n0ScXPpioVEHclpwDH9nHRJSsYBHfkVw3q5JU4oIMjERB0Xvd Weighting: 9.642857142857142
+vQPs6JYvkaoBVS0Jhzofpz4pec    ylWIdoioM8    bRxaQ6dR068lX8RBwRksBIlNL4H Weighting: 12.4375
+phQd3rhXUTsDkqzAsOckGIQw3oe7   2GB3IHt1   gpelneDGtmrj0T2tWgFVDe4kxk9irFTcSTOrKQoLG Weighting: 20.083333333333332
+6TeACOd   GqE0    1YDtGiYr9rCEJbC4o    H8rARE   TK    P2J6rm4DXRlsPnLR02oTQqOcmmdLySW2xoXbV4f3yV Weighting: 6.888888888888889
+7yWnIQZe    OCc1jJI1U6rrLqc4AsJxoVLyhJDB    8sMhJhhTTKLsWdHNWlWUjqMBC2nGq Weighting: 12.625
+TFt0IKEwm8GkDF67V   OeXwWDesra    3vTxYxMtV    YHbfElj033xvWf Weighting: 7.181818181818182
+s51rKl4niw2zK0oTYsovOALM2amZZTj6X   Rte    GjK2NOiZoQAolm39lin9wxxdlA0lbxcj7Urf2HIkZSEP Weighting: 18.142857142857142
+FLfwwTmTtzE0Crv3eTltBXD8ktlMpJqttfvx   DdnGmP8fWyvrLL5KuE86OmRvLrgw3z Weighting: 34.333333333333336
+YGOy     NPC    k9O7Ujp9J    UoXKKYfUNxdsKbRsDx6V   PqPt4n6837FWitbGYmGBFmokc2oMMyALLS3U97vfu1oAiYKi Weighting: 8.3125
+3qMGLafAPlI4Hrp   7IBo2vZcrk55nSuTW1jj2     VWeWvsanha7WB7BXPWYpApwGXbbZeogfRo Weighting: 13.75
+d41mPs4LeJrcHb3LWCsjTWYmLFR4b5ACpLKm     MP6Z8G7S9bba7vq1yB023SxrIaWv1oc0jOFyibV Weighting: 24.2
+MgnBsrhdfY9id01RJnXtGRztszMyJtQ29wvQ   VR8kaOCj18G5vCR6cu9ugx80N0J Weighting: 33.833333333333336
+cdKNGN5GRDGRzsEyxqtufdG   yX2LjxEzJaz2O   uJzPJ8PrMQPXBlFlsk01734b41r7CMXIq4DWMMfr10faUn7ZWGMDfyc1jN Weighting: 24.916666666666668
+6wTPAcGbUv7C3eMBZRhyzcxrlZk5cHjXcndQ   8EUWWUfms3Tf0Djqtgxw2k Weighting: 30.333333333333332
+QMrzooiIJaWC2abywMpSSI3v1RdvYMZtSFwE     6YL5jgEmBIkD7bfKIov9NoKYiNdqP13gr0QxKDSAi7E6 Weighting: 25.2
+WXFfdUZZG    yk6O     Gf0HqW11Jd   354LaMMTtTj4J     XHTXHOJVe0rM1S5GAWZdqmsldirpz5c3ETdwK3UQzITp4Gf Weighting: 7.764705882352941
+5eXK     axHV     dTmKkKvxPPRf8iBioYAwUzGZQvdd    zMPGGgUUohuHW2FLLeRWSvZG82VyEsB0xxm Weighting: 7.821428571428571
+DsNJy9cJILWHZ2jOVqKokQpFr6BoiEcaliDJ     90ivxxri6QfmzgmCo4pgqirPV1kO73FETu3oHSUDXQaYURhTMTecv182BWo Weighting: 29.9
+QDt9Fkc1AjKqaRi5uvxbSUHCkikVRwuL6N3j    NNAQLV1J11g22zBnlSPrZZZ7mtLQSHujChby4VXrN1LQUlhVUjlN3OUnNndI Weighting: 37.75
+UkDJdawmar9HopJjvsrZLTvXiV0xziYbiWaY    ljZkvrR1emS4ZpDJ3ySXT5C7FRZZyQD4ifxOf4Cf3qzhhgJanpseXzTXgl9i Weighting: 37.375
+pERuiPKPTmekYHYnWH8Dr7QEZcEkUFOD9asj    r3rzn7epu99loDun Weighting: 20.375
+FJ7wcCbkbA    4KqeP3FTHXvT5F3QX4ZMw6CB5R     IZn9R2R26lQ8oX5O48fksR4zY7yQz5UTV Weighting: 12.555555555555555
+cmvIPfzj1vnwNVZ2s1GYqnBa5v    im6q65bED2     1i3wnW9t130wyvXsigBH0hQh9294bfLWJ2 Weighting: 12.777777777777779
+KhkUygINngXIO8UOIOMXUzrzRuXwDXrhPnQZ    roq8iLuqacfW5F7 Weighting: 19.625
+BJE3   zoollkEtu7CpgiwnnxEPNfSR2YE7FSUX     EEWvhP3R8nMcFjU5hTuV8oARW Weighting: 11.9375
+GwBHeDpI8lKUTkAoAKjbnVBhHtyxK     2aTlfoQ    pRfDYldcCFQgGWTcPYG15vkG5xKXJPcbkLUP3gz6idZ Weighting: 13.555555555555555
+4dRsOvDe0JaRImtS1yOyoLPYBsPGhkgrX8Fd     uFO7AotTDLmcnRq6VKrcOEeX9159UxJsVw5d9 Weighting: 23.1
+DOkFn     zzSYw2KTCYEtYYL7L7NU4Fh9GS5MrYm    YzRrqJIrbfoeNJ3fZCFRFbgRKDjDLn57UziMW62ULmMFngq1rom Weighting: 15.166666666666666
+ZON1vJIv10Gmr7Tpn2x9UCDRQV56pIWPS6Gh   QzSSNKBaNE0MrqZ Weighting: 27.166666666666668
+6fvrAr0sYD8yuUs    QSvOG0br3kDjIOBCT94Wp   VL9PNnqgPfwiXdwpAc4MMsiir3WoRUVpYJ2oaJqkCEHBH2951uhBZVDFy Weighting: 21.0
+mpi   dJFHPFMMIclvwFGNOh94PsnidEqXsI9JK   UjzfrOCOnjnCJReny1tlQYxG0fk Weighting: 16.166666666666668
+kDP0    CWPJ0TxvCfx9L   f7Ot2ck8Dc952fcnAwW   HLr1iGVKau4gOc5Y Weighting: 8.4
+w6NfzAgKLNg   HPM6phONDZ1CYlxfH    dvuq1UnE    jgUB1IggHhstm5SGBJbaDZ9E5h0t27Jni Weighting: 9.909090909090908
+Zg9QbMFA    9GU2CjBDz4    6LLKZhmEgKsMgN4S81   AqYycpfEcJ7gPcEvUmyt Weighting: 8.045454545454545
+3xlbG8oS2kUxH   zodNDujq     f3AfOkIHFo   gPOls     DyTBirar23mzrgQ4agec9dGYYLcQpZQ3dWNB8iYKG Weighting: 7.53125
+k4eqfUWMQKY4Q    s9PnRfcz8gUtN6wTsDgWC2y   RLzuUVHIjodT86j Weighting: 11.5
+9AiaXWTyetoUl    CEoFlUsySyqibrAuuF6LmyJ    QxRUoR6Xt942SmX6li Weighting: 10.5625
+IzhGbatGH   Ptjp6xydMUQ    WxcpE0Y     mLjYtEEqL    p7ZJugh3UwkvVeIfJH1SJpYGL4jVwTzU8zAXej3EyvgR3qv7 Weighting: 8.1875
+jhzSq7rfRxXTocV9rI5Cq8ZUg5Z07tVDEZ7j    A8yqXChz888MwVyCnTwcx882EnX Weighting: 25.5
+L5d   F3S3FbTZK0eJ9ETx4rWhWemOT0kpQqYbb     cCL7bSyDzlEmR9L1noTZ0Bj24kIGey Weighting: 13.1875
+UzQfKc5Fe1UoBqCJkz1QnQIYE7QwyT    ePeZsQ     JfAre7qbUnQ4UVmgcc5bWdLaUZgxoa2DvVewzZWJo1ME6h6k0tuZg7a Weighting: 15.88888888888889
+E6wU9csPT1   nKP   axs9B6VKhAaS5cE5hbysEc1    2QOGkR9LdqSm39TrgecYolLl2JTPqJTZ0aOs6PkaLFJlT67BwU Weighting: 100
+B5DRd3CVxx7VMfNjbLINmT    ocD    KaV46y4Kqh7   RRvFDmyfhcGUnGLUxfXUxC6lYhjUUNuTUVNiKvcKKnvFBhn0 Weighting: 11.863636363636363
+8tCqSeQNjkIC1kNyExqiV    G     hN6jkyaCErxNX4    NN54Or2kkNAgeSmgXrNunaoSK92Ebp Weighting: 7.961538461538462
+0Ivnzbm0ENKlV4G7BvsnMHrqHhuUuqcq1     5OW   Vm01S2uZYn7u7uZFGgP1QHmob Weighting: 12.1875
+S1eWR2iA5xsnBc5bSpvewYy7O4wwxaWqaFsm     JHQuTuavGAAVKVNoAbd9cWZvoQ Weighting: 100
+Rf6q3a    CPtKFNI2W4qg44OD1PrAVtff7eajGY     GyAqxZ9BIKZdD8gJKg4ORr1t4aZHfJ0J1uu3v2xL0qRgEI4U7CTouiH Weighting: 16.27777777777778
+35nNL4klnREIqdW1Mj5VI    lHT    zVMon9XK6fyA   x8ese5B8IjELbsXqd4DI Weighting: 8.136363636363637
+A0m0wARZZKE    s    sjgEKoT08YTHxi31CG1tRyi    2   x456k2MgGozsYk Weighting: 5.4
+jr8rMiJPIzGNelSFPgDLuvxfNSLxGohm8lZ2    QIdWIY5gOWsgcXKRUfXgVW Weighting: 22.25
+DDuDlk6P7BohcJ6uxh7mQF    wmcAtPnW78keZv   Abq8dFNcwhUPAZlrthecRalg1l6NabZwwFC2pT Weighting: 16.571428571428573
+IvTnn     8     fqWTGoP5    eJtSGNxlcYt7TB37Z28A3s     c8kT3PXzos83oOfDuU1dkz8OcwYIyXPNNQch6SCqPPRDl Weighting: 6.7894736842105265
+G79B5U823syC86YjtNrEM    3FcitCE    SVglkIpf    ZtbhF5khfud0UCB0Uj4YK94M5lmkBVqDEDFe8kS9F9W9JtPM Weighting: 11.333333333333334
+QrKG1Wkb6CmmMsBwSOZcr8I4Sm3uHKyTIo9r   PjRYkElsZeyqJcUwUhxO Weighting: 29.0
+ckvK7Y2axxyXgh5    evTDOWNZwjv    kZ1pWDpTWh   q8HLDCO4i3aDDk1mmjVZDC2puxOsXho7Ej7AzVd3 Weighting: 10.909090909090908
+NVR1     oYsOtuAAUuWqODM     3MxVT11p2nESy9JAL     WBy6nzaAefsKFx932BGvy5wfR5UmmgKLDtgGzhJyq5x9Ag0VB Weighting: 100
+E54VbsXRpJTnkyfksB79l6ZdqMbhvfZuyVzo    P00wsfhJg0N3obPYwAIjjMiXVSaXmidgbj9SjCcHExZRCWGtUi6zGjIL Weighting: 35.875
+DlIRhnVM9OzB9jjTbw8b2gyZbZozoQtr9soi     TU0x4L43jT3ovoevXbq4DqszOQ8OEeK5hXDWZB8 Weighting: 23.9
+GJkHCRDciX2fPFo8WnHT8    VfSbGKdGaWuoGGQ     xXcitJ9l9vrSTy8IQpeZPPrS9K4C1dr4sRt90YyLdACzJz844wY8jR5 Weighting: 16.11111111111111
+RM0zVvJn     Y0    MKdooWtaUUdzBq    FdHIhJb1uVIN    J33TD2HZ5Is3V4IvkY7JpwxMun7miy7sgAklU7JE39PNY Weighting: 7.588235294117647
+2tEU9800Ih5AOLEyJKuAETT0tgqEVl9sUHxS     KudRkMzEoMs6mzKLZoyCkMSySSswYr7AexJXDVFRV1oMr Weighting: 25.4
+xgo     d4dsT1N75pdNXOwbSA    K     ai5sVCiXlxDCYX    1HofTPJUGkGNwAUl3DybcF3HDoLqODJeXlZjfNZ11piEC9 Weighting: 7.138888888888889
+DGkCpIY0mBFzG1K6aaJDfwwEMWrH   iqSpoBZG    2gCQi03F9Ur6CTB4JqiowTllXwJSrOoZjrRb3udSlA4aUNZVtOE Weighting: 100
+Dzgx0cez6FbHO7pLr5XQctMWUtlDl7Juy    pHb    PC4uozvNUAThaBjwDJxWColUbU Weighting: 12.0
+02DOyx1vJvb3DkngfdeHePu9SRYmVUX   8Lhao   SGjYFg9ZmomjWLG1b3EP8Z Weighting: 15.333333333333334
+01oLd7TETchsLIRzpGvYhEZ9NlPuhgGoeN7s     VRhVVKteypdFKRVV1Pty Weighting: 17.4
+tVhINvhYCfnRydKCBhGpj    lG    zPF9JC3dvJ18h     jBn7OwQW0fXnqKc6uRXhbtPN1t0CRSwJDolmDfWTz9NzKlqpjn4 Weighting: 10.461538461538462
+0PuEhhonwu0aFdw2YLrnPGpUO3BO2Pb   wdTz1    3nESbgFd5X6QMWadRYRMifEmAFdT6twRzHQoSaeXwtekUSNqHvKIGx1 Weighting: 20.285714285714285
+DFe3    5Cr3z     F    QtvJDbrMAYCsLkMmyOb    U     VHq72r     ptfRNcyTIsou7OShJvI2qFamwrhtF1gIuy Weighting: 4.037037037037037
+5gGyBfHzs7sKbe27WE6tvk8xMz965WFz6rur    cqBIQkGPWdHZfo1MoUN79SfisXcgFnTsX4NnA5mnCr Weighting: 31.125
+BKDzspncOpdTFpoj0g8ptOuLuFFGyWq44uIj     fAfNNzwLaFmOW9cQr14bV0PwwTdSGmZuQO Weighting: 21.8
+Hmw69   hmFom3p8iGoRIVoW0Ik3zmIJY5XAzPO     sULYUtNGUpUl9ypz6dkPX Weighting: 11.25
+3DDEFMcklztTwa12jXpT     21rujdeQhWm    3N6Q1   Ar3IG0eJpJ5BvSMwkY83eoOfF2nzYNC9VJossUyavGRWyIJ94nSM Weighting: 11.708333333333334
+At5WijVjiEPi0zdqOMxUW397RL    eYPG4FPhav    BpklycUlhe4S82JrHmU1iDo7Fk47h6tga9XEXIQ1g8Hn0 Weighting: 16.3125
+ECkN1ahoHqqlIhzZvIRx4ue9YwhFgFgSrdEp     ldPi3Nss7u34yBdwuC Weighting: 16.9
+giukqAmSa5SnGqfH     LHrbdTaSRxt8    mde5J3Z7   qPrlIi0hzFTgOHQIUZr6FevvG5jBATGXyIzPKFD47hsjCv4ZhOKO Weighting: 11.458333333333334
+YDB2uFi0nzrNe8aWdTaN72dyp98aZYlrJGJD     Kx7zoN5La8sRzMWIdmUUblftQQ9Ifdri1A6bTyu17FoeSerCHhhI Weighting: 27.9
+HxsnSbwjrtdjYXbz554ra4gvC     aTaIENX    7     JG     D     cNnHTHqK90HLmlwd3zbpE Weighting: 3.7291666666666665
+LrgXExXUS0PBiykgD49nxmOdwLFa2zDm80p3     bsLaCsR9FWjxzw4jEELZ5uF84TeIUdTlqE Weighting: 22.2
+ceMr86UVXc4KyKuW4HsJOglB     tEplbelIiGw3     ApKFgTD9CYrVZOmOzs5yxgVCJEkDAx0tE Weighting: 10.75
+15qgKj6j7KJtWsS3zWDgiM   ZYeXWT7WU1I7nP     WQBnY9JCx15La55e7CsujKqLNPXJR Weighting: 13.0625
+K4GKuiLrwBaha4QE08Y6xw1ytue8vv16dPuV    HH5ctapoNv7IuF2hQI7cvXNNOv6EmCDuDHvmo Weighting: 29.125
+pqxKeNqj39N4cGbFK63lA7     QgQUe3qzkQtAfZ    VyY9JnAw55nFhDupsjcmvFexUK Weighting: 10.88888888888889
+PkE7    WyCMFys62KuzvUZbGJLjSf8b5GskcSCZ     HaX7Mpxya13D4Cp55Q090l Weighting: 10.444444444444445
+cZkUwQ     kQxgWM6Wowv4Y2qMSeRHSAocdqlfac   TouxPtYK1njxtdXlSPbb69V9IcJJjFM0 Weighting: 13.25
+yd89oEBUjpcjaBImV8Ly7GSi     HaJWI   oqLiWtI    Ku9wP1WBoMtIV6AHX Weighting: 6.916666666666667
+llLvSFfqw1UxUohP   qX0OcdDKkcHDUGnjS     bKK     AbNHSx5OpdnP00vHmatCs3jUPF1YGTzivJ4CM3hZ0l7vhXhPFBB Weighting: 10.461538461538462
+8cQoMf6MHzUuyokO5i9ptk5ESGacU4yBacC7     WddBZIw92S12eibDp8TW8luUNaUay1akTAOfFoItqwt3m2l Weighting: 26.5
+HFrMUOjSAAD5TH7xY844KDl4xULtNfatquh5   e3ZAx8EaFHIiDL5ETtLjoBfzCvSoZuhCg9nRVGxs2aPaGg Weighting: 100
+ePNtnZ2cSWnEOZB7zFHNZ71xTDlV8mB8NBoL    H0nO7xUcz7GNmRvldY1bVSFWM7iVzR Weighting: 26.125
+UjHElPFrW76IDZu9pNcbxir3sNDwZ0kyRemU    nSWwqHFd8IaVCHVIXo8pRnm3chAO1RrkjYBd2QAK0 Weighting: 30.25
+YoWkZ     Kul8CbH0ituDuG   66HtQk6TossQxUv2V     R3dSD8pC9FRC3aAgs Weighting: 100
+1WMYmZm5Zv5Z4tUsa58d    KydecVUDgI24BARI     xgT5jBkJoKAt4lfAkWBOTmAx Weighting: 10.555555555555555
+YrEN9NehARavBXwlyEcdnGZjylksDKH1DzkD   dbQomrITPTRfF1xXLOjFpeN1rjPIC0yH2x6xVf9 Weighting: 38.833333333333336
+K37H    gfbvG7sX1hWC0Cw55Xc8nZrb1FV8ij   D   h    tvvqxvHxYC1e4uK06oaVti2C4BHTrUsXCOc1 Weighting: 8.321428571428571
+m0RTFduiEI89aR1I1WCbA4Va9r87gRqbqwsL     z1iHOzjvVoPgWSvMGwJHtN704LfLHq7L Weighting: 21.8
+Gic6lRTc     HfZl7QpbwDFs4nn3E4av7uY1YzmZ     NDQ3XtEjkDqLs63K Weighting: 8.3
+ThZ8cUR5yad8NuxFeuE3rNS9MdKMDbIipHhw   kd4ZZpvlrIVHxyF1iMUlUv2IbQKKF9P5SFS1CYkdVxowL7XHx Weighting: 44.5
+yl7dM     mccO7gwovQwjbWSM7WYll4gQFGWt2rp   A93YI7DSrVJoklFSpepOKagyi2XLZgHDqyCGAH5Dzvkom5XKkgFAHAon Weighting: 17.9375
+eMuTOmOMAlRwUvexLgKO8jnGxwqHSzT3CyPd     iBAXwdffNl1kjg7cO Weighting: 16.3
+zHgprGDON    WTsszTfz    JdMFt7JEkno64RItyLg   tFwWp9o5ldekeAsbn5J9rW0uOzz7kLvp051UsDyspbskqdT Weighting: 11.863636363636363
+fWlnidtgHuFeq7QLK1RhBDWQ2N0zRflZzvU5     bOlBgUJOkFwRNKr4180Pj78eMrF2AHq2Uf3ej4NRaUJT7etp31tSrRnbot Weighting: 30.0
+gQmySumfGtClNb65IDRlTPJcsTK0kMH0OqBV   pz5XQmqmaCK8GqTwiI1xbDdlZmwXYZAXl7gTxQiQBlyCjwbezMjZ1XMg2 Weighting: 48.166666666666664
+ifX5OVelQ19wV1    q7io55y4YZ2V6xuOkpTv25     Xfrit7BcnLbIvkK7nbfLEKjDpOTC4GdxccC Weighting: 12.666666666666666
+oA7L59T4iFFcvbPBsrAauwKqy15GPUzXwyhn   t8PZidADxaUadd01cppZ2hwNbQesLWgtfKzyu2c16CEvw3KLvbNojP55eQ1Ng Weighting: 100
+pOzPRV4ErHQOvsFJXDFgtex07AELRF9yhj8z   eA6uaQzWsDQJRHUPXI1 Weighting: 28.666666666666668
+b7D2ucImHkxEJw5W     eBzu7e0Nn5iCXwhhgTdI     qvNrSZ6lzWZuuH21qFjeu8Gd3fybYGYfnjeIg9dhKlAj9C0 Weighting: 13.15
+GurHoFuktrRtY4    I1d2XCtdlj5nInGK4fDmY    9   X7dykOeuUcL7F4F Weighting: 7.363636363636363
+JlwFQ9   x6IFGz47R1oMbK2Pe5LQIjiHUKZKa9    rGGMXi1sJBiOtQzQbg6xvI4RaYA3fcqUFIykn9hZL Weighting: 17.428571428571427
+S2YQX     zfLn   Mc2snlfmf4ZF84SX4Q2Ka     rEgy3d     empWGXyDpmOiOAIyfVHwtHHMvv3STUzEk5wnQeUOf4VjH1 Weighting: 7.166666666666667
+OzngMYJ8Nq34XJXz8o9XfZ19jzgKf8WEeGTg     HK0euGHxHxgWo3OY5taDFwz1ZV4qsT Weighting: 21.1
+oVI8R   yXIWhLOtSAvtB2KYx1DhbJjL7WdTh2V   VuDAPdY7SllQuL6BMiFg Weighting: 14.583333333333334
+fYETM6hjC1vFqYG76EqdxsZ7KOTaLJl   xAUXy     5lKaJvJ56AEXVIBdIikOmWHnc104wOZXGXt4VFtuQM1VzgH9oITet Weighting: 17.5625
+keOonTXgI8ItBAjrtgOpHywX7MMmEn    MMJmCn    DDCLNiIt2Pa35TITZGN6Bf6rvwzYor59bca Weighting: 13.875
+R9qu4qJa7k7ser3ry3M2hAIO7Z26   rUB7cD8Z   c4a4lqBGsRBtOeWGwwyj9 Weighting: 15.5
+Opry8YUEPfnF1m2TiLceu1nStG9Ck6ZMkjAu   L2XcgDEfh8TzhIfta Weighting: 27.833333333333332
+md2ISdq731    Li08sSpzMYNrFdNUY4va6UVUWO   8ihtPwMvHTrOLHDINJRTzwJGN9AZFMcxm0M8VENecU6lX8GlCWmkI5uLn Weighting: 21.0
+VAjZdY8xzdWMPlgdS2oq     jrh6fAIhtzNa2bXA   elvJFtuyVxcjjGHR2yhIMyfrxaK8UZTthErH3xo4MfKoabF6aZeKoZOP Weighting: 17.8125
+wJGJaU5XMpElNMQv1jm9ZeTVgZ86vccFvAC4     DBdGirYmYcTi24gwbIPVM Weighting: 17.9
+K7uD   XoOzCvx0HFrVlcOyLtnqTa     E5Opfa   bn3F    RaqQqYjEXsqHss9sc70UitsuAcEffCk1UIUJdZ1H29VQMKBpc Weighting: 8.866666666666667
+hJHkWQdyFe6CcfHEcWGCmHg1Iu5    LYBGqsIIP    fTrWV9jfQ4f8GbMjDBvD94StgEOlBznNBIDt1gfsH8sV2u Weighting: 16.0625
+4erLOJylT5RnhKNBU9NN    Ylnw1oiF73zOp4Qo   1GihWfNQY77zM2oRAm04MzgtEFHJXM3iSIrjrN1eXRYjCWbgt Weighting: 19.285714285714285
+8LhalPz8UKsSSeSKYGLc3wTNR4pYkkem1DWi    VMrsKGy45YhrLEIvfhSvwkdHcFTusTRkrg3MwCmAGzsyujTImw9pkp Weighting: 34.875
+h9nofgNbmvMOv6xt9NwV1WonF6gWdmh7dZ1V     CdwtGZ9HOkQFkjrdyG3bUW1Wz4j2fFT8lvoKNDQCdYbdIpEYgeGQzEdRjlo Weighting: 29.8
+JIRnMU87qKIcfqS6mhCTy8Q4pkg7ISly5sfF   jSTZrjOsUb29NESa0U63hQXnSTpYXangZ1qIKfkHYAxzRUpobiExkC Weighting: 47.166666666666664
+4IMLKpeWJHn    5Mqt29xaCRVsoTxDRWwGv8kVr     ERCWYhYcIfL0sen6V2vpyKnYzt9vfp3GNA8KF1lUsRKhaY8lmwf9mze Weighting: 15.944444444444445
+HYL0Uupv    KFx     GheH2XyPRNLIGZRPbez   SShBRo     4IRBkaROvaWINejGhiH1nf16nshHJZL28Xy58goHwD Weighting: 7.176470588235294
+MncWpaQVCx1GauqmuMy7AFTQ    AflCR5NQ5aB8     UHnSk8mWbAD50mp7DfmHS1V5V1tnB42ngQpnYXk74HCG Weighting: 14.222222222222221
+HXwiuJ    kEVTs5NUjJZTr4T59   KKvXLLLzP5ZAy     iRtF3MIhqDm1obIGGdz8C9StCYtNCfLYahvi6R8CJAlGnVs9PlsX Weighting: 11.5
+hKpzAs2shpVAg6rsOTBKfVE0Q6g1MhUrqdcL    F79n8yMforlrT0lyEwBh68wi Weighting: 23.875
+IX9It9   7SA6LSOrg7yb9ckh9Uqs   gfVcDfSFuE    trWdjiJczmGBhKHL73VSyIkGw2 Weighting: 9.8
+pf555iJUxluqBtjJHLsfefLjU2qIWArc    a9L6     SmumTuYeUXaUjTYVIvBC04i5 Weighting: 10.5
 
