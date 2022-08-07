@@ -23,7 +23,21 @@ def ProcessStringsCharacters(content):
     a = '|'.join(data)
     response = bytearray(a.encode('utf-8'))
     return response
-    
+
+def getServerSocketConnection():
+    """
+    This function create the socket connection
+    @return:  the socket object.
+    """
+    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+    # Bind the socket to the port
+    #server_address = ((string(utils.initValues["ip_server"]),utils.initValues["port_server"]))
+    server_address = (('localhost',int(utils.initValues["port_server"])))
+    sock.bind(server_address)
+    # Listen for incoming connections and configure how many client the server can listen simultaneously
+    sock.listen(int(utils.initValues["incoming_connections"]))
+    return sock
+
 def ReceivedChainsAndSendResponse():
     """
     This function receives the character strings from the client, processes them 
@@ -32,20 +46,14 @@ def ReceivedChainsAndSendResponse():
     """
     FORMAT = "utf-8"
     # Create a TCP/IP socket
-    sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    # Bind the socket to the port
-    #server_address = ((string(utils.initValues["ip_server"]),utils.initValues["port_server"]))
-    server_address = (('localhost',int(utils.initValues["port_server"])))
-    sock.bind(server_address)
-    # Listen for incoming connections and configure how many client the server can listen simultaneously
-    sock.listen(int(utils.initValues["incoming_connections"]))
+    sock = getServerSocketConnection()
     while True:
         # Wait for a connection
         print('Waiting for character strings to be processed sent by the client')
         connection, client_address = sock.accept()
         try:
             print('connection from', client_address)
-            # Receive the data in small chunks and retransmit it
+            # Receive the data in chunks and retransmit it
             while True:
                 data = connection.recv(10000024).decode(FORMAT)
                 if data:
@@ -64,6 +72,8 @@ def Main():
     then the socket server starts the listening process
     @return:  None.
     """
+    utils.createConfigFile()
+    utils.time.sleep(2)
     if not utils.file_exists("logs"):       
         print(False)
         #create folder logs

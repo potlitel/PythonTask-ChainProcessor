@@ -78,7 +78,7 @@ def PostProcessingTask(content):
 def createConfigFile():
     """
     This function is responsible for creating the configuration file, if it does not exist
-    @return:  None.
+    @return:  initValues list.
     """
     config_object["AppConfig"] = {
     "# Value to indicate the name of the exported container file of the generated strings\n"
@@ -94,14 +94,21 @@ def createConfigFile():
     "# Value to indicate the server name to communicate with server via socket\n"
     "ip_server" : "127.0.0.1",
     "# Value to indicate the port to communicate with server via socket, specify a value above 1024\n"
-    "port_server" : "8085",
+    "port_server" : "9085",
     "# incoming connections that server can listen simultaneously\n"
     "incoming_connections" : "1"
     }
     #Write the above sections to config.ini file
-    with open('config.ini', 'w') as conf:
-        config_object.write(conf)
-
+    try:
+        with open('config.ini', 'w') as conf:
+            config_object.write(conf)
+    except IOError:
+        print('Unable to create file on disk.')
+    #call function to read this values
+    config_object.read("config.ini")
+    initValues = config_object["AppConfig"]
+    return initValues
+    
 #Get the configparser object
 config_object = ConfigParser()
 initValues = ""

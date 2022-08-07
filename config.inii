@@ -1,7 +1,7 @@
 [AppConfig]
 # value to indicate the name of the exported container file of the generated strings
 filename = chains.txt
-# value to indicate the name of the exported file of server processing
+# Value to indicate the name of the exported file of server processing
 filename_responseserver = ServerProcessingResult.txt
 # value to indicate total character string to generate
 numberofchains = 500
