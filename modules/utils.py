@@ -92,9 +92,9 @@ def createConfigFile():
     "# value to indicate total character string to generate\n"
     "numberofchains": "500",
     "# value to indicate minimum length value in each generated string\n"
-    "minchainlenght" : "10",
+    "minchainlenght" : "50",
     "# value to indicate maximum length value in each generated string\n"
-    "maxchainlenght" : "45",
+    "maxchainlenght" : "100",
     "# Value to indicate the server name to communicate with server via socket\n"
     "ip_server" : "127.0.0.1",
     "# Value to indicate the port to communicate with server via socket, specify a value above 1024\n"
@@ -138,7 +138,7 @@ def ReplaceLastCharacterIfIsEmptySpace(str):
         str   - Required  : strigns to process (String)
     @return:  the str processed
     """
-    if str[-1] == ' ':
+    if str[-1] == ' ': #also use isspace() method
        #print("Last character is ' ' ")
        character = random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
        # Replace last character of string with 'character'

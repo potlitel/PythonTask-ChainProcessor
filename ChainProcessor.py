@@ -16,9 +16,11 @@ def GenerateRandomAlphabeticalString():
     ChainsToProcessOnServer = []
     str1 = ""
     lenght = random.randint(int(utils.minchainlenght),int(utils.maxchainlenght)) #longitug de la cadena a generar varía aleatoriamente entre 50 y 100 caracteres
+    val = int(lenght)/2
     for i in range(lenght):
         str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
-        if i == random.randint(1,lenght-5) or i % 2 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
+        #if i == random.randint(1,lenght-5) or i % 20 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
+        if i == random.randint(2,70/2) or i == 70/2 or i % 20 == 0:
             #str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
             str1+=''.ljust(random.randint(3,5), " ") #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"

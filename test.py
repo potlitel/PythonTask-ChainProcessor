@@ -1,6 +1,7 @@
 from itertools import chain
 import random
 import string
+from turtle import clear
 
 def addChar(text,char,place):
   return text[:place] + char + text[place:]
@@ -21,13 +22,18 @@ def IsSequenceRepeated(content,letter,maximum):
     return result
 
 str1 = ""
-for i in range(10):
+for i in range(70):
     str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
-    #print('{0} {1}'.format('random choice ',str1))
-    if i == random.randint(1,8) or i % 2 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
-        #str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
-        str1+=''.ljust(random.randint(3,5), " ") #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
-        #str1 += 
-        #print("0")
-        #str1 += addChar(str1, " ", i)
-print(IsSequenceRepeated("str111eEr",'e',2))
+    #if i == random.randint(2,68) or i % 50 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
+    #    str1+=''.ljust(random.randint(3,5), " ") #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
+    if i == random.randint(2,70/2) or i == 70/2:
+        str1+=''.ljust(random.randint(3,5), " ")
+def generate_code():
+
+    return ''.join(random.choice(string.ascii_uppercase) +random.choice(string.digits)+ random.choice(('   ', '     ')) for _ in range(random.randrange(50,100)))
+str2 = generate_code()
+
+
+#list1 = [string.ascii_uppercase, string.ascii_lowercase, string.digits]
+#string_val = "".join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits + (' ' * 3)) for i in range(70))
+print(str1)
