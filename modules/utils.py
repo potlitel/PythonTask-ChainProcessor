@@ -5,6 +5,10 @@ from os.path import exists as file_exists
 from configparser import ConfigParser
 import random, socket, logging, time, re, sys, string, os
 
+#Get the configparser object
+config_object = ConfigParser()
+initValues = ""
+
 def printWithDelay(firstString, seconds):
     """
     This function print firstString, wait n seconds and print lastString  
@@ -62,11 +66,11 @@ def PostProcessingTask(content):
     data1 = content.decode(FORMAT)
     data2 = data1.split('|')
     list_length = len(data2)
-    if file_exists(initValues["filename_responseserver"]):
-        os.remove(initValues["filename_responseserver"])
+    if file_exists(filename_responseserver):
+        os.remove(filename_responseserver)
         # Initial call to print 0% progress
         time.sleep(1)
-        print('{0} {1} \u2714'.format('Storing processing result in file:', initValues["filename_responseserver"]))
+        print('{0} {1} \u2714'.format('Storing processing result in file:', filename_responseserver))
         time.sleep(1)
         printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
         for i in range(list_length):
@@ -109,13 +113,17 @@ def createConfigFile():
     initValues = config_object["AppConfig"]
     return initValues
     
-#Get the configparser object
-config_object = ConfigParser()
-initValues = ""
-#def getInitValues():
 if file_exists("config.ini"):
    config_object.read("config.ini")
    initValues = config_object["AppConfig"]
+   filename = initValues["filename"]
+   filename_responseserver = initValues["filename_responseserver"]
+   numberofchains = initValues["numberofchains"]
+   minchainlenght = initValues["minchainlenght"]
+   maxchainlenght = initValues["maxchainlenght"]
+   ip_server = initValues["ip_server"]
+   port_server = initValues["port_server"]
+   incoming_connections = initValues["incoming_connections"]
 else:
     createConfigFile()
 #python configparser to dict (google search)
@@ -145,7 +153,7 @@ def writeChainToFile(chain):
     @return:  None.
     """
     try:
-        with open(initValues["filename"], 'a') as f:
+        with open(filename, 'a') as f:
             f.write(chain + '\n')
     except IOError:
         f.close()
@@ -158,7 +166,7 @@ def writeResponseFromServerToFile(response):
     @return:  None.
     """
     try:
-        with open(initValues["filename_responseserver"], 'a') as f:
+        with open(filename_responseserver, 'a') as f:
             f.write(response + "\n")
     except IOError:
         f.close()
@@ -181,7 +189,7 @@ def SendChainsViaSocket(content):
     #line to create the client socket
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #Connect to the server socket by invoking the above client socket object’s
-    client_socket.connect(('localhost', int(initValues["port_server"])))
+    client_socket.connect(('localhost', int(port_server)))
     #send text data to the server socket
     try:
         #client_socket.sendall(content.encode('utf-8'))
@@ -198,7 +206,7 @@ def SendChainsViaSocket(content):
         printWithDelay('Closing connection with server', 2)
         time.sleep(1) # Sleep for 2 seconds
         #calling function to display processing results file
-        DisplayPathToProcessingResultFile(initValues["filename_responseserver"])
+        DisplayPathToProcessingResultFile(filename_responseserver)
         #close the socket connection
         client_socket.close()
     
@@ -217,7 +225,7 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        print("Socket available at {}:{} to sending and processing this info \u2714".format(initValues["ip_server"], initValues["port_server"]))
+        print("Socket available at {}:{} to sending and processing this info \u2714".format(ip_server, port_server))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
@@ -225,3 +233,5 @@ def check_tcp_socket(host, port, s_timeout=2):
         time.sleep(2) # Sleep for 2 seconds
         #logging.exception("socket NOT available!")
         return False 
+
+#createConfigFile()

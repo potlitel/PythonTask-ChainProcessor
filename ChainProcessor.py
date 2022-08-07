@@ -15,14 +15,14 @@ def GenerateRandomAlphabeticalString():
     """
     ChainsToProcessOnServer = []
     str1 = ""
-    lenght = random.randint(int(utils.initValues["minchainlenght"]),int(utils.initValues["maxchainlenght"])) #longitug de la cadena a generar varía aleatoriamente entre 50 y 100 caracteres
+    lenght = random.randint(int(utils.minchainlenght),int(utils.maxchainlenght)) #longitug de la cadena a generar varía aleatoriamente entre 50 y 100 caracteres
     for i in range(lenght):
         str1 += random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits)
         if i == random.randint(1,lenght-5) or i % 2 == 0: #obtenemos una posicion random entre 1 y la longitud de la cadena a generar(excepto el final de la misma)
             #str1+=''.ljust(random.randint(3,5)) #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
             str1+=''.ljust(random.randint(3,5), " ") #insertamos 3 ó 5 espacios vacíos en dicha posición de longitud aleatoria
     #we cut the generated chain to a maximum of the length allowed in the key "maxChainLenght"
-    cutted_str = str1[:int(utils.initValues["maxchainlenght"])]    
+    cutted_str = str1[:int(utils.maxchainlenght)]    
     cutted_str = utils.ReplaceLastCharacterIfIsEmptySpace(cutted_str)
     # add cutted_str to arrary that contains the chains to be processed
     ChainsToProcessOnServer.append(cutted_str)
@@ -39,11 +39,11 @@ def SendChainsToSocketServer(chaintToProcess):
     @return:  None.
     """
     #verify if socket is available
-    socket_available = utils.check_tcp_socket('localhost', int(utils.initValues["port_server"]),2)
+    socket_available = utils.check_tcp_socket('localhost', int(utils.port_server),2)
     if socket_available:
         #utils.SendChainsViaSocket('Content sending from client')
         """ Opening and reading the file data. """
-        file = open("chains.txt", "r")
+        file = open(utils.filename, "r")
         data = file.read()
         utils.SendChainsViaSocket(data)
     else:
@@ -59,10 +59,10 @@ def GenerateCharacterStringIntoFile(totalChains):
         totalChains   - Required  : total character strings to generate (String)
     @return:  None.
     """
-    print("\nGenerating a total of {} character strings".format(int(utils.initValues["numberofchains"])))
+    print("\nGenerating a total of {} character strings".format(int(utils.numberofchains)))
     # verify if chains.txt exist, in positive case, we proced to deleted
-    if utils.file_exists(utils.initValues["filename"]):
-        os.remove(utils.initValues["filename"])
+    if utils.file_exists(utils.filename):
+        os.remove(utils.filename)
     for i in range(totalChains):
         chaintToProcess=GenerateRandomAlphabeticalString()
     SendChainsToSocketServer(chaintToProcess)
@@ -77,7 +77,7 @@ def Main():
         utils.time.sleep(2)  # Sleep for 2 seconds
         utils.createConfigFile()
         utils.time.sleep(2)  # Sleep for 2 seconds
-    numberofchains = int(utils.initValues["numberofchains"])
+    numberofchains = int(utils.numberofchains)
     GenerateCharacterStringIntoFile(numberofchains)
 
 Main()

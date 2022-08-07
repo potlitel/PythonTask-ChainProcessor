@@ -17,8 +17,8 @@ def ProcessStringsCharacters(content):
     list_length = len(data)
     for i in range(list_length-1):
         weighting_value = textProcessingUtils.getChainWeighting(data[i])
-        data[i] = '{0} {1} {2}'.format(data[i], 'Weighting value:',weighting_value)
-    print(data)             
+        data[i] = '{0} {1} {2}'.format(data[i], 'Weighting:',weighting_value)
+    #print(data)             
     #convert a list of strings to a bytearray
     a = '|'.join(data)
     response = bytearray(a.encode('utf-8'))
@@ -32,10 +32,10 @@ def getServerSocketConnection():
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     # Bind the socket to the port
     #server_address = ((string(utils.initValues["ip_server"]),utils.initValues["port_server"]))
-    server_address = (('localhost',int(utils.initValues["port_server"])))
+    server_address = (('localhost',int(utils.port_server)))
     sock.bind(server_address)
     # Listen for incoming connections and configure how many client the server can listen simultaneously
-    sock.listen(int(utils.initValues["incoming_connections"]))
+    sock.listen(int(utils.incoming_connections))
     return sock
 
 def ReceivedChainsAndSendResponse():
@@ -75,7 +75,7 @@ def Main():
     utils.createConfigFile()
     utils.time.sleep(2)
     if not utils.file_exists("logs"):       
-        print(False)
+        #print(False)
         #create folder logs
         os.mkdir("logs")
         #create ini file
