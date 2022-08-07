@@ -50,13 +50,13 @@ def SendChainsToSocketServer(chaintToProcess):
         """ Opening and reading the file data. """
         file = open(utils.filename, "r")
         data = file.read()
-        logger.info("Getting content to send to the server side to be processed.")
+        print("Getting content to send to the server side to be processed.")
         utils.time.sleep(2)
         utils.SendChainsViaSocket(data)
     else:
         #utils.logging.exception("Socket not available to sending and processing this info")
         utils.time.sleep(2) # Sleep for 2 seconds
-        logger.exception("Launch ProcessingServer.py (Server side app) and try again.")
+        print("Launch ProcessingServer.py (Server side app) and try again.")
         utils.time.sleep(2) # Sleep for 2 seconds
        
 def GenerateCharacterStringIntoFile(totalChains):
@@ -66,7 +66,7 @@ def GenerateCharacterStringIntoFile(totalChains):
         totalChains   - Required  : total character strings to generate (String)
     @return:  None.
     """
-    logger.info("Generating a total of {} character strings".format(int(utils.numberofchains)))
+    print("Generating a total of {} character strings".format(int(utils.numberofchains)))
     # verify if chains.txt exist, in positive case, we proced to deleted
     if utils.file_exists(utils.filename):
         os.remove(utils.filename)

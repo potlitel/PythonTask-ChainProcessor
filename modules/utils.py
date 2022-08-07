@@ -58,7 +58,7 @@ def DisplayPathToProcessingResultFile(fileNameResults):
     @return:  None.
     """
     ROOT_DIR = os.path.abspath(os.curdir)
-    logger.info('{0} {1} '.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
+    print('{0} {1}'.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
     time.sleep(2)
     
 def PostProcessingTask(content):
@@ -74,16 +74,16 @@ def PostProcessingTask(content):
     list_length = len(data2)
     if file_exists(filename_responseserver):
         os.remove(filename_responseserver)
-        # Initial call to print 0% progress
-        time.sleep(1)
-        logger.info('{0} {1} \u2714'.format('Storing processing result in file:', filename_responseserver))
-        time.sleep(1)
-        printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
-        for i in range(list_length):
-            writeResponseFromServerToFile(data2[i])
-            time.sleep(0.04)
-            # Update Progress Bar
-            printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
+    # Initial call to print 0% progress
+    time.sleep(1)
+    print('{0} {1}'.format('Storing processing result in file:', filename_responseserver))
+    time.sleep(1)
+    printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
+    for i in range(list_length):
+        writeResponseFromServerToFile(data2[i])
+        time.sleep(0.04)
+        # Update Progress Bar
+        printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
 
 def createConfigFile():
     """
@@ -113,7 +113,7 @@ def createConfigFile():
         with open('config.ini', 'w') as conf:
             config_object.write(conf)
     except IOError:
-        logger.fatal('Unable to create configuration file on disk.')
+        print('Unable to create configuration file on disk.')
         time.sleep(2)
     #call function to read this values
     config_object.read("config.ini")
@@ -163,7 +163,7 @@ def writeChainToFile(chain):
         with open(filename, 'a') as f:
             f.write(chain + '\n')
     except IOError:
-        logger.fatal('Unable to create {0} file on disk'.format(filename))
+        print('Unable to create {0} file on disk'.format(filename))
         time.sleep(2)
         f.close()
         
@@ -178,7 +178,7 @@ def writeResponseFromServerToFile(response):
         with open(filename_responseserver, 'a') as f:
             f.write(response + "\n")
     except IOError:
-        logger.fatal('Unable to create {0} file on disk'.format(filename_responseserver))
+        print('Unable to create {0} file on disk'.format(filename_responseserver))
         time.sleep(2)
         f.close()
         
@@ -206,18 +206,18 @@ def SendChainsViaSocket(content):
         #client_socket.sendall(content.encode('utf-8'))
         client_socket.send(content.encode(FORMAT))
         #printWithDelay("Sending content to server", 2)
-        logger.info("Content successfully sent to server")
+        print("Content successfully sent to server")
         time.sleep(1) # Sleep for 2 seconds
         # receiving the response
         data = client_socket.recv(10000024)
         time.sleep(1)
         #printWithDelay("Receiving processing result from server", 2)
-        logger.info("Receiving processing result from server")
+        print("Receiving processing result from server")
         time.sleep(1)
         PostProcessingTask(data)
     finally:
         #printWithDelay('Closing connection with server', 2)
-        logger.info("Closing connection with server")
+        print("Closing connection with server")
         time.sleep(1) # Sleep for 2 seconds
         #calling function to display processing results file
         DisplayPathToProcessingResultFile(filename_responseserver)
@@ -239,11 +239,11 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        logger.info("Socket available at {}:{} to sending and processing this info \u2714".format(ip_server, port_server))
+        print("Socket available at {}:{} to sending and processing this info \u2714".format(ip_server, port_server))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
-        logger.error("Socket not available to sending and processing this info")
+        print("Socket not available to sending and processing this info")
         time.sleep(2) # Sleep for 2 seconds
         #logging.exception("socket NOT available!")
         return False 

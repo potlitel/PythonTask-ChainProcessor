@@ -68,7 +68,7 @@ def getChainWeighting(chain):
         sumValue = processedLetters + processedNumbers
         Weighting = sumValue / result['space']
     else:
-        logger.warning('Double {0} rule detected in chain: {1}'.format('letter',chain))
+        print('Double {0} rule detected in chain: {1}'.format('letter',chain))
         #utils.time.sleep(2)
         Weighting = 100
     return Weighting

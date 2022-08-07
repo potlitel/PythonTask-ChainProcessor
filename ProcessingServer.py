@@ -51,20 +51,21 @@ def ReceivedChainsAndSendResponse():
     sock = getServerSocketConnection()
     while True:
         # Wait for a connection
-        logger.info('Waiting for character strings to be processed sent by the client')
+        print('Waiting for character strings to be processed sent by the client')
         utils.time.sleep(1)
         connection, client_address = sock.accept()
         try:
-            logger.info('connection from', client_address)
+            print('connection from', client_address)
             utils.time.sleep(1)
             # Receive the data in chunks and retransmit it
             while True:
                 data = connection.recv(10000024).decode(FORMAT)
                 if data:
                     response = ProcessStringsCharacters(data)
+                    print(response)
                     connection.sendall(response)
                 else:
-                    logger.info('no data from', client_address)
+                    print('no data from', client_address)
                     utils.time.sleep(1)
                     break
         finally:
