@@ -287,7 +287,7 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        logger.info("Socket available at {}:{} to sending and processing this info \u2714".format(dict_init['ip_server'], dict_init['port_server']))
+        logger.info("Socket available at {}:{} to sending and processing this info ".format(dict_init['ip_server'], dict_init['port_server']))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
