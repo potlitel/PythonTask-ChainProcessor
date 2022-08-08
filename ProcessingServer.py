@@ -9,7 +9,9 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(leve
 # root logger
 logger = logging.getLogger("ProcessingServer")
 
-def ProcessStringsCharacters(content):
+dict_init = utils.new_func(utils.config_object)
+
+def ProcessStringsCharacters(content, dict_init):
     """
     This function process content sending by socket client
     @return:  The content processed.
@@ -18,7 +20,7 @@ def ProcessStringsCharacters(content):
     data = content.split('\n')
     list_length = len(data)
     for i in range(list_length-1):
-        weighting_value = textProcessingUtils.getChainWeighting(data[i])
+        weighting_value = textProcessingUtils.getChainWeighting(data[i], dict_init)
         data[i] = '{0} {1} {2}'.format(data[i], 'Weighting:',weighting_value)
     #print(data)             
     #convert a list of strings to a bytearray
@@ -34,10 +36,10 @@ def getServerSocketConnection():
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     # Bind the socket to the port
     #server_address = ((string(utils.initValues["ip_server"]),utils.initValues["port_server"]))
-    server_address = (('localhost',int(utils.port_server)))
+    server_address = (('localhost',int(dict_init['port_server'])))
     sock.bind(server_address)
     # Listen for incoming connections and configure how many client the server can listen simultaneously
-    sock.listen(int(utils.incoming_connections))
+    sock.listen(int(dict_init['incoming_connections']))
     return sock
 
 def ReceivedChainsAndSendResponse():
@@ -50,6 +52,8 @@ def ReceivedChainsAndSendResponse():
     # Create a TCP/IP socket
     sock = getServerSocketConnection()
     while True:
+        # update init values in case they are modifies
+        dict_init = utils.new_func(utils.config_object)
         # Wait for a connection
         print('Waiting for character strings to be processed sent by the client')
         utils.time.sleep(1)
@@ -61,8 +65,8 @@ def ReceivedChainsAndSendResponse():
             while True:
                 data = connection.recv(10000024).decode(FORMAT)
                 if data:
-                    response = ProcessStringsCharacters(data)
-                    print(response)
+                    response = ProcessStringsCharacters(data, dict_init)
+                    #print(response)
                     connection.sendall(response)
                 else:
                     print('no data from', client_address)
@@ -78,13 +82,9 @@ def Main():
     then the socket server starts the listening process
     @return:  None.
     """
-    utils.createConfigFile()
     utils.time.sleep(1)
     if not utils.file_exists("logs"):       
-        #print(False)
-        #create folder logs
         os.mkdir("logs")
-        #create ini file
     if not utils.file_exists("config.ini"):
         utils.time.sleep(1)
         utils.createConfigFile()

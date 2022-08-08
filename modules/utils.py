@@ -13,6 +13,16 @@ logger = logging.getLogger(__name__)
 #Get the configparser object
 config_object = ConfigParser()
 initValues = ""
+filename = ""
+filename_responseserver = ""
+numberofchains = ""
+minchainlenght = ""
+maxchainlenght = ""
+ip_server = ""
+port_server = ""
+incoming_connections = ""
+letter_to_detect = ""
+maximum_ocurrence_value = ""
 
 def printWithDelay(firstString, seconds):
     """
@@ -72,11 +82,11 @@ def PostProcessingTask(content):
     data1 = content.decode(FORMAT)
     data2 = data1.split('|')
     list_length = len(data2)
-    if file_exists(filename_responseserver):
-        os.remove(filename_responseserver)
+    if file_exists(dict_init['filename_responseserver']):
+        os.remove(dict_init['filename_responseserver'])
     # Initial call to print 0% progress
     time.sleep(1)
-    print('{0} {1}'.format('Storing processing result in file:', filename_responseserver))
+    print('{0} {1}'.format('Storing processing result in file:', dict_init['filename_responseserver']))
     time.sleep(1)
     printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
     for i in range(list_length):
@@ -84,7 +94,7 @@ def PostProcessingTask(content):
         time.sleep(0.04)
         # Update Progress Bar
         printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
-
+        
 def createConfigFile():
     """
     This function is responsible for creating the configuration file, if it does not exist
@@ -106,12 +116,17 @@ def createConfigFile():
     "# Value to indicate the port to communicate with server via socket, specify a value above 1024\n"
     "port_server" : "9085",
     "# incoming connections that server can listen simultaneously\n"
-    "incoming_connections" : "1"
+    "incoming_connections" : "1",
+    "# incoming connections that server can listen simultaneously\n"
+    "letter_to_detect" : "a",
+    "# incoming connections that server can listen simultaneously\n"
+    "maximum_ocurrence_value" : "2"
     }
     #Write the above sections to config.ini file
     try:
         with open('config.ini', 'w') as conf:
             config_object.write(conf)
+        print('Created configuration file on disk.')
     except IOError:
         print('Unable to create configuration file on disk.')
         time.sleep(2)
@@ -120,21 +135,40 @@ def createConfigFile():
     initValues = config_object["AppConfig"]
     return initValues
     
+def new_func(config_object):
+    dict = {}
+    config_object.read("config.ini")
+    initValues = config_object["AppConfig"]
+    dict['filename'] = initValues["filename"]
+    dict['filename_responseserver'] = initValues["filename_responseserver"]
+    dict['numberofchains'] = initValues["numberofchains"]
+    dict['minchainlenght'] = initValues["minchainlenght"]
+    dict['maxchainlenght'] = initValues["maxchainlenght"]
+    dict['ip_server'] = initValues["ip_server"]
+    dict['port_server'] = initValues["port_server"]
+    dict['incoming_connections'] = initValues["incoming_connections"]
+    dict['letter_to_detect'] = initValues["letter_to_detect"]
+    dict['maximum_ocurrence_value'] = initValues["maximum_ocurrence_value"]
+    return dict
+
 if file_exists("config.ini"):
-   config_object.read("config.ini")
-   initValues = config_object["AppConfig"]
-   filename = initValues["filename"]
-   filename_responseserver = initValues["filename_responseserver"]
-   numberofchains = initValues["numberofchains"]
-   minchainlenght = initValues["minchainlenght"]
-   maxchainlenght = initValues["maxchainlenght"]
-   ip_server = initValues["ip_server"]
-   port_server = initValues["port_server"]
-   incoming_connections = initValues["incoming_connections"]
+   dict_init = new_func(config_object)
 else:
     createConfigFile()
+    config_object.read("config.ini")
+    initValues = config_object["AppConfig"]
+    filename = initValues["filename"]
+    filename_responseserver = initValues["filename_responseserver"]
+    numberofchains = initValues["numberofchains"]
+    minchainlenght = initValues["minchainlenght"]
+    maxchainlenght = initValues["maxchainlenght"]
+    ip_server = initValues["ip_server"]
+    port_server = initValues["port_server"]
+    incoming_connections = initValues["incoming_connections"]
+    letter_to_detect = initValues["letter_to_detect"]
+    maximum_ocurrence_value = initValues["maximum_ocurrence_value"]
 #python configparser to dict (google search)
-config_parser_dict = {s:dict(config_object.items(s)) for s in config_object.sections()}
+#config_parser_dict = {s:dict(config_object.items(s)) for s in config_object.sections()}
 #print(config_parser_dict["AppConfig"]["ip_server"])
                   
 def ReplaceLastCharacterIfIsEmptySpace(str):
@@ -160,10 +194,10 @@ def writeChainToFile(chain):
     @return:  None.
     """
     try:
-        with open(filename, 'a') as f:
+        with open(dict_init['filename'], 'a') as f:
             f.write(chain + '\n')
     except IOError:
-        print('Unable to create {0} file on disk'.format(filename))
+        print('Unable to create {0} file on disk'.format(dict_init['filename']))
         time.sleep(2)
         f.close()
         
@@ -175,10 +209,10 @@ def writeResponseFromServerToFile(response):
     @return:  None.
     """
     try:
-        with open(filename_responseserver, 'a') as f:
+        with open(dict_init['filename_responseserver'], 'a') as f:
             f.write(response + "\n")
     except IOError:
-        print('Unable to create {0} file on disk'.format(filename_responseserver))
+        print('Unable to create {0} file on disk'.format(dict_init['filename_responseserver']))
         time.sleep(2)
         f.close()
         
@@ -200,7 +234,7 @@ def SendChainsViaSocket(content):
     #line to create the client socket
     client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     #Connect to the server socket by invoking the above client socket object’s
-    client_socket.connect(('localhost', int(port_server)))
+    client_socket.connect(('localhost', int(dict_init['port_server'])))
     #send text data to the server socket
     try:
         #client_socket.sendall(content.encode('utf-8'))
@@ -220,7 +254,7 @@ def SendChainsViaSocket(content):
         print("Closing connection with server")
         time.sleep(1) # Sleep for 2 seconds
         #calling function to display processing results file
-        DisplayPathToProcessingResultFile(filename_responseserver)
+        DisplayPathToProcessingResultFile(dict_init['filename_responseserver'])
         #close the socket connection
         client_socket.close()
     
@@ -239,7 +273,7 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        print("Socket available at {}:{} to sending and processing this info \u2714".format(ip_server, port_server))
+        print("Socket available at {}:{} to sending and processing this info \u2714".format(dict_init['ip_server'], dict_init['port_server']))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):

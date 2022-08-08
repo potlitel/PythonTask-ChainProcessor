@@ -1,7 +1,9 @@
 from itertools import chain
+import os
 import random
 import string
 from turtle import clear
+from os.path import exists as file_exists
 
 def addChar(text,char,place):
   return text[:place] + char + text[place:]
@@ -34,6 +36,8 @@ def generate_code():
 str2 = generate_code()
 
 
+
+val = file_exists("config.ini")
 #list1 = [string.ascii_uppercase, string.ascii_lowercase, string.digits]
 #string_val = "".join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits + (' ' * 3)) for i in range(70))
-print(str1)
+print(val)

@@ -10,6 +10,8 @@ logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(leve
 # root logger
 logger = logging.getLogger(__name__)
 
+dict_init = utils.new_func(utils.config_object)
+
 def StringCountElements(content,counter):
     """
     This function counts the number of elements(letters, digits, whitespaces and other) in the string
@@ -42,12 +44,14 @@ def IsSequenceRepeated(content,letter,maximum):
         maximum   - Required  : maximum ocurrence value of the string (Int)
     """
     normalized_content = content.lower()
+    #letter = string(letter)
+    maximum = int(maximum)
     sequence = letter * maximum
     result = normalized_content.find(sequence)
    
     return result
 
-def getChainWeighting(chain):
+def getChainWeighting(chain, dict_init):
     """
     This function calculates the Weighting of the chain received via parameter
     @params:
@@ -60,7 +64,7 @@ def getChainWeighting(chain):
         'space': 0,
         'other': 0
     }   
-    existSequence = IsSequenceRepeated(chain,'a',2)
+    existSequence = IsSequenceRepeated(chain,dict_init['letter_to_detect'],dict_init['maximum_ocurrence_value'])
     if existSequence == -1:
         result = StringCountElements(chain, mcounter)
         processedLetters = result['letters'] * 1.5
@@ -68,7 +72,8 @@ def getChainWeighting(chain):
         sumValue = processedLetters + processedNumbers
         Weighting = sumValue / result['space']
     else:
-        print('Double {0} rule detected in chain: {1}'.format('letter',chain))
+        #print('Double {0} rule detected in chain: {1}'.format(utils.letter_to_detect,chain))
+        print('Rule detected: {0} .Character "{1}" appears {2} times'.format(chain, dict_init['letter_to_detect'], dict_init['maximum_ocurrence_value']))
         #utils.time.sleep(2)
         Weighting = 100
     return Weighting
