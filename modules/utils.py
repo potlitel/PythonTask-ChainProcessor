@@ -99,12 +99,12 @@ def PostProcessingTask(content):
     time.sleep(1)
     print('{0} {1}'.format('Storing processing result in file:', dict_init['filename_responseserver']))
     time.sleep(1)
-    printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
+    printProgressBar(0, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 80)
     for i in range(list_length):
         writeResponseFromServerToFile(data2[i])
         time.sleep(0.04)
         # Update Progress Bar
-        printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 50)
+        printProgressBar(i + 1, list_length, prefix = 'Storage progress:', suffix = 'Complete', length = 80)
         
 def createConfigFile():
     """

@@ -5,7 +5,7 @@ import os, socket, logging
 from modules import utils, textProcessingUtils
 
 #Create and configure logger
-utils.customlogger("ProcessingServer")
+logger = utils.customlogger("ProcessingServer")
 
 dict_init = utils.new_func(utils.config_object)
 
@@ -38,6 +38,7 @@ def getServerSocketConnection():
     sock.bind(server_address)
     # Listen for incoming connections and configure how many client the server can listen simultaneously
     sock.listen(int(dict_init['incoming_connections']))
+    logger.info('Socker server listenning on {0}:{1}'.format(dict_init['ip_server'],int(dict_init['port_server'])))
     return sock
 
 def ReceivedChainsAndSendResponse():
@@ -53,11 +54,11 @@ def ReceivedChainsAndSendResponse():
         # update init values in case they are modifies
         dict_init = utils.new_func(utils.config_object)
         # Wait for a connection
-        print('Waiting for character strings to be processed sentding by the client')
+        logger.info('Waiting for character strings to be processed, sentding by the client')
         utils.time.sleep(1)
         connection, client_address = sock.accept()
         try:
-            print('connection from', client_address)
+            logger.info('connection from {0}'.format(client_address))
             utils.time.sleep(1)
             # Receive the data in chunks and retransmit it
             while True:
@@ -67,7 +68,7 @@ def ReceivedChainsAndSendResponse():
                     #print(response)
                     connection.sendall(response)
                 else:
-                    print('no data from', client_address)
+                    logger.info('no data from '.format(client_address))
                     utils.time.sleep(1)
                     break
         finally:
