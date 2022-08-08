@@ -6,9 +6,7 @@ import string, logging
 from modules import utils
 
 #Create and configure logger
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
-# root logger
-logger = logging.getLogger(__name__)
+utils.customlogger(__name__)
 
 dict_init = utils.new_func(utils.config_object)
 

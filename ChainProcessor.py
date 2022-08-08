@@ -6,9 +6,8 @@ import random, string, os, logging
 from modules import utils
 
 #Create and configure logger
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
-# root logger
-logger = logging.getLogger("ChainProcessor")
+logger = utils.customlogger("ChainProcessor")
+
 dict_init = utils.new_func(utils.config_object)
 
 def GenerateRandomAlphabeticalString():
@@ -50,13 +49,13 @@ def SendChainsToSocketServer(chaintToProcess):
         """ Opening and reading the file data. """
         file = open(dict_init['filename'], "r")
         data = file.read()
-        print("Getting content to send to the server side to be processed.")
+        logger.info("Getting content to send to the server side to be processed.")
         utils.time.sleep(2)
         utils.SendChainsViaSocket(data)
     else:
         #utils.logging.exception("Socket not available to sending and processing this info")
         utils.time.sleep(2) # Sleep for 2 seconds
-        print("Launch ProcessingServer.py (Server side app) and try again.")
+        logger.info("Launch ProcessingServer.py (Server side app) and try again.")
         utils.time.sleep(2) # Sleep for 2 seconds
        
 def GenerateCharacterStringIntoFile(totalChains):
@@ -66,11 +65,11 @@ def GenerateCharacterStringIntoFile(totalChains):
         totalChains   - Required  : total character strings to generate (String)
     @return:  None.
     """
-    print("Generating a total of {} character strings".format(int(dict_init['numberofchains'])))
+    logger.info("Generating a total of {} character strings".format(int(dict_init['numberofchains'])))
     utils.time.sleep(1)  # Sleep for 2 seconds
-    print("with the followind rules:")
-    print("         Letter to detect :{}".format(dict_init['letter_to_detect']))
-    print("         Maximum ocurrence value :{}".format(int(dict_init['maximum_ocurrence_value'])))
+    logger.info("with the followind rules:")
+    logger.info("         Letter to detect :{}".format(dict_init['letter_to_detect']))
+    logger.info("         Maximum ocurrence value :{}".format(int(dict_init['maximum_ocurrence_value'])))
     # verify if chains.txt exist, in positive case, we proced to deleted
     if utils.file_exists(dict_init['filename']):
         os.remove(dict_init['filename'])

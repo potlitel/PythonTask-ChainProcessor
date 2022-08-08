@@ -5,9 +5,7 @@ import os, socket, logging
 from modules import utils, textProcessingUtils
 
 #Create and configure logger
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
-# root logger
-logger = logging.getLogger("ProcessingServer")
+utils.customlogger("ProcessingServer")
 
 dict_init = utils.new_func(utils.config_object)
 
@@ -55,7 +53,7 @@ def ReceivedChainsAndSendResponse():
         # update init values in case they are modifies
         dict_init = utils.new_func(utils.config_object)
         # Wait for a connection
-        print('Waiting for character strings to be processed sent by the client')
+        print('Waiting for character strings to be processed sentding by the client')
         utils.time.sleep(1)
         connection, client_address = sock.accept()
         try:

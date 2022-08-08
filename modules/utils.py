@@ -5,11 +5,6 @@ from os.path import exists as file_exists
 from configparser import ConfigParser
 import random, socket, logging, time, re, sys, string, os, logging
 
-#Create and configure logger
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
-# root logger
-logger = logging.getLogger(__name__)
-
 #Get the configparser object
 config_object = ConfigParser()
 initValues = ""
@@ -23,6 +18,22 @@ port_server = ""
 incoming_connections = ""
 letter_to_detect = ""
 maximum_ocurrence_value = ""
+
+def customlogger(loggerName):
+    """
+    This function print firstString, wait n seconds and print lastString  
+    @params:
+        loggerName   - Required  : logger name (String)
+    @return:  custom logger object.
+    """
+    #Create and configure logger
+    logging.basicConfig(level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
+    # root logger
+    logger = logging.getLogger(loggerName)
+    return logger
+
+#Create and configure logger
+customlogger(__name__)
 
 def printWithDelay(firstString, seconds):
     """
