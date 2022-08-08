@@ -33,7 +33,7 @@ def customlogger(loggerName):
     return logger
 
 #Create and configure logger
-customlogger(__name__)
+logger = customlogger(__name__)
 
 def printWithDelay(firstString, seconds):
     """
@@ -79,7 +79,7 @@ def DisplayPathToProcessingResultFile(fileNameResults):
     @return:  None.
     """
     ROOT_DIR = os.path.abspath(os.curdir)
-    print('{0} {1}'.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
+    logger.info('{0} {1}'.format('See processing results on file:', os.path.join(ROOT_DIR, fileNameResults)))
     time.sleep(2)
     
 def PostProcessingTask(content):
@@ -137,9 +137,9 @@ def createConfigFile():
     try:
         with open('config.ini', 'w') as conf:
             config_object.write(conf)
-        print('Created configuration file on disk.')
+        logger.info('Created configuration file on disk.')
     except IOError:
-        print('Unable to create configuration file on disk.')
+        logger.critical('Unable to create configuration file on disk.')
         time.sleep(2)
     #call function to read this values
     config_object.read("config.ini")
@@ -208,7 +208,7 @@ def writeChainToFile(chain):
         with open(dict_init['filename'], 'a') as f:
             f.write(chain + '\n')
     except IOError:
-        print('Unable to create {0} file on disk'.format(dict_init['filename']))
+        logger.critical('Unable to create {0} file on disk'.format(dict_init['filename']))
         time.sleep(2)
         f.close()
         
@@ -223,7 +223,7 @@ def writeResponseFromServerToFile(response):
         with open(dict_init['filename_responseserver'], 'a') as f:
             f.write(response + "\n")
     except IOError:
-        print('Unable to create {0} file on disk'.format(dict_init['filename_responseserver']))
+        logger.critical('Unable to create {0} file on disk'.format(dict_init['filename_responseserver']))
         time.sleep(2)
         f.close()
         
@@ -251,18 +251,18 @@ def SendChainsViaSocket(content):
         #client_socket.sendall(content.encode('utf-8'))
         client_socket.send(content.encode(FORMAT))
         #printWithDelay("Sending content to server", 2)
-        print("Content successfully sent to server")
+        logger.info("Content successfully sent to server")
         time.sleep(1) # Sleep for 2 seconds
         # receiving the response
         data = client_socket.recv(10000024)
         time.sleep(1)
         #printWithDelay("Receiving processing result from server", 2)
-        print("Receiving processing result from server")
+        logger.info("Receiving processing result from server")
         time.sleep(1)
         PostProcessingTask(data)
     finally:
         #printWithDelay('Closing connection with server', 2)
-        print("Closing connection with server")
+        logger.info("Closing connection with server")
         time.sleep(1) # Sleep for 2 seconds
         #calling function to display processing results file
         DisplayPathToProcessingResultFile(dict_init['filename_responseserver'])
@@ -284,11 +284,11 @@ def check_tcp_socket(host, port, s_timeout=2):
         tcp_socket.settimeout(s_timeout)
         tcp_socket.connect((host, port))
         tcp_socket.close()
-        print("Socket available at {}:{} to sending and processing this info \u2714".format(dict_init['ip_server'], dict_init['port_server']))
+        logger.info("Socket available at {}:{} to sending and processing this info \u2714".format(dict_init['ip_server'], dict_init['port_server']))
         time.sleep(2) # Sleep for 2 seconds
         return True
     except (socket.timeout, socket.error):
-        print("Socket not available to sending and processing this info")
+        logger.warning("Socket not available to sending and processing this info")
         time.sleep(2) # Sleep for 2 seconds
         #logging.exception("socket NOT available!")
         return False 

@@ -6,7 +6,7 @@ import string, logging
 from modules import utils
 
 #Create and configure logger
-utils.customlogger(__name__)
+logger = utils.customlogger(__name__)
 
 dict_init = utils.new_func(utils.config_object)
 
@@ -71,7 +71,7 @@ def getChainWeighting(chain, dict_init):
         Weighting = sumValue / result['space']
     else:
         #print('Double {0} rule detected in chain: {1}'.format(utils.letter_to_detect,chain))
-        print('Rule detected: {0} .Character "{1}" appears {2} times'.format(chain, dict_init['letter_to_detect'], dict_init['maximum_ocurrence_value']))
+        logger.warning('Rule detected: {0} .Character "{1}" appears {2} times'.format(chain, dict_init['letter_to_detect'], dict_init['maximum_ocurrence_value']))
         #utils.time.sleep(2)
         Weighting = 100
     return Weighting

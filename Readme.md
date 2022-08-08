@@ -45,15 +45,19 @@ config.ini:
     # value to indicate total character string to generate
     numberofchains = 500
     # value to indicate minimum length value in each generated string
-    minchainlenght = 10
+    minchainlenght = 50
     # value to indicate maximum length value in each generated string
-    maxchainlenght = 45
+    maxchainlenght = 100
     # Value to indicate the server name to communicate with server via socket
     ip_server = 127.0.0.1
     # Value to indicate the port to communicate with server via socket, specify a value above 1024
-    port_server = 8085
+    port_server = 9085
     # incoming connections that server can listen simultaneously
     incoming_connections = 1
+    # incoming connections that server can listen simultaneously
+    letter_to_detect = z
+    # incoming connections that server can listen simultaneously
+    maximum_ocurrence_value = 3
     
 **_NOTE:_**  In case of specifying in the configuration file a port that is in use (port_server), we should obtain an error similar to the following:
 ```python
@@ -62,14 +66,6 @@ Traceback (most recent call last):
   File "G:\path\to\project_folder\ProcessingServer.py", line 11, in <module>
     sock.bind(server_address)
 OSError: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions
-```
-**_NOTE:_**  In case of specifying in the configuration file a port that is in use (port_server), we should obtain an error similar to the following:
-```python
-python ProcessingServer.py
-Traceback (most recent call last):
-  File "G:\path\to\project_folder\ProcessingServer.py", line 11, in <module>
-    sock.bind(server_address)
-OSError: [WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted
 ```
 
 ## Usage
