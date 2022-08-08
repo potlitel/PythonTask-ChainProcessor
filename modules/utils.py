@@ -141,6 +141,7 @@ def createConfigFile():
     except IOError:
         logger.critical('Unable to create configuration file on disk.')
         time.sleep(2)
+        sys.exit(1)
     #call function to read this values
     config_object.read("config.ini")
     initValues = config_object["AppConfig"]
@@ -211,6 +212,7 @@ def writeChainToFile(chain):
         logger.critical('Unable to create {0} file on disk'.format(dict_init['filename']))
         time.sleep(2)
         f.close()
+        sys.exit(1)
         
 def writeResponseFromServerToFile(response):
     """
@@ -226,6 +228,7 @@ def writeResponseFromServerToFile(response):
         logger.critical('Unable to create {0} file on disk'.format(dict_init['filename_responseserver']))
         time.sleep(2)
         f.close()
+        sys.exit(1)
         
 def saveChainToFile(chain):
     """
